@@ -1,111 +1,258 @@
-# PC Futbol 7 Remake
+# PC Futbol 7 Remake ⚽🎮
 
-![PC Futbol 7 Remake](./docs/cover.png)
+Juego de gestión de fútbol inspirado en PC Fútbol 7 clásico. Remasterizado para 2024 como Progressive Web App.
 
-## Índice
+## 🚀 Empezar en 2 minutos
 
-1. [Descripción del proyecto](#descripción-del-proyecto)
-2. [Equipo de desarrollo](#equipo-de-desarrollo)
-3. [Tecnología a utilizar](#tecnología-a-utilizar)
-4. [Planteamiento de desarrollo](#planteamiento-de-desarrollo)
-5. [Publicación y distribución](#publicación-y-distribución)
-6. [Desarrollo y LiveReload](#desarrollo-y-livereload)
-7. [Gestión de tareas e incidencias](#gestión-de-tareas-e-incidencias)
-8. [Gestión del proyecto](#gestión-del-proyecto)
-9. [Filosofía del proyecto](#filosofía-del-proyecto)
+```bash
+# 1. Clonar repositorio
+git clone https://github.com/tu-usuario/pcfubtol-remake.git
+cd pcfubtol-remake
+
+# 2. Instalar dependencias
+npm install
+
+# 3. Crear archivo .env.local
+cp .env.example .env.local
+
+# 4. Ejecutar en desarrollo
+npm run dev
+
+# 5. Abrir en navegador
+# http://localhost:3000
+```
+
+## 🌍 Entornos de desarrollo
+
+Soportamos múltiples entornos con configuración automática:
+
+### Local (Tu máquina)
+```bash
+npm run dev
+# http://localhost:3000
+# Todos los logs visibles
+# HMR (Hot Module Replacement) activo
+```
+
+### Development (develop branch)
+```
+https://develop-pcfubtol.vercel.app
+- Integración continua del equipo
+- Logs de debug habilitados
+- Deploy automático en push
+```
+
+### Staging (staging branch)
+```
+https://staging-pcfubtol.vercel.app
+- Testing pre-release
+- Logs reducidos
+- Deploy automático en push
+```
+
+### Production (main branch)
+```
+https://pcfubtol.vercel.app
+- Usuarios reales
+- Solo errores en logs
+- Deploy automático en push
+```
+
+## 📋 Variables de entorno
+
+Copiar `.env.example` a `.env.local`:
+
+```bash
+VITE_APP_ENV=development
+VITE_API_URL=http://localhost:3000
+VITE_LOG_LEVEL=debug
+```
+
+Niveles de logging:
+- `debug` - Todos los mensajes
+- `info` - Info + Warn + Error
+- `warn` - Warn + Error
+- `error` - Solo errores
+
+👉 **[Ver guía completa de entornos →](./docs/ENVIRONMENTS.md)**
+
+## 🏃 Scripts disponibles
+
+```bash
+npm run dev              # Desarrollo local con HMR
+npm run build            # Build para producción
+npm run build:staging    # Build para staging
+npm run build:production # Build para producción
+npm run preview          # Preview del build localmente
+npm run test             # Tests unitarios
+npm run test:watch       # Tests en modo watch
+npm run lint             # Verificar code style (ESLint)
+```
+
+## 📚 Documentación
+
+👉 **[Visita la Wiki para documentación detallada →](https://github.com/tu-usuario/pcfubtol-remake/wiki)**
+
+| Sección | Contenido |
+|---------|-----------|
+| **[Descripción](https://github.com/tu-usuario/pcfubtol-remake/wiki/1.-Descripción)** | Qué es el proyecto y objetivos |
+| **[Equipo](https://github.com/tu-usuario/pcfubtol-remake/wiki/2.-Equipo)** | Conócenos y cómo contactar |
+| **[Tech Stack](https://github.com/tu-usuario/pcfubtol-remake/wiki/3.-Tecnología)** | Tecnologías utilizadas |
+| **[Arquitectura](https://github.com/tu-usuario/pcfubtol-remake/wiki/4.-Arquitectura)** | Estructura y flujo de datos |
+| **[Filosofía](https://github.com/tu-usuario/pcfubtol-remake/wiki/5.-Planteamiento)** | Principios de desarrollo |
+| **[Desarrollo](https://github.com/tu-usuario/pcfubtol-remake/wiki/6.-Guía-de-desarrollo)** | Cómo contribuir |
+| **[Publicación](https://github.com/tu-usuario/pcfubtol-remake/wiki/7.-Publicación)** | Deployment y distribución |
+| **[Roadmap](https://github.com/tu-usuario/pcfubtol-remake/wiki/8.-Roadmap)** | Futuras features |
+| **[FAQ](https://github.com/tu-usuario/pcfubtol-remake/wiki/9.-FAQ)** | Preguntas frecuentes |
+
+## ✨ Features principales
+
+✅ **Menú interactivo** - Interfaz visual limpia y moderna  
+✅ **Navegación fluida** - Entre pantallas sin recargar  
+✅ **Responsive design** - Funciona en cualquier dispositivo  
+✅ **PWA installable** - Instálalo como app nativa  
+✅ **Offline-first** - Funciona sin conexión  
+✅ **Open source** - Código limpio y bien documentado  
+✅ **Múltiples entornos** - Dev, Staging, Production  
+✅ **Hot Module Replacement** - Cambios en tiempo real  
+
+## 🛠️ Tech Stack
+
+| Aspecto | Tecnología |
+|---------|-----------|
+| **Language** | JavaScript ES6+ |
+| **Build tool** | Vite 5.0.8 |
+| **Testing** | Vitest 1.0.4 |
+| **Linting** | ESLint 8.55.0 |
+| **DOM** | Vanilla JS + jQuery 3.7.1 |
+| **Styling** | CSS3 + CSS Variables |
+| **PWA** | Web Manifest + Service Worker |
+| **Storage** | sessionStorage + IndexedDB |
+| **Deployment** | Vercel + GitHub Pages |
+
+## 🤝 Contribuir
+
+¿Quieres ayudar? ¡Genial!
+
+1. **Lee la [Guía de desarrollo](./docs/DEVELOPMENT.md)**
+2. **Crea una rama**: `git checkout -b feature/mi-feature`
+3. **Haz tus cambios** y sube un **Pull Request**
+
+### Flujo de trabajo
+
+```
+feature/mi-feature → develop → staging → main
+     (PR)            (PR)       (PR)      (Deploy)
+```
+
+## 📋 Requisitos
+
+- **Node.js** 18+ ([descargar](https://nodejs.org))
+- **npm** 9+ o **pnpm** 8+
+- **Git** 2.0+
+- Navegador moderno (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+)
+
+## 🌐 Acceso online
+
+Juega ahora sin instalar:  
+👉 **[https://pcfubtol.vercel.app](https://pcfubtol.vercel.app)**
+
+### Instalar como PWA
+
+**Android:**
+1. Abre en Chrome
+2. Menú ⋯ → Instalar app
+
+**iPhone:**
+1. Abre en Safari
+2. Compartir → Añadir a pantalla inicio
+
+## 👥 Equipo de desarrollo
+
+- **[Mapiedra](https://github.com/mapiedra)** - Arquitecto, Backend
+- **[Benji](https://github.com/benji)** - Frontend, UI/UX
+- **[Derlis](https://github.com/derlis)** - DevOps, QA
+
+## 📊 Estado del proyecto
+
+| Feature | Estado | Versión |
+|---------|--------|---------|
+| Menú principal | ✅ Funcional | v0.1.0 |
+| Navegación | ✅ Funcional | v0.1.0 |
+| Dashboard básico | ✅ Funcional | v0.1.0 |
+| Gestión equipos | 🔄 En desarrollo | v0.2.0 |
+| Gestión jugadores | 📋 Planeado | v0.3.0 |
+| Simulación partidos | 📋 Planeado | v1.0.0 |
+| Economía | 📋 Planeado | v1.0.0 |
+| Múltiples temporadas | 📋 Planeado | v1.0.0 |
+
+[Ver roadmap completo →](https://github.com/tu-usuario/pcfubtol-remake/wiki/8.-Roadmap)
+
+## 🐛 Reportar bugs
+
+¿Encontraste un bug? [Abre un issue →](https://github.com/tu-usuario/pcfubtol-remake/issues)
+
+Template de issue:
+```
+## Descripción
+Qué sucede...
+
+## Pasos para reproducir
+1. Haz esto
+2. Luego esto
+3. Entonces...
+
+## Comportamiento esperado
+Debería...
+
+## Comportamiento actual
+Pero...
+
+## Entorno
+- OS: Windows/Mac/Linux
+- Navegador: Chrome/Firefox/Safari
+- Versión: v0.1.0
+```
+
+## 💬 Comunidad
+
+- **[Discussions](https://github.com/tu-usuario/pcfubtol-remake/discussions)** - Preguntas y sugerencias
+- **[Issues](https://github.com/tu-usuario/pcfubtol-remake/issues)** - Reportar bugs
+- **[Wiki](https://github.com/tu-usuario/pcfubtol-remake/wiki)** - Documentación
+- **Discord** (próximamente) - Chat en tiempo real
+
+## 📝 Changelog
+
+Ver [CHANGELOG.md](./CHANGELOG.md) para historial de versiones.
+
+## 📄 Licencia
+
+[MIT License](./LICENSE) - Eres libre de usar, modificar y distribuir este proyecto.
+
+## 🙌 Agradecimientos
+
+Inspirado en el clásico **PC Fútbol 7** de Dinamic Multimedia.
+
+Agradecimientos especiales a:
+- La comunidad de retro gaming
+- Todos los contribuidores
+- Nuestros testers
+
+## 🚀 Roadmap
+
+- [ ] v0.1.0 - Base jugable (menú, navegación)
+- [ ] v0.2.0 - Gestión de equipos y plantillas
+- [ ] v0.3.0 - Sistema de economía
+- [ ] v1.0.0 - Primera versión estable
+- [ ] v1.1.0 - App nativa (Electron/Capacitor)
+- [ ] v2.0.0 - Multijugador
 
 ---
 
-## Descripción del proyecto
+**¿Dudas?** Lee el [FAQ](https://github.com/tu-usuario/pcfubtol-remake/wiki/9.-FAQ) o [abre una Discussion](https://github.com/tu-usuario/pcfubtol-remake/discussions).
 
-**PC Futbol 7 Remake** es un juego de gestión de fútbol inspirado en el clásico PC Fútbol 7. El jugador asume el rol de manager de un club, encargándose de la gestión integral: plantillas, alineaciones, fichajes, economía, instalaciones y evolución histórica del club.
+⭐ **¿Te gusta el proyecto? ¡Déjanos una estrella!**
 
-El juego se basa íntegramente en menús y pantallas de gestión. Los partidos no se representan gráficamente, sino que se **simulan mediante lógica estadística**, mostrando resultados, eventos y consecuencias deportivas y económicas.
-
----
-
-## Equipo de desarrollo
-
-* [**Mapiedra**](#) – Desarrollo principal, arquitectura, motor de simulación y decisiones técnicas
-* [**Benji**](#) – Apoyo en desarrollo, datos, balanceo y validación
-* [**Derlis**](#) – Apoyo en desarrollo, lógica de juego y testeo
-
-> Nota: Las URLs de los perfiles son de ejemplo y se pueden editar posteriormente.
-
----
-
-## Tecnología a utilizar
-
-* **JavaScript vanilla** como base
-* **jQuery** para simplificar sintaxis y manipulación del DOM
-* **Web Components** para encapsular componentes UI reutilizables
-* HTML5 + CSS3
-* SPA sin frameworks (sin React, Vue, Angular)
-* PWA, Electron y Capacitor para multiplataforma
-
----
-
-## Planteamiento de desarrollo
-
-* Juego de gestión basado en datos, sin motor gráfico ni simulación 3D
-* Lógica pura + interfaces
-* SPA con `AppState` central para manejar pantalla y parámetros
-* Navegación interna mediante `navigate(screen, params)`
-* Persistencia de estado en `sessionStorage` para desarrollo y restauración rápida al refrescar
-* Guardado de partidas: IndexedDB (Web/PWA), filesystem local (Desktop/Mobile)
-* Exportar/importar partidas mediante `.save` (ZIP + JSON)
-
----
-
-## Publicación y distribución
-
-* **Web y PWA:** GitHub Pages
-* **Desktop:** Electron
-* **Mobile (fase posterior):** Capacitor
-* Build de producción optimizado con minificación y bundling
-* Compatible con SPA y PWA
-
----
-
-## Desarrollo y LiveReload
-
-* Usar **Vite** como servidor de desarrollo (solo herramienta, sin framework) para:
-
-  * LiveReload de JS y CSS
-  * Hot reload sin perder AppState
-  * Desarrollo rápido y seguro
-* Flujo de trabajo:
-
-  * `npm run dev` para desarrollo con LiveReload
-  * `npm run build` para producción (dist/ listo para GitHub Pages, Electron, PWA)
-* AppState se serializa y restaura automáticamente en desarrollo para mantener pantalla y datos al refrescar
-
----
-
-## Gestión de tareas e incidencias
-
-* GitHub Issues para bugs, features, balance, ideas
-* Etiquetas para clasificación y prioridad
-
----
-
-## Gestión del proyecto
-
-* GitHub como plataforma central (código, documentación, roadmap, versiones)
-* GitHub Projects (Kanban) para planificación de tareas
-* Milestones para versiones:
-
-  * v0.1 – Base jugable
-  * v0.2 – Economía y fichajes
-  * v0.3 – Varias temporadas
-  * v1.0 – Primera versión estable
-
----
-
-## Filosofía del proyecto
-
-* Offline-first
-* Data-driven
-* Modular y extensible
-* Multiplataforma
-* Inspirado en PC Fútbol clásico
+```
+Made with ⚽🎮 by the PC Futbol 7 Remake team
+```

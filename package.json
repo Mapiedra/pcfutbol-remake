@@ -1,0 +1,27 @@
+{
+  "name": "pcfubtol-remake",
+  "version": "0.1.0",
+  "description": "Un juego de gestión de fútbol inspirado en el clásico PC Fútbol 7",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:staging": "VITE_APP_ENV=staging vite build",
+    "build:production": "VITE_APP_ENV=production vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js",
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:coverage": "vitest --coverage"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "eslint": "^8.55.0",
+    "terser": "^5.46.0",
+    "vite": "^5.0.8",
+    "vitest": "^1.0.4"
+  }
+}
