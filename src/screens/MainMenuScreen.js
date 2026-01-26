@@ -3,42 +3,12 @@
  */
 import { appState } from '../core/AppState.js'
 import { screenManager } from '../core/ScreenManager.js'
+import mainMenuTemplate from '../templates/main-menu.html?raw'
 
 export function MainMenuScreen() {
   const container = document.createElement('div')
   container.className = 'screen main-menu'
-  container.innerHTML = `
-    <div class="menu-container">
-      <div class="menu-header">
-        <h1>⚽ PC Futbol Remake</h1>
-        <p class="subtitle">Gestor de Fútbol Moderno</p>
-        <p style="color: #10b981; font-size: 0.9rem; margin-top: 0.5rem;">✅ ¡Hola Mundo! Sistema funcionando correctamente</p>
-      </div>
-      
-      <div class="menu-buttons">
-        <button class="btn btn-primary" id="newGameBtn">
-          🎮 Nueva Partida
-        </button>
-        <button class="btn btn-secondary" id="loadGameBtn">
-          📁 Cargar Partida
-        </button>
-        <button class="btn btn-secondary" id="settingsBtn">
-          ⚙️ Configuración
-        </button>
-        <button class="btn btn-secondary" id="infoBtn" style="background-color: #6b7280;">
-          ℹ️ Información
-        </button>
-      </div>
-
-      <div class="menu-footer">
-        <p>v0.1.0 - Versión de desarrollo</p>
-        <p style="font-size: 0.8rem; margin-top: 0.5rem; color: #9ca3af;">
-          🚀 Stack: Vanilla JS + Vite + IndexedDB<br>
-          📱 PWA Installable • 💾 Offline Ready
-        </p>
-      </div>
-    </div>
-  `
+  container.innerHTML = mainMenuTemplate
 
   // Event Listeners
   container.querySelector('#newGameBtn').addEventListener('click', () => {
@@ -77,4 +47,16 @@ Haz click en "Nueva Partida" para comenzar.
   })
 
   return container
+}
+
+// HMR Support
+if (import.meta.hot) {
+  import.meta.hot.accept((newModule) => {
+    if (newModule) {
+      screenManager.registerScreen('mainMenu', newModule.MainMenuScreen)
+      if (appState.currentScreen === 'mainMenu') {
+        screenManager.reRender()
+      }
+    }
+  })
 }

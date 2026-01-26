@@ -57,8 +57,13 @@ function initializeApp() {
   }
 }
 
-// Inicializar cuando el DOM esté listo
-document.addEventListener('DOMContentLoaded', initializeApp)
+// Inicializar la aplicación
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializeApp)
+} else {
+  // Si el DOM ya está listo (por ejemplo, durante un HMR), inicializar directamente
+  initializeApp()
+}
 
 // ⚠️ Error handling global
 window.addEventListener('error', (event) => {

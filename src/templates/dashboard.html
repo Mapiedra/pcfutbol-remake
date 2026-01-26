@@ -1,0 +1,38 @@
+<div class="dashboard-header">
+    <h1>{{teamName}}</h1>
+    <div class="header-info">
+        <span class="season">Temporada {{season}}</span>
+        <span class="budget">Presupuesto: ${{budgetDisplay}}M</span>
+    </div>
+</div>
+
+<div class="dashboard-grid">
+    <div class="dashboard-card">
+        <h2>Equipo</h2>
+        <p class="card-info">Jugadores: {{playersCount}}</p>
+        <button class="btn btn-small" id="manageTeamBtn">Gestionar Equipo</button>
+    </div>
+
+    <div class="dashboard-card">
+        <h2>Partidos</h2>
+        <p class="card-info">Próximos: 0</p>
+        <button class="btn btn-small" id="matchesBtn">Ver Calendario</button>
+    </div>
+
+    <div class="dashboard-card">
+        <h2>Economía</h2>
+        <p class="card-info">Saldo: ${{budgetDisplay}}M</p>
+        <button class="btn btn-small" id="economyBtn">Ver Finanzas</button>
+    </div>
+
+    <div class="dashboard-card">
+        <h2>Instalaciones</h2>
+        <p class="card-info">Nivel: Básico</p>
+        <button class="btn btn-small" id="facilitiesBtn">Mejorar</button>
+    </div>
+</div>
+
+<div class="dashboard-footer">
+    <button class="btn btn-secondary" id="backBtn">Volver al Menú</button>
+    <button class="btn btn-secondary" id="saveBtn">Guardar Partida</button>
+</div>

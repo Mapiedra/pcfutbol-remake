@@ -60,9 +60,9 @@ class AppState {
    */
   initializeNewGame() {
     this.gameState = {
-      season: 1,
+      season: '2025/2026',
       teamName: 'Mi Equipo',
-      budget: 1000000,
+      budget: 1500000000,
       players: [],
       matches: [],
       lastUpdate: new Date().toISOString(),

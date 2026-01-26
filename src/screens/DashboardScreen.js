@@ -3,58 +3,53 @@
  */
 import { appState } from '../core/AppState.js'
 import { screenManager } from '../core/ScreenManager.js'
+import dashboardTemplate from '../templates/dashboard.html?raw'
+import { renderTemplate } from '../utils/templateUtils.js'
 
 export function DashboardScreen() {
   const container = document.createElement('div')
   container.className = 'screen dashboard'
-  
+
   const game = appState.gameState
-  
-  container.innerHTML = `
-    <div class="dashboard-header">
-      <h1>${game.teamName}</h1>
-      <div class="header-info">
-        <span class="season">Temporada ${game.season}</span>
-        <span class="budget">Presupuesto: $${(game.budget / 1000000).toFixed(1)}M</span>
-      </div>
-    </div>
 
-    <div class="dashboard-grid">
-      <div class="dashboard-card">
-        <h2>Equipo</h2>
-        <p class="card-info">Jugadores: ${game.players.length}</p>
-        <button class="btn btn-small" id="manageTeamBtn">Gestionar Equipo</button>
-      </div>
+  // Guard: Si no hay estado de juego, volver al menú
+  if (!game) {
+    console.warn('[Dashboard] No hay estado de juego, redirigiendo al menú')
+    setTimeout(() => {
+      appState.navigate('mainMenu')
+      screenManager.render()
+    }, 0)
+    return container
+  }
 
-      <div class="dashboard-card">
-        <h2>Partidos</h2>
-        <p class="card-info">Próximos: 0</p>
-        <button class="btn btn-small" id="matchesBtn">Ver Calendario</button>
-      </div>
+  const viewData = {
+    teamName: game.teamName,
+    season: game.season,
+    budgetDisplay: (game.budget / 1000000).toFixed(1),
+    playersCount: game.players.length
+  }
 
-      <div class="dashboard-card">
-        <h2>Economía</h2>
-        <p class="card-info">Saldo: $${(game.budget / 1000000).toFixed(1)}M</p>
-        <button class="btn btn-small" id="economyBtn">Ver Finanzas</button>
-      </div>
-
-      <div class="dashboard-card">
-        <h2>Instalaciones</h2>
-        <p class="card-info">Nivel: Básico</p>
-        <button class="btn btn-small" id="facilitiesBtn">Mejorar</button>
-      </div>
-    </div>
-
-    <div class="dashboard-footer">
-      <button class="btn btn-secondary" id="backBtn">Volver al Menú</button>
-      <button class="btn btn-secondary" id="saveBtn">Guardar Partida</button>
-    </div>
-  `
+  container.innerHTML = renderTemplate(dashboardTemplate, viewData)
 
   // Event Listeners
   container.querySelector('#manageTeamBtn').addEventListener('click', () => {
     appState.navigate('teamManagement')
     screenManager.render()
+  })
+
+  container.querySelector('#matchesBtn').addEventListener('click', () => {
+    // TODO: Implement matches screen
+    console.log('TODO: Ver calendario')
+  })
+
+  container.querySelector('#economyBtn').addEventListener('click', () => {
+    // TODO: Implement economy screen
+    console.log('TODO: Ver finanzas')
+  })
+
+  container.querySelector('#facilitiesBtn').addEventListener('click', () => {
+    // TODO: Implement facilities screen
+    console.log('TODO: Mejorar instalaciones')
   })
 
   container.querySelector('#backBtn').addEventListener('click', () => {
@@ -69,4 +64,16 @@ export function DashboardScreen() {
   })
 
   return container
+}
+
+// HMR Support
+if (import.meta.hot) {
+  import.meta.hot.accept((newModule) => {
+    if (newModule) {
+      screenManager.registerScreen('dashboard', newModule.DashboardScreen)
+      if (appState.currentScreen === 'dashboard') {
+        screenManager.reRender()
+      }
+    }
+  })
 }
