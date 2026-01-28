@@ -31,7 +31,7 @@ Este es un proyecto impulsado por la comunidad. ¡Tu ayuda es fundamental!
 
 1.  **Consulta nuestro Roadmap**: Para ver la planificación general y las próximas características, visita nuestro **[Tablero de Proyectos en GitHub](https://github.com/mapiedra/pcfutbol-remake/projects)**.
 2.  **Encuentra una tarea**: Explora los **[Issues abiertos](https://github.com/mapiedra/pcfutbol-remake/issues)** para encontrar bugs por resolver o características en las que puedas trabajar.
-3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](./wiki/6.‐Guía‐de‐desarrollo.md)** para entender el flujo de trabajo.
+3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/6.-Guía-de-desarrollo)** para entender el flujo de trabajo.
 
 Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirte a las [Discussions](https://github.com/mapiedra/pcfutbol-remake/discussions)!
 
@@ -48,12 +48,17 @@ Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirt
 
 ## 📚 Documentación
 
-Tenemos una documentación completa en nuestra **[Wiki del Proyecto](https://github.com/mapiedra/pcfutbol-remake/wiki)**. Algunos puntos de partida útiles son:
+Tenemos una documentación completa en nuestra **[Wiki del Proyecto](https://github.com/Mapiedra/pcfutbol-remake/wiki)**.
 
--   **[Arquitectura del Proyecto](./wiki/4.‐Arquitectura.md)**
--   **[Planteamiento de Desarrollo](./wiki/5.‐Planteamiento.md)**
--   **[Guía de Desarrollo](./wiki/6.‐Guía‐de‐desarrollo.md)**
--   **[Roadmap y Planificación](./wiki/8.‐Roadmap.md)**
+1. [Descripción](https://github.com/Mapiedra/pcfutbol-remake/wiki/1.‐Descripción)
+2. [Equipo](https://github.com/Mapiedra/pcfutbol-remake/wiki/2.‐Equipo)
+3. [Tecnología](https://github.com/Mapiedra/pcfutbol-remake/wiki/3.‐Tecnología)
+4. [Arquitectura](https://github.com/Mapiedra/pcfutbol-remake/wiki/4.‐Arquitectura)
+5. [Planteamiento](https://github.com/Mapiedra/pcfutbol-remake/wiki/5.‐Planteamiento)
+6. [Guía de desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/6.-Guía-de-desarrollo)
+7. [Publicación](https://github.com/Mapiedra/pcfutbol-remake/wiki/7.-Publicación)
+8. [Roadmap](https://github.com/Mapiedra/pcfutbol-remake/wiki/8.‐Roadmap)
+9. [FAQ](https://github.com/Mapiedra/pcfutbol-remake/wiki/9.‐FAQ)
 
 ---
 
