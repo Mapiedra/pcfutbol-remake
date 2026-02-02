@@ -4,7 +4,7 @@ Juego de gestión de fútbol inspirado en el clásico PC Fútbol 7, remasterizad
 
 [![Estado del Deploy](https://img.shields.io/github/deployments/mapiedra/pcfutbol-remake/production?label=vercel&logo=vercel)](https://pcfubtol.vercel.app)
 [![GitHub issues](https://img.shields.io/github/issues/mapiedra/pcfutbol-remake)](https://github.com/mapiedra/pcfutbol-remake/issues)
-[![Licencia](https://img.shields.io/github/license/mapiedra/pcfutbol-remake)](./LICENSE)
+[![Licencia](https://img.shields.io/github/license/mapiedra/pcfutbol-remake)](./LICENSE.md)
 
 **Juega ahora sin instalar: [pcfubtol.vercel.app](https://pcfubtol.vercel.app)**
 
@@ -48,7 +48,7 @@ Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirt
 
 ## ⚖️ Licencia
 
-Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Esto significa que eres libre de usar, compartir y adaptar el código, siempre y cuando no sea para fines comerciales, atribuyas el trabajo original y compartas tus derivados bajo la misma licencia. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Esto significa que eres libre de usar, compartir y adaptar el código, siempre y cuando no sea para fines comerciales, atribuyas el trabajo original y compartas tus derivados bajo la misma licencia. Para más detalles, consulta el archivo [LICENSE.md](LICENSE.md).
 
 ---
 
