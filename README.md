@@ -1,6 +1,6 @@
 # PC Futbol Remake ⚽🎮
 
-Juego de gestión de fútbol inspirado en el clásico PC Fútbol 7, remasterizado para 2024 como una Progressive Web App (PWA) de código abierto.
+Juego de gestión de fútbol inspirado en el clásico PC Fútbol 7, remasterizado.
 
 [![Estado del Deploy](https://img.shields.io/github/deployments/mapiedra/pcfutbol-remake/production?label=vercel&logo=vercel)](https://pcfubtol.vercel.app)
 [![GitHub issues](https://img.shields.io/github/issues/mapiedra/pcfutbol-remake)](https://github.com/mapiedra/pcfutbol-remake/issues)
