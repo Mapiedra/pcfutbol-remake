@@ -1,0 +1,29 @@
+{
+  "player_id": 625660,
+  "name": "Jon Ander Olasagasti",
+  "position": "Mediocentro",
+  "date_of_birth": "16/08/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 25,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/jon-ander-olasagasti/profil/spieler/625660",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/625660-1695238891.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 491
+  }
+}

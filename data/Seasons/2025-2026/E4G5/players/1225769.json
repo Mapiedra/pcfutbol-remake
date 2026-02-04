@@ -1,0 +1,29 @@
+{
+  "player_id": 1225769,
+  "name": "Emanuel",
+  "position": "Lateral derecho",
+  "date_of_birth": "14/07/2007",
+  "nationality": "Italia",
+  "second_nationality": "Brasil",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 18,
+  "birthplace": "Blumenau",
+  "profile_url": "https://www.transfermarkt.es/emanuel/profil/spieler/1225769",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1225769-1717620771.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "P&P Sport Management S.A.M.",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 378
+  }
+}

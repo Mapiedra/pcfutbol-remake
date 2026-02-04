@@ -1,0 +1,29 @@
+{
+  "player_id": 337917,
+  "name": "Théo Zidane",
+  "position": "Mediocentro",
+  "date_of_birth": "18/05/2002",
+  "nationality": "Francia",
+  "second_nationality": "España",
+  "height": "1,96 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 23,
+  "birthplace": "Marseille",
+  "profile_url": "https://www.transfermarkt.es/theo-zidane/profil/spieler/337917",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/337917-1701294515.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Roalza",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 434
+  }
+}

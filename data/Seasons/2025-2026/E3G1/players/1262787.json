@@ -1,0 +1,29 @@
+{
+  "player_id": 1262787,
+  "name": "Hugo Burcio",
+  "position": "Mediocentro",
+  "date_of_birth": "31/10/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": null,
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 19,
+  "birthplace": "Galapagar",
+  "profile_url": "https://www.transfermarkt.es/hugo-burcio/profil/spieler/1262787",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1501
+  }
+}

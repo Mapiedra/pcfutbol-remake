@@ -1,0 +1,29 @@
+{
+  "player_id": 1065837,
+  "name": "Diego Menéndez",
+  "position": "Mediocentro",
+  "date_of_birth": "27/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/diego-menendez/profil/spieler/1065837",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 1428
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 449981,
+  "name": "Yasin Iribarren",
+  "position": "Lateral derecho",
+  "date_of_birth": "05/08/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/yasin-iribarren/profil/spieler/449981",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/449981-1732121963.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "TRESGESPORT AD",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 851
+  }
+}

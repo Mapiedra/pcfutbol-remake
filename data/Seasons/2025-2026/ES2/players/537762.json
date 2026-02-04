@@ -1,0 +1,29 @@
+{
+  "player_id": 537762,
+  "name": "Sergio Arribas",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "30/09/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 24,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/sergio-arribas/profil/spieler/537762",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/537762-1732735550.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 23,
+    "goals": 11,
+    "assists": 6,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1903
+  }
+}

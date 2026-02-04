@@ -1,0 +1,29 @@
+{
+  "player_id": 67541,
+  "name": "Ramiro Mayor",
+  "position": "Defensa central",
+  "date_of_birth": "09/05/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 34,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/ramiro-mayor/profil/spieler/67541",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/67541-1732127796.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 7,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 348
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 317818,
+  "name": "Carlos Abad",
+  "position": "Portero",
+  "date_of_birth": "28/06/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 30,
+  "birthplace": "Puerto de la Cruz",
+  "profile_url": "https://www.transfermarkt.es/carlos-abad/profil/spieler/317818",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/317818-1644937577.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 25,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

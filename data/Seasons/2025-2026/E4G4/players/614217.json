@@ -1,0 +1,29 @@
+{
+  "player_id": 614217,
+  "name": "Imanol Barace",
+  "position": "Extremo derecho",
+  "date_of_birth": "31/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/imanol-barace/profil/spieler/614217",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/614217-1705428074.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1773
+  }
+}

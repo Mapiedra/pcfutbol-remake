@@ -1,0 +1,29 @@
+{
+  "player_id": 689639,
+  "name": "Javi Villar",
+  "position": "Mediocentro",
+  "date_of_birth": "15/03/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 22,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/javi-villar/profil/spieler/689639",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/689639-1745338210.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 850
+  }
+}

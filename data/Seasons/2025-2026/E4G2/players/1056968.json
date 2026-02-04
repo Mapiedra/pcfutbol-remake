@@ -1,0 +1,29 @@
+{
+  "player_id": 1056968,
+  "name": "David Arredondo",
+  "position": "Mediocentro",
+  "date_of_birth": "26/03/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Otañes",
+  "profile_url": "https://www.transfermarkt.es/david-arredondo/profil/spieler/1056968",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1056968-1709679460.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1137
+  }
+}

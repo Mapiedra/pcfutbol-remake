@@ -1,0 +1,29 @@
+{
+  "player_id": 750804,
+  "name": "Varo",
+  "position": "Lateral derecho",
+  "date_of_birth": "08/07/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 28,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/varo/profil/spieler/750804",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BE THE BEST",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1229
+  }
+}

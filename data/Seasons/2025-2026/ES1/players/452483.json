@@ -1,0 +1,29 @@
+{
+  "player_id": 452483,
+  "name": "David Affengruber",
+  "position": "Defensa central",
+  "date_of_birth": "19/03/2001",
+  "nationality": "Austria",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "9,00mill. €Ú",
+  "market_value_numeric": 9000000,
+  "age": 24,
+  "birthplace": "Scheibbs",
+  "profile_url": "https://www.transfermarkt.es/david-affengruber/profil/spieler/452483",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/452483-1694017545.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "11WINS",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 1,
+    "minutes_played": 1652
+  }
+}

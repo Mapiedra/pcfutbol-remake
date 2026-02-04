@@ -1,0 +1,29 @@
+{
+  "player_id": 487951,
+  "name": "Enrique Clemente",
+  "position": "Defensa central",
+  "date_of_birth": "04/03/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 26,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/enrique-clemente/profil/spieler/487951",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/487951-1732367750.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 20,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1774
+  }
+}

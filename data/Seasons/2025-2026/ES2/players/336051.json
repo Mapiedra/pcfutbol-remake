@@ -1,0 +1,29 @@
+{
+  "player_id": 336051,
+  "name": "Agus Medina",
+  "position": "Mediocentro",
+  "date_of_birth": "08/09/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 31,
+  "birthplace": "Barberà del Vallès",
+  "profile_url": "https://www.transfermarkt.es/agus-medina/profil/spieler/336051",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/336051-1745337751.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Feel Winner",
+  "stats": {
+    "appearances": 22,
+    "goals": 7,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1792
+  }
+}

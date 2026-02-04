@@ -1,0 +1,29 @@
+{
+  "player_id": 197126,
+  "name": "Kenan Kodro",
+  "position": "Delantero centro",
+  "date_of_birth": "19/08/1993",
+  "nationality": "Bosnia y Herzegovina",
+  "second_nationality": "España",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 32,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/kenan-kodro/profil/spieler/197126",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/197126-1725480024.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 18,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1078
+  }
+}

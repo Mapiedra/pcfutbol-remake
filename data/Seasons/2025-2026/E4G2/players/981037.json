@@ -1,0 +1,29 @@
+{
+  "player_id": 981037,
+  "name": "Yacouba Dabo",
+  "position": "Extremo derecho",
+  "date_of_birth": "29/06/2002",
+  "nationality": "Senegal",
+  "second_nationality": "España",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Kandiounkou",
+  "profile_url": "https://www.transfermarkt.es/yacouba-dabo/profil/spieler/981037",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/981037-1742404223.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "24ksoccer",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1024
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 282000,
+  "name": "Carlos Ramos",
+  "position": "Mediocentro",
+  "date_of_birth": "31/08/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 31,
+  "birthplace": "Zamora",
+  "profile_url": "https://www.transfermarkt.es/carlos-ramos/profil/spieler/282000",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/282000-1731444628.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1543
+  }
+}

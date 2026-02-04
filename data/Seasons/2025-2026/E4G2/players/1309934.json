@@ -1,0 +1,29 @@
+{
+  "player_id": 1309934,
+  "name": "Anartz Amilibia",
+  "position": "Defensa central",
+  "date_of_birth": "2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 2003,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/anartz-amilibia/profil/spieler/1309934",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1309934-1732143072.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1563
+  }
+}

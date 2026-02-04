@@ -1,0 +1,29 @@
+{
+  "player_id": 59335,
+  "name": "Dani Aquino",
+  "position": "Mediapunta",
+  "date_of_birth": "27/07/1990",
+  "nationality": "España",
+  "second_nationality": "Argentina",
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 35,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/dani-aquino/profil/spieler/59335",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/59335-1573681404.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 20,
+    "goals": 7,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1277
+  }
+}

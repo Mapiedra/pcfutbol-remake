@@ -1,0 +1,29 @@
+{
+  "player_id": 1463355,
+  "name": "Marcelo Timorán",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/07/2006",
+  "nationality": "Bolivia",
+  "second_nationality": "Perú",
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "33",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 19,
+  "birthplace": "Oruro",
+  "profile_url": "https://www.transfermarkt.es/marcelo-timoran/profil/spieler/1463355",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 34
+  }
+}

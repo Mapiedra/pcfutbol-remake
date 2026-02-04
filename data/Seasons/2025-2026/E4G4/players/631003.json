@@ -1,0 +1,29 @@
+{
+  "player_id": 631003,
+  "name": "Ricky Castro",
+  "position": "Lateral derecho",
+  "date_of_birth": "09/02/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Ambidiestro",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Chipiona",
+  "profile_url": "https://www.transfermarkt.es/ricky-castro/profil/spieler/631003",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/631003-1727373179.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eleven Stars",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 993
+  }
+}

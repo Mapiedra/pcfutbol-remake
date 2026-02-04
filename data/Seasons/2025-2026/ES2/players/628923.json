@@ -1,0 +1,29 @@
+{
+  "player_id": 628923,
+  "name": "Juan María Alcedo",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "05/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 24,
+  "birthplace": "Rota",
+  "profile_url": "https://www.transfermarkt.es/juan-maria-alcedo/profil/spieler/628923",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628923-1745337865.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 308
+  }
+}

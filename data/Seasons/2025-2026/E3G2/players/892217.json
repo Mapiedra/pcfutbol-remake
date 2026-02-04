@@ -1,0 +1,29 @@
+{
+  "player_id": 892217,
+  "name": "Eneko Ortiz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "26/05/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Miranda de Ebro",
+  "profile_url": "https://www.transfermarkt.es/eneko-ortiz/profil/spieler/892217",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "InterStarDeporte",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1531
+  }
+}

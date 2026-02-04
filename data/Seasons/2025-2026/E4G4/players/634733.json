@@ -1,0 +1,29 @@
+{
+  "player_id": 634733,
+  "name": "Ivan Breñé",
+  "position": "Delantero centro",
+  "date_of_birth": "13/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Cervera",
+  "profile_url": "https://www.transfermarkt.es/ivan-brene/profil/spieler/634733",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 59
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 313830,
+  "name": "Pablo Galdames",
+  "position": "Mediocentro",
+  "date_of_birth": "30/12/1996",
+  "nationality": "Chile",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "1,30mill. €Ú",
+  "market_value_numeric": 1300000,
+  "age": 29,
+  "birthplace": "Santiago de Chile",
+  "profile_url": "https://www.transfermarkt.es/pablo-galdames/profil/spieler/313830",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/313830-1630583253.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Vibra Futbol",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 25
+  }
+}

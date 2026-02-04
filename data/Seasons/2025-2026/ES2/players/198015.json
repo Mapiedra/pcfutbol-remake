@@ -1,0 +1,29 @@
+{
+  "player_id": 198015,
+  "name": "Jefté Betancor",
+  "position": "Delantero centro",
+  "date_of_birth": "06/07/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 32,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/jefte-betancor/profil/spieler/198015",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/198015-1768466196.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 954
+  }
+}

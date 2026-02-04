@@ -1,0 +1,29 @@
+{
+  "player_id": 530552,
+  "name": "Federico Bonini",
+  "position": "Defensa central",
+  "date_of_birth": "06/08/2001",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 24,
+  "birthplace": "Massa",
+  "profile_url": "https://www.transfermarkt.es/federico-bonini/profil/spieler/530552",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/530552-1696843680.jpg?lm=1",
+  "contract_until": "30/06/2031",
+  "international_caps": null,
+  "agent": "MM-Management",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1484
+  }
+}

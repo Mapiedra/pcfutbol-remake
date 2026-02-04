@@ -1,0 +1,29 @@
+{
+  "player_id": 611070,
+  "name": "Moha Keita",
+  "position": "Extremo derecho",
+  "date_of_birth": "18/09/1999",
+  "nationality": "Senegal",
+  "second_nationality": null,
+  "height": "1,65 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Dakar",
+  "profile_url": "https://www.transfermarkt.es/moha-keita/profil/spieler/611070",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/611070-1756486234.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Spanish Football SL",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1308
+  }
+}

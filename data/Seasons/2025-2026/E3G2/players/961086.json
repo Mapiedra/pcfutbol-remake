@@ -1,0 +1,29 @@
+{
+  "player_id": 961086,
+  "name": "Jorge Castillo",
+  "position": "Mediocentro",
+  "date_of_birth": "23/05/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": "Majadahonda",
+  "profile_url": "https://www.transfermarkt.es/jorge-castillo/profil/spieler/961086",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/961086-1731960257.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 186
+  }
+}

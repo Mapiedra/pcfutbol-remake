@@ -1,0 +1,29 @@
+{
+  "player_id": 935342,
+  "name": "Alberto Collado",
+  "position": "Mediocentro",
+  "date_of_birth": "16/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Algeciras",
+  "profile_url": "https://www.transfermarkt.es/alberto-collado/profil/spieler/935342",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/935342-1702412435.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 1,
+    "minutes_played": 1160
+  }
+}

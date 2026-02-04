@@ -1,0 +1,29 @@
+{
+  "player_id": 689505,
+  "name": "Johnny Cardoso",
+  "position": "Pivote",
+  "date_of_birth": "20/09/2001",
+  "nationality": "Estados Unidos",
+  "second_nationality": "Italia",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "22,00mill. €Ú",
+  "market_value_numeric": 22000000,
+  "age": 24,
+  "birthplace": "Denville, New Jersey",
+  "profile_url": "https://www.transfermarkt.es/johnny-cardoso/profil/spieler/689505",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/689505-1742036970.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "AIS Football",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 380
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 632931,
+  "name": "Andrés Borge",
+  "position": "Lateral derecho",
+  "date_of_birth": "23/10/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 24,
+  "birthplace": "Binéfar",
+  "profile_url": "https://www.transfermarkt.es/andres-borge/profil/spieler/632931",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632931-1732367113.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1397
+  }
+}

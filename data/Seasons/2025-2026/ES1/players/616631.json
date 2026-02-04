@@ -1,0 +1,29 @@
+{
+  "player_id": 616631,
+  "name": "Matteo Ruggeri",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "11/07/2002",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 23,
+  "birthplace": "San Giovanni Bianco",
+  "profile_url": "https://www.transfermarkt.es/matteo-ruggeri/profil/spieler/616631",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/616631-1742497680.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "TMP SOCCER srl",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 864
+  }
+}

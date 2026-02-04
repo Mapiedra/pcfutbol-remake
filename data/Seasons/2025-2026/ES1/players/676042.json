@@ -1,0 +1,29 @@
+{
+  "player_id": 676042,
+  "name": "Juanlu Sánchez",
+  "position": "Lateral derecho",
+  "date_of_birth": "15/08/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 22,
+  "birthplace": "Montequinto",
+  "profile_url": "https://www.transfermarkt.es/juanlu-sanchez/profil/spieler/676042",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/676042-1695240552.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1215
+  }
+}

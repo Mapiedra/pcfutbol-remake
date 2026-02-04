@@ -1,0 +1,29 @@
+{
+  "player_id": 976205,
+  "name": "Dani Atanes",
+  "position": "Portero",
+  "date_of_birth": "25/09/2001",
+  "nationality": "Países Bajos",
+  "second_nationality": "España",
+  "height": "1,96 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Amsterdam",
+  "profile_url": "https://www.transfermarkt.es/dani-atanes/profil/spieler/976205",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "KARAFCA",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 4
+  }
+}

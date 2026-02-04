@@ -1,0 +1,29 @@
+{
+  "player_id": 1066207,
+  "name": "Igor Oyono",
+  "position": "Delantero centro",
+  "date_of_birth": "07/02/2008",
+  "nationality": "España",
+  "second_nationality": "Guinea Ecuatorial",
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 17,
+  "birthplace": "Barakaldo",
+  "profile_url": "https://www.transfermarkt.es/igor-oyono/profil/spieler/1066207",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1066207-1731351951.png?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 840
+  }
+}

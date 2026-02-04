@@ -1,0 +1,29 @@
+{
+  "player_id": 598765,
+  "name": "Brian Ocampo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "25/06/1999",
+  "nationality": "Uruguay",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 26,
+  "birthplace": "Florida",
+  "profile_url": "https://www.transfermarkt.es/brian-ocampo/profil/spieler/598765",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/598765-1720681215.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Faro Sports",
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 1,
+    "minutes_played": 936
+  }
+}

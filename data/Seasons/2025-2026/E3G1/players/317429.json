@@ -1,0 +1,29 @@
+{
+  "player_id": 317429,
+  "name": "Manuel Farrando",
+  "position": "Defensa central",
+  "date_of_birth": "24/04/1995",
+  "nationality": "España",
+  "second_nationality": "Argentina",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Ciutadella de ...",
+  "profile_url": "https://www.transfermarkt.es/manuel-farrando/profil/spieler/317429",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/317429-1503250094.PNG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 587
+  }
+}

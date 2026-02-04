@@ -1,0 +1,22 @@
+{
+  "player_id": 999402,
+  "name": "Diego Sia",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "10/03/2006",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 19,
+  "birthplace": "Milano",
+  "profile_url": "https://www.transfermarkt.es/diego-sia/profil/spieler/999402",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/999402-1698056507.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

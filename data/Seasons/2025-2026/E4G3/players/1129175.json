@@ -1,0 +1,29 @@
+{
+  "player_id": 1129175,
+  "name": "Raúl Martínez",
+  "position": "Mediocentro",
+  "date_of_birth": "23/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "El Prat de Llobregat",
+  "profile_url": "https://www.transfermarkt.es/raul-martinez/profil/spieler/1129175",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1021
+  }
+}

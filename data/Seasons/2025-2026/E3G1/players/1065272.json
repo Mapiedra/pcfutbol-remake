@@ -1,0 +1,29 @@
+{
+  "player_id": 1065272,
+  "name": "Miguel Auría",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "06/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/miguel-auria/profil/spieler/1065272",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1065272-1700856517.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1827
+  }
+}

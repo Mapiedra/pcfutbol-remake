@@ -1,0 +1,29 @@
+{
+  "player_id": 1030374,
+  "name": "Alberto Ulloa",
+  "position": "Mediocentro",
+  "date_of_birth": "30/09/2003",
+  "nationality": "España",
+  "second_nationality": "Chile",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "27",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/alberto-ulloa/profil/spieler/1030374",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 43
+  }
+}

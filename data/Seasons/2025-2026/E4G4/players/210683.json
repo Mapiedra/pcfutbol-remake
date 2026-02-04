@@ -1,0 +1,29 @@
+{
+  "player_id": 210683,
+  "name": "Juanma Acevedo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "24/03/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 33,
+  "birthplace": "Sant Vicent del ...",
+  "profile_url": "https://www.transfermarkt.es/juanma-acevedo/profil/spieler/210683",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1063
+  }
+}

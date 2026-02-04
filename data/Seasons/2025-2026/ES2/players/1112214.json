@@ -1,0 +1,29 @@
+{
+  "player_id": 1112214,
+  "name": "Hodei Arrillaga",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/05/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 21,
+  "birthplace": "Mutriku",
+  "profile_url": "https://www.transfermarkt.es/hodei-arrillaga/profil/spieler/1112214",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1112214-1732229766.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 278
+  }
+}

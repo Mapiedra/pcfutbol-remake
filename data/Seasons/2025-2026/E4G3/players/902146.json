@@ -1,0 +1,29 @@
+{
+  "player_id": 902146,
+  "name": "Aimar Vicandi",
+  "position": "Extremo derecho",
+  "date_of_birth": "09/02/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/aimar-vicandi/profil/spieler/902146",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/902146-1709679841.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 818
+  }
+}

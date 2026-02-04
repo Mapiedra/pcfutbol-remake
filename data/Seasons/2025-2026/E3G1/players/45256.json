@@ -1,0 +1,29 @@
+{
+  "player_id": 45256,
+  "name": "Jean-Sylvain Babin",
+  "position": "Defensa central",
+  "date_of_birth": "14/10/1986",
+  "nationality": "Martinica",
+  "second_nationality": "Francia",
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 39,
+  "birthplace": "Corbeil-Essonnes",
+  "profile_url": "https://www.transfermarkt.es/jean-sylvain-babin/profil/spieler/45256",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/45256-1702510159.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Carrierefoot",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1971
+  }
+}

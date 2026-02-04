@@ -1,0 +1,29 @@
+{
+  "player_id": 947431,
+  "name": "David López",
+  "position": "Defensa central",
+  "date_of_birth": "03/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "27",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 22,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/david-lopez/profil/spieler/947431",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/947431-1725880281.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 152
+  }
+}

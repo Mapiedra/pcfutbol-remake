@@ -1,0 +1,29 @@
+{
+  "player_id": 511016,
+  "name": "Javi Sánchez",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/06/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 28,
+  "birthplace": "Manacor",
+  "profile_url": "https://www.transfermarkt.es/javi-sanchez/profil/spieler/511016",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 572
+  }
+}

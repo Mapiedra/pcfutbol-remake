@@ -1,0 +1,22 @@
+{
+  "player_id": 924885,
+  "name": "Martim Tavares",
+  "position": "Delantero centro",
+  "date_of_birth": "10/11/2003",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 22,
+  "birthplace": "Porto",
+  "profile_url": "https://www.transfermarkt.es/martim-tavares/profil/spieler/924885",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/924885-1763278127.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Team of Future",
+  "stats": null
+}

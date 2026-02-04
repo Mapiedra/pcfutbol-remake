@@ -1,0 +1,29 @@
+{
+  "player_id": 960948,
+  "name": "Eugene Frimpong",
+  "position": "Mediocentro",
+  "date_of_birth": "02/02/2003",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Kumasi",
+  "profile_url": "https://www.transfermarkt.es/eugene-frimpong/profil/spieler/960948",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/960948-1700777922.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "DANIEL GRACIA SÁNCHEZ",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 704
+  }
+}

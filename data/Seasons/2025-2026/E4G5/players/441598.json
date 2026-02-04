@@ -1,0 +1,29 @@
+{
+  "player_id": 441598,
+  "name": "Nacho Ruiz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "11/03/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Torrent",
+  "profile_url": "https://www.transfermarkt.es/nacho-ruiz/profil/spieler/441598",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/441598-1705436007.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1890
+  }
+}

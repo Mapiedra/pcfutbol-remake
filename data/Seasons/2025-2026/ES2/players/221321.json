@@ -1,0 +1,22 @@
+{
+  "player_id": 221321,
+  "name": "Joaquín Fernández",
+  "position": "Defensa central",
+  "date_of_birth": "31/05/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 29,
+  "birthplace": "Huercal de Almería",
+  "profile_url": "https://www.transfermarkt.es/joaquin-fernandez/profil/spieler/221321",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/221321-1741026207.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": null
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 342385,
+  "name": "Guido Rodríguez",
+  "position": "Pivote",
+  "date_of_birth": "12/04/1994",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 31,
+  "birthplace": "Sáenz Peña",
+  "profile_url": "https://www.transfermarkt.es/guido-rodriguez/profil/spieler/342385",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/342385-1668181269.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Interplayers",
+  "stats": null
+}

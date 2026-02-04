@@ -1,0 +1,29 @@
+{
+  "player_id": 834463,
+  "name": "Iker Córdoba",
+  "position": "Defensa central",
+  "date_of_birth": "11/11/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 20,
+  "birthplace": "Els Pallaresos",
+  "profile_url": "https://www.transfermarkt.es/iker-cordoba/profil/spieler/834463",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 1,
+    "minutes_played": 1339
+  }
+}

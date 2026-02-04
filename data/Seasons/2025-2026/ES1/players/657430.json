@@ -1,0 +1,29 @@
+{
+  "player_id": 657430,
+  "name": "Samú Costa",
+  "position": "Pivote",
+  "date_of_birth": "27/11/2000",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 25,
+  "birthplace": "Aveiro",
+  "profile_url": "https://www.transfermarkt.es/samu-costa/profil/spieler/657430",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/657430-1753960841.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Ulisses Santos - US11",
+  "stats": {
+    "appearances": 18,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1364
+  }
+}

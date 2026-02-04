@@ -1,0 +1,29 @@
+{
+  "player_id": 570421,
+  "name": "Nico Melamed",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "11/04/2001",
+  "nationality": "España",
+  "second_nationality": "Argentina",
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 24,
+  "birthplace": "Castelldefels",
+  "profile_url": "https://www.transfermarkt.es/nico-melamed/profil/spieler/570421",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/570421-1732735606.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 764
+  }
+}

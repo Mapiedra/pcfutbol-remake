@@ -1,0 +1,22 @@
+{
+  "player_id": 1190772,
+  "name": "Álex González",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "22/07/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Ferrol",
+  "profile_url": "https://www.transfermarkt.es/alex-gonzalez/profil/spieler/1190772",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": null
+}

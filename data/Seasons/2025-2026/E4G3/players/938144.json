@@ -1,0 +1,29 @@
+{
+  "player_id": 938144,
+  "name": "Diego Kochen",
+  "position": "Portero",
+  "date_of_birth": "19/03/2006",
+  "nationality": "Estados Unidos",
+  "second_nationality": "Perú",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 19,
+  "birthplace": "Miami, Florida",
+  "profile_url": "https://www.transfermarkt.es/diego-kochen/profil/spieler/938144",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/938144-1727891789.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 12,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 981742,
+  "name": "Adilson",
+  "position": "Mediocentro",
+  "date_of_birth": "10/03/1999",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": "Portugal",
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 26,
+  "birthplace": "Bissau",
+  "profile_url": "https://www.transfermarkt.es/adilson/profil/spieler/981742",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 512
+  }
+}

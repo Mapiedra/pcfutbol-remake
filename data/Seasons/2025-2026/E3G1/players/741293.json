@@ -1,0 +1,29 @@
+{
+  "player_id": 741293,
+  "name": "Pol Fortuny",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "11/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 20,
+  "birthplace": "Tarragona",
+  "profile_url": "https://www.transfermarkt.es/pol-fortuny/profil/spieler/741293",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/741293-1768994757.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 705
+  }
+}

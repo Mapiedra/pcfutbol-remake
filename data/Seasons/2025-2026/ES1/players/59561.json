@@ -1,0 +1,29 @@
+{
+  "player_id": 59561,
+  "name": "Dani Parejo",
+  "position": "Mediocentro",
+  "date_of_birth": "16/04/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 36,
+  "birthplace": "Coslada",
+  "profile_url": "https://www.transfermarkt.es/dani-parejo/profil/spieler/59561",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/59561-1688725780.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AC Talent",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 811
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 935230,
+  "name": "Gonzalo García",
+  "position": "Delantero centro",
+  "date_of_birth": "24/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Ambidiestro",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/gonzalo-garcia/profil/spieler/935230",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/935230-1765462047.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": {
+    "appearances": 16,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 319
+  }
+}

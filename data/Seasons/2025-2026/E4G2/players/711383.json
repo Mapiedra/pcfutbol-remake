@@ -1,0 +1,29 @@
+{
+  "player_id": 711383,
+  "name": "Aimar González",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "04/09/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 22,
+  "birthplace": "Agurain",
+  "profile_url": "https://www.transfermarkt.es/aimar-gonzalez/profil/spieler/711383",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 591
+  }
+}

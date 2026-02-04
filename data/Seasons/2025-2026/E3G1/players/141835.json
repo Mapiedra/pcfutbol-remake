@@ -1,0 +1,29 @@
+{
+  "player_id": 141835,
+  "name": "Álvaro Vázquez",
+  "position": "Delantero centro",
+  "date_of_birth": "27/04/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 34,
+  "birthplace": "Badalona",
+  "profile_url": "https://www.transfermarkt.es/alvaro-vazquez/profil/spieler/141835",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/141835-1447230466.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 777
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 623524,
+  "name": "Carlos Dotor",
+  "position": "Mediocentro",
+  "date_of_birth": "15/03/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 24,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/carlos-dotor/profil/spieler/623524",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/623524-1739477790.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1248
+  }
+}

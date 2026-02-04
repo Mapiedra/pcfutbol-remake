@@ -1,0 +1,29 @@
+{
+  "player_id": 1057828,
+  "name": "David Gil",
+  "position": "Portero",
+  "date_of_birth": "17/12/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": "La Palma del Condado",
+  "profile_url": "https://www.transfermarkt.es/david-gil/profil/spieler/1057828",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

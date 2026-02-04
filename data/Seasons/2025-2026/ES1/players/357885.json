@@ -1,0 +1,29 @@
+{
+  "player_id": 357885,
+  "name": "Pablo Fornals",
+  "position": "Mediocentro",
+  "date_of_birth": "22/02/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 29,
+  "birthplace": "Castelló de la Plana",
+  "profile_url": "https://www.transfermarkt.es/pablo-fornals/profil/spieler/357885",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/357885-1714124764.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 4,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1744
+  }
+}

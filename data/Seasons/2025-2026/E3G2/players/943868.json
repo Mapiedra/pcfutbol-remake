@@ -1,0 +1,29 @@
+{
+  "player_id": 943868,
+  "name": "Iván Rodríguez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "07/06/2006",
+  "nationality": "Andorra",
+  "second_nationality": "España",
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 1,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 19,
+  "birthplace": "Santpedor",
+  "profile_url": "https://www.transfermarkt.es/ivan-rodriguez/profil/spieler/943868",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 425
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1059292,
+  "name": "Julen Zubelzu",
+  "position": "Defensa central",
+  "date_of_birth": "20/09/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 21,
+  "birthplace": "Elduain",
+  "profile_url": "https://www.transfermarkt.es/julen-zubelzu/profil/spieler/1059292",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Only Football",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1391
+  }
+}

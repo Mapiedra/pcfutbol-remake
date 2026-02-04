@@ -1,0 +1,22 @@
+{
+  "player_id": 120186,
+  "name": "Daniel Bachmann",
+  "position": "Portero",
+  "date_of_birth": "09/07/1994",
+  "nationality": "Austria",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 31,
+  "birthplace": "Wiener Neustadt",
+  "profile_url": "https://www.transfermarkt.es/daniel-bachmann/profil/spieler/120186",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/120186-1681399443.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Triple S Sports",
+  "stats": null
+}

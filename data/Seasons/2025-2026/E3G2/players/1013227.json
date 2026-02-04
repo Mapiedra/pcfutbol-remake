@@ -1,0 +1,29 @@
+{
+  "player_id": 1013227,
+  "name": "George Andrews",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/03/2005",
+  "nationality": "España",
+  "second_nationality": "Inglaterra",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/george-andrews/profil/spieler/1013227",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1013227-1760545353.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 922
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 861707,
+  "name": "Tiko Iniesta",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "07/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/tiko-iniesta/profil/spieler/861707",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/861707-1732217152.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 6,
+    "red_cards": 1,
+    "minutes_played": 1029
+  }
+}

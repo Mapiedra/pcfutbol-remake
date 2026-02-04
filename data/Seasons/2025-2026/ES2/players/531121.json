@@ -1,0 +1,29 @@
+{
+  "player_id": 531121,
+  "name": "Juan Gutiérrez",
+  "position": "Defensa central",
+  "date_of_birth": "28/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 26,
+  "birthplace": "Comillas",
+  "profile_url": "https://www.transfermarkt.es/juan-gutierrez/profil/spieler/531121",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531121-1677265811.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Joseba Diaz",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 9,
+    "red_cards": 0,
+    "minutes_played": 1980
+  }
+}

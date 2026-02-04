@@ -1,0 +1,29 @@
+{
+  "player_id": 223215,
+  "name": "Quique Rivero",
+  "position": "Mediocentro",
+  "date_of_birth": "16/04/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "125mil €Ú",
+  "market_value_numeric": 125000,
+  "age": 33,
+  "birthplace": "Cabezón de la Sal",
+  "profile_url": "https://www.transfermarkt.es/quique-rivero/profil/spieler/223215",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/223215-1764188371.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 6,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 970
+  }
+}

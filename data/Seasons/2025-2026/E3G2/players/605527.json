@@ -1,0 +1,29 @@
+{
+  "player_id": 605527,
+  "name": "Peque Polo",
+  "position": "Delantero centro",
+  "date_of_birth": "02/10/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Badalona",
+  "profile_url": "https://www.transfermarkt.es/peque-polo/profil/spieler/605527",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/605527-1725606137.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Kicker Representación",
+  "stats": {
+    "appearances": 11,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 592
+  }
+}

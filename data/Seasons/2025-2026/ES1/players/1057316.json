@@ -1,0 +1,29 @@
+{
+  "player_id": 1057316,
+  "name": "Franco Mastantuono",
+  "position": "Extremo derecho",
+  "date_of_birth": "14/08/2007",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "50,00mill. €Ú",
+  "market_value_numeric": 50000000,
+  "age": 18,
+  "birthplace": "Azul",
+  "profile_url": "https://www.transfermarkt.es/franco-mastantuono/profil/spieler/1057316",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1057316-1755702696.jpg?lm=1",
+  "contract_until": "30/06/2031",
+  "international_caps": null,
+  "agent": "AREA SPORT TEAM",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 683
+  }
+}

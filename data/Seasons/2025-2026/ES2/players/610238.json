@@ -1,0 +1,29 @@
+{
+  "player_id": 610238,
+  "name": "Pedro Ortiz",
+  "position": "Mediocentro",
+  "date_of_birth": "19/08/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 25,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/pedro-ortiz/profil/spieler/610238",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/610238-1540334775.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 687
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 599327,
+  "name": "Jorge Mier",
+  "position": "Lateral derecho",
+  "date_of_birth": "04/02/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 26,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/jorge-mier/profil/spieler/599327",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/599327-1712895557.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1469
+  }
+}

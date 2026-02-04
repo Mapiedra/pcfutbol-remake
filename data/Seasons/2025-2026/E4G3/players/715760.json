@@ -1,0 +1,29 @@
+{
+  "player_id": 715760,
+  "name": "Tomás Bourdal",
+  "position": "Defensa central",
+  "date_of_birth": "27/04/1998",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 27,
+  "birthplace": "Mar del Plata",
+  "profile_url": "https://www.transfermarkt.es/tomas-bourdal/profil/spieler/715760",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SIELLO FOOTBALL GROUP ",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1519
+  }
+}

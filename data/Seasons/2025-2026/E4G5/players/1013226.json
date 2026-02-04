@@ -1,0 +1,29 @@
+{
+  "player_id": 1013226,
+  "name": "Javi Baldobar",
+  "position": "Delantero centro",
+  "date_of_birth": "22/02/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": null,
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/javi-baldobar/profil/spieler/1013226",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "FTM",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 913
+  }
+}

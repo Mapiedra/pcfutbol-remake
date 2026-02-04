@@ -1,0 +1,29 @@
+{
+  "player_id": 720517,
+  "name": "Matías Barboza",
+  "position": "Defensa central",
+  "date_of_birth": "13/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/matias-barboza/profil/spieler/720517",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfay",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 610
+  }
+}

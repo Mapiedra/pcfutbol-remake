@@ -1,0 +1,29 @@
+{
+  "player_id": 262365,
+  "name": "Antonio Puertas",
+  "position": "Extremo derecho",
+  "date_of_birth": "21/02/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 33,
+  "birthplace": "Benahadux",
+  "profile_url": "https://www.transfermarkt.es/antonio-puertas/profil/spieler/262365",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/262365-1490619360.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 18,
+    "goals": 7,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1236
+  }
+}

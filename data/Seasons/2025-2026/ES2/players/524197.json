@@ -1,0 +1,29 @@
+{
+  "player_id": 524197,
+  "name": "Patrick Soko",
+  "position": "Extremo derecho",
+  "date_of_birth": "31/10/1997",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 28,
+  "birthplace": "Douala",
+  "profile_url": "https://www.transfermarkt.es/patrick-soko/profil/spieler/524197",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/524197-1724336779.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 612
+  }
+}

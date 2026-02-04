@@ -1,0 +1,29 @@
+{
+  "player_id": 706100,
+  "name": "Moro Sidibe",
+  "position": "Delantero centro",
+  "date_of_birth": "01/01/2001",
+  "nationality": "España",
+  "second_nationality": "Malí",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 25,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/moro-sidibe/profil/spieler/706100",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Sports & Smiles",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1560
+  }
+}

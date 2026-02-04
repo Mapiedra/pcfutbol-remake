@@ -1,0 +1,29 @@
+{
+  "player_id": 404418,
+  "name": "Dávid Hancko",
+  "position": "Defensa central",
+  "date_of_birth": "13/12/1997",
+  "nationality": "Eslovaquia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "30,00mill. €Ú",
+  "market_value_numeric": 30000000,
+  "age": 28,
+  "birthplace": "Prievidza",
+  "profile_url": "https://www.transfermarkt.es/david-hancko/profil/spieler/404418",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/404418-1722415670.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "FairSport",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1713
+  }
+}

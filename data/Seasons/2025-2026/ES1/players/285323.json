@@ -1,0 +1,29 @@
+{
+  "player_id": 285323,
+  "name": "Baptiste Santamaria",
+  "position": "Pivote",
+  "date_of_birth": "09/03/1995",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "4,50mill. €Ú",
+  "market_value_numeric": 4500000,
+  "age": 30,
+  "birthplace": "Saint-Doulchard",
+  "profile_url": "https://www.transfermarkt.es/baptiste-santamaria/profil/spieler/285323",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/285323-1739972064.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Scuderia",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 723
+  }
+}

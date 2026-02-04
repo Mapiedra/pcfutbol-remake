@@ -1,0 +1,29 @@
+{
+  "player_id": 863689,
+  "name": "Maycon",
+  "position": "Mediocentro",
+  "date_of_birth": "06/02/2001",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 24,
+  "birthplace": "Praia Grande",
+  "profile_url": "https://www.transfermarkt.es/maycon/profil/spieler/863689",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/863689-1675128743.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BLB SPORTS",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1584
+  }
+}

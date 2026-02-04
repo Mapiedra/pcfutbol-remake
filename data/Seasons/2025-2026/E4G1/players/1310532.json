@@ -1,0 +1,29 @@
+{
+  "player_id": 1310532,
+  "name": "Rodrigo Ibañes",
+  "position": "Mediocentro",
+  "date_of_birth": "18/04/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Segovia",
+  "profile_url": "https://www.transfermarkt.es/rodrigo-ibanes/profil/spieler/1310532",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1310532-1735210752.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 181
+  }
+}

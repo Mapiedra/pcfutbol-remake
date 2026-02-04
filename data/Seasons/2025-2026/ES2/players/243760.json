@@ -1,0 +1,29 @@
+{
+  "player_id": 243760,
+  "name": "Álex Muñoz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "30/07/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 31,
+  "birthplace": "Sant Joan d'Alacant",
+  "profile_url": "https://www.transfermarkt.es/alex-munoz/profil/spieler/243760",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/243760-1737365855.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 9,
+    "red_cards": 0,
+    "minutes_played": 1662
+  }
+}

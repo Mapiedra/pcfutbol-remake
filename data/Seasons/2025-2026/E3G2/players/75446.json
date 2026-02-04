@@ -1,0 +1,29 @@
+{
+  "player_id": 75446,
+  "name": "Pablo de Blasis",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "04/02/1988",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,65 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 37,
+  "birthplace": "La Plata",
+  "profile_url": "https://www.transfermarkt.es/pablo-de-blasis/profil/spieler/75446",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/75446-1739197487.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Guastadisegno",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 754
+  }
+}

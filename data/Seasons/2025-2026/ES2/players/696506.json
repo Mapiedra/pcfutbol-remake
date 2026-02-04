@@ -1,0 +1,29 @@
+{
+  "player_id": 696506,
+  "name": "Gui Guedes",
+  "position": "Mediocentro",
+  "date_of_birth": "17/04/2002",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 23,
+  "birthplace": "Santa Marta de ...",
+  "profile_url": "https://www.transfermarkt.es/gui-guedes/profil/spieler/696506",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/696506-1732735490.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 924
+  }
+}

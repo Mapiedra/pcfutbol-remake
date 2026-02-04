@@ -1,0 +1,29 @@
+{
+  "player_id": 1301775,
+  "name": "Jan Virgili",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "26/07/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 19,
+  "birthplace": "Vilassar de Mar",
+  "profile_url": "https://www.transfermarkt.es/jan-virgili/profil/spieler/1301775",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1301775-1750759323.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 5,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1048
+  }
+}

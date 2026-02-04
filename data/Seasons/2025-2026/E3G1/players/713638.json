@@ -1,0 +1,29 @@
+{
+  "player_id": 713638,
+  "name": "Neskes",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "22/11/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Granada",
+  "profile_url": "https://www.transfermarkt.es/neskes/profil/spieler/713638",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/713638-1700767619.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1350
+  }
+}

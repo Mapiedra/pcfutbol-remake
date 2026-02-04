@@ -1,0 +1,29 @@
+{
+  "player_id": 257062,
+  "name": "Álvaro García",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "27/10/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Ambidiestro",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 33,
+  "birthplace": "Utrera",
+  "profile_url": "https://www.transfermarkt.es/alvaro-garcia/profil/spieler/257062",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/257062-1762775114.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1508
+  }
+}

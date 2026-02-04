@@ -1,0 +1,29 @@
+{
+  "player_id": 502722,
+  "name": "Luka Sucic",
+  "position": "Mediocentro",
+  "date_of_birth": "08/09/2002",
+  "nationality": "Croacia",
+  "second_nationality": "Austria",
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 23,
+  "birthplace": "Linz",
+  "profile_url": "https://www.transfermarkt.es/luka-sucic/profil/spieler/502722",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/502722-1692998699.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Soccertalk GmbH",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 313
+  }
+}

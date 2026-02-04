@@ -1,0 +1,29 @@
+{
+  "player_id": 1210519,
+  "name": "Frank Uwumiro",
+  "position": "Delantero centro",
+  "date_of_birth": "14/01/2005",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": "Jos",
+  "profile_url": "https://www.transfermarkt.es/frank-uwumiro/profil/spieler/1210519",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1210519-1718118858.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 49
+  }
+}

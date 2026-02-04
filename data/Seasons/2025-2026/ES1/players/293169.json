@@ -1,0 +1,29 @@
+{
+  "player_id": 293169,
+  "name": "Josip Brekalo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "23/06/1998",
+  "nationality": "Croacia",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 27,
+  "birthplace": "Zagreb",
+  "profile_url": "https://www.transfermarkt.es/josip-brekalo/profil/spieler/293169",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/293169-1695027309.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Bola",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 483
+  }
+}

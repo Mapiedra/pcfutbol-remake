@@ -1,0 +1,29 @@
+{
+  "player_id": 907559,
+  "name": "Nelson Deossa",
+  "position": "Mediocentro",
+  "date_of_birth": "06/02/2000",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "9,00mill. €Ú",
+  "market_value_numeric": 9000000,
+  "age": 25,
+  "birthplace": "Marmato",
+  "profile_url": "https://www.transfermarkt.es/nelson-deossa/profil/spieler/907559",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/907559-1693600752.JPG?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Elifootball",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 419
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 907786,
+  "name": "Gianfranco Peña",
+  "position": "Delantero centro",
+  "date_of_birth": "11/07/2000",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Jamundí",
+  "profile_url": "https://www.transfermarkt.es/gianfranco-pena/profil/spieler/907786",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/907786-1661134683.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FIMITSPORT",
+  "stats": {
+    "appearances": 3,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 73
+  }
+}

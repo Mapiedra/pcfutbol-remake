@@ -1,0 +1,29 @@
+{
+  "player_id": 276080,
+  "name": "Iván Turrillo",
+  "position": "Mediocentro",
+  "date_of_birth": "15/05/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": null,
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 36,
+  "birthplace": "Algeciras",
+  "profile_url": "https://www.transfermarkt.es/ivan-turrillo/profil/spieler/276080",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 10,
+    "red_cards": 0,
+    "minutes_played": 1497
+  }
+}

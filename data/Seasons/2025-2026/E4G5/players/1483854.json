@@ -1,0 +1,29 @@
+{
+  "player_id": 1483854,
+  "name": "Alex Herráiz",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "31/08/2008",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "28",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 17,
+  "birthplace": "Marratxí",
+  "profile_url": "https://www.transfermarkt.es/alex-herraiz/profil/spieler/1483854",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "SportsMaxi Management",
+  "stats": {
+    "appearances": 6,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 498
+  }
+}

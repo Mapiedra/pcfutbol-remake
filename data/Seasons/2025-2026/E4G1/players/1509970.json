@@ -1,0 +1,22 @@
+{
+  "player_id": 1509970,
+  "name": "Gerard Marquez",
+  "position": "Mediocentro",
+  "date_of_birth": "20/05/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/gerard-marquez/profil/spieler/1509970",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

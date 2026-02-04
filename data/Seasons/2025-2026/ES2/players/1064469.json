@@ -1,0 +1,29 @@
+{
+  "player_id": 1064469,
+  "name": "Manu Rodríguez",
+  "position": "Mediocentro",
+  "date_of_birth": "16/11/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": null,
+  "squad_number": "36",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Catoira",
+  "profile_url": "https://www.transfermarkt.es/manu-rodriguez/profil/spieler/1064469",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 220
+  }
+}

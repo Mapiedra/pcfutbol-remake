@@ -1,0 +1,29 @@
+{
+  "player_id": 1078985,
+  "name": "Rafaël De Palmas",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "24/02/2004",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Cannes",
+  "profile_url": "https://www.transfermarkt.es/rafael-de-palmas/profil/spieler/1078985",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 320
+  }
+}

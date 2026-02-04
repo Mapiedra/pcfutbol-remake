@@ -1,0 +1,22 @@
+{
+  "player_id": 1326466,
+  "name": "Diego Arroyo",
+  "position": "Portero",
+  "date_of_birth": "24/01/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/diego-arroyo/profil/spieler/1326466",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 277560,
+  "name": "Armando Ortiz",
+  "position": "Mediocentro",
+  "date_of_birth": "22/09/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": null,
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 35,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/armando-ortiz/profil/spieler/277560",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ipi Sports and Management 14",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1451
+  }
+}

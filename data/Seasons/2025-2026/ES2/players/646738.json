@@ -1,0 +1,29 @@
+{
+  "player_id": 646738,
+  "name": "Juan Larios",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 22,
+  "birthplace": "Tomares",
+  "profile_url": "https://www.transfermarkt.es/juan-larios/profil/spieler/646738",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/646738-1761230452.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "GLOBAL GOAL",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 381
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1388063,
+  "name": "Ceri Imadiyi",
+  "position": "Delantero centro",
+  "date_of_birth": "30/01/2006",
+  "nationality": "España",
+  "second_nationality": "Nigeria",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Elche",
+  "profile_url": "https://www.transfermarkt.es/ceri-imadiyi/profil/spieler/1388063",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1388063-1765912218.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 13,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 534
+  }
+}

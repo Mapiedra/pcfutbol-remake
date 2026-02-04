@@ -1,0 +1,29 @@
+{
+  "player_id": 707274,
+  "name": "César Tárrega",
+  "position": "Defensa central",
+  "date_of_birth": "26/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,94 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 23,
+  "birthplace": "Aldaia",
+  "profile_url": "https://www.transfermarkt.es/cesar-tarrega/profil/spieler/707274",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/707274-1698963222.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1584
+  }
+}

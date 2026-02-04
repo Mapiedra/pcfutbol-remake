@@ -1,0 +1,29 @@
+{
+  "player_id": 379872,
+  "name": "Julen Monreal",
+  "position": "Defensa central",
+  "date_of_birth": "04/03/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/julen-monreal/profil/spieler/379872",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/379872-1732121583.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 740
+  }
+}

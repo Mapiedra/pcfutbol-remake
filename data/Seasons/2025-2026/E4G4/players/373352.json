@@ -1,0 +1,29 @@
+{
+  "player_id": 373352,
+  "name": "Omar Perdomo",
+  "position": "Extremo derecho",
+  "date_of_birth": "03/07/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 32,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/omar-perdomo/profil/spieler/373352",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/373352-1764186041.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "V&V Football",
+  "stats": {
+    "appearances": 20,
+    "goals": 8,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1667
+  }
+}

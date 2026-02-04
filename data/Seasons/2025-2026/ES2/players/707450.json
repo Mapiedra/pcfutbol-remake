@@ -1,0 +1,29 @@
+{
+  "player_id": 707450,
+  "name": "Lorenzo Amatucci",
+  "position": "Pivote",
+  "date_of_birth": "05/02/2004",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 21,
+  "birthplace": "Arezzo",
+  "profile_url": "https://www.transfermarkt.es/lorenzo-amatucci/profil/spieler/707450",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/707450-1751270499.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1908
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 1089706,
+  "name": "João Costa",
+  "position": "Mediocentro",
+  "date_of_birth": "01/03/2005",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Franca",
+  "profile_url": "https://www.transfermarkt.es/joao-costa/profil/spieler/1089706",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1089706-1725069356.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": null
+}

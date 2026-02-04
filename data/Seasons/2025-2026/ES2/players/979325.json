@@ -1,0 +1,29 @@
+{
+  "player_id": 979325,
+  "name": "Alex Lebarbier",
+  "position": "Mediocentro",
+  "date_of_birth": "23/08/2004",
+  "nationality": "Francia",
+  "second_nationality": "Camerún",
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 21,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/alex-lebarbier/profil/spieler/979325",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/979325-1709211922.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Sport Cover",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 339
+  }
+}

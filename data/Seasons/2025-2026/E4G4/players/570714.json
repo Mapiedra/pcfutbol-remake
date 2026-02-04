@@ -1,0 +1,29 @@
+{
+  "player_id": 570714,
+  "name": "Sergio Carrasco",
+  "position": "Mediocentro",
+  "date_of_birth": "02/06/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 26,
+  "birthplace": "Pedrola",
+  "profile_url": "https://www.transfermarkt.es/sergio-carrasco/profil/spieler/570714",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Kicker Representación",
+  "stats": {
+    "appearances": 20,
+    "goals": 4,
+    "assists": 3,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1757
+  }
+}

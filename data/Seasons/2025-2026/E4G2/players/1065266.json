@@ -1,0 +1,29 @@
+{
+  "player_id": 1065266,
+  "name": "Ander Ibáñez",
+  "position": "Portero",
+  "date_of_birth": "2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 2003,
+  "birthplace": "Tafalla",
+  "profile_url": "https://www.transfermarkt.es/ander-ibanez/profil/spieler/1065266",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 9,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

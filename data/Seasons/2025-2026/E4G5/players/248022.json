@@ -1,0 +1,22 @@
+{
+  "player_id": 248022,
+  "name": "Luis Martínez",
+  "position": "Defensa central",
+  "date_of_birth": "20/10/1993",
+  "nationality": "España",
+  "second_nationality": "Francia",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 32,
+  "birthplace": "Arnedo",
+  "profile_url": "https://www.transfermarkt.es/luis-martinez/profil/spieler/248022",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": null
+}

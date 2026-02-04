@@ -1,0 +1,29 @@
+{
+  "player_id": 457973,
+  "name": "Agustín Coscia",
+  "position": "Delantero centro",
+  "date_of_birth": "08/04/1997",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/agustin-coscia/profil/spieler/457973",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1290
+  }
+}

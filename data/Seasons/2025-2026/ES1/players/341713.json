@@ -1,0 +1,22 @@
+{
+  "player_id": 341713,
+  "name": "Diego Conde",
+  "position": "Portero",
+  "date_of_birth": "28/10/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 27,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/diego-conde/profil/spieler/341713",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/341713-1669364743.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Manuel García Quilón",
+  "stats": null
+}

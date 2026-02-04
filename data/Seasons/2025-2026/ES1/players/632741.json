@@ -1,0 +1,29 @@
+{
+  "player_id": 632741,
+  "name": "Iker Losada",
+  "position": "Mediapunta",
+  "date_of_birth": "01/08/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 24,
+  "birthplace": "Catoira",
+  "profile_url": "https://www.transfermarkt.es/iker-losada/profil/spieler/632741",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632741-1569337955.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 9,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 278
+  }
+}

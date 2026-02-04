@@ -1,0 +1,29 @@
+{
+  "player_id": 374077,
+  "name": "Christian Rivera",
+  "position": "Mediocentro",
+  "date_of_birth": "09/07/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 28,
+  "birthplace": "Gijón",
+  "profile_url": "https://www.transfermarkt.es/christian-rivera/profil/spieler/374077",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/374077-1664289336.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Aquila SM",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 26
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 636297,
+  "name": "Joel Jiménez",
+  "position": "Portero",
+  "date_of_birth": "20/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": "Avilés",
+  "profile_url": "https://www.transfermarkt.es/joel-jimenez/profil/spieler/636297",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636297-1664570473.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

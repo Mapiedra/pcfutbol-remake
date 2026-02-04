@@ -1,0 +1,29 @@
+{
+  "player_id": 283489,
+  "name": "Luca Zidane",
+  "position": "Portero",
+  "date_of_birth": "13/05/1998",
+  "nationality": "Argelia",
+  "second_nationality": "Francia",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 27,
+  "birthplace": "Marseille",
+  "profile_url": "https://www.transfermarkt.es/luca-zidane/profil/spieler/283489",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/283489-1762351424.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Roalza",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 19,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

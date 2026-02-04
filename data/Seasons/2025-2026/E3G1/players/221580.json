@@ -1,0 +1,29 @@
+{
+  "player_id": 221580,
+  "name": "Steven Petkov",
+  "position": "Delantero centro",
+  "date_of_birth": "07/05/1995",
+  "nationality": "Bulgaria",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Sofia",
+  "profile_url": "https://www.transfermarkt.es/steven-petkov/profil/spieler/221580",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/221580-1613986207.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "G-SPORTS",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

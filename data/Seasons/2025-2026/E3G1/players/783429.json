@@ -1,0 +1,29 @@
+{
+  "player_id": 783429,
+  "name": "Unai Dufur",
+  "position": "Defensa central",
+  "date_of_birth": "21/01/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 27,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/unai-dufur/profil/spieler/783429",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1538
+  }
+}

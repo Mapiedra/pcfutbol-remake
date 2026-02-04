@@ -1,0 +1,29 @@
+{
+  "player_id": 95730,
+  "name": "Borja Sánchez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "14/02/1987",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 38,
+  "birthplace": "Talavera de la Reina",
+  "profile_url": "https://www.transfermarkt.es/borja-sanchez/profil/spieler/95730",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1448
+  }
+}

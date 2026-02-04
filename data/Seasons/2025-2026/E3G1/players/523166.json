@@ -1,0 +1,29 @@
+{
+  "player_id": 523166,
+  "name": "Eudald Vergés",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/05/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Torelló",
+  "profile_url": "https://www.transfermarkt.es/eudald-verges/profil/spieler/523166",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/523166-1732128970.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 1785
+  }
+}

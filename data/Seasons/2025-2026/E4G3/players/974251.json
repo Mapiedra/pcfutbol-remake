@@ -1,0 +1,29 @@
+{
+  "player_id": 974251,
+  "name": "Lass Kourouma",
+  "position": "Mediocentro",
+  "date_of_birth": "30/03/2004",
+  "nationality": "Guinea",
+  "second_nationality": "España",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 21,
+  "birthplace": "Conakry",
+  "profile_url": "https://www.transfermarkt.es/lass-kourouma/profil/spieler/974251",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/974251-1769783998.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 951
+  }
+}

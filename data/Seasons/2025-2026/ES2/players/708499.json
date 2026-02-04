@@ -1,0 +1,29 @@
+{
+  "player_id": 708499,
+  "name": "Juan Sebastián",
+  "position": "Lateral derecho",
+  "date_of_birth": "07/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 23,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/juan-sebastian/profil/spieler/708499",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/708499-1734518812.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 874
+  }
+}

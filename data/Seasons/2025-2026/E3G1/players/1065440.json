@@ -1,0 +1,29 @@
+{
+  "player_id": 1065440,
+  "name": "Mauro Echegoyen",
+  "position": "Mediocentro",
+  "date_of_birth": "03/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 20,
+  "birthplace": "Murchante",
+  "profile_url": "https://www.transfermarkt.es/mauro-echegoyen/profil/spieler/1065440",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1065440-1700858200.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1709
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 617073,
+  "name": "Marc Doménech",
+  "position": "Mediocentro",
+  "date_of_birth": "01/11/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 23,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/marc-domenech/profil/spieler/617073",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/617073-1697815995.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 817
+  }
+}

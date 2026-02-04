@@ -1,0 +1,29 @@
+{
+  "player_id": 412363,
+  "name": "Rodrygo",
+  "position": "Extremo derecho",
+  "date_of_birth": "09/01/2001",
+  "nationality": "Brasil",
+  "second_nationality": "España",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "60,00mill. €Ú",
+  "market_value_numeric": 60000000,
+  "age": 25,
+  "birthplace": "Osasco",
+  "profile_url": "https://www.transfermarkt.es/rodrygo/profil/spieler/412363",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/412363-1763041611.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 4,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 628
+  }
+}

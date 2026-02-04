@@ -1,0 +1,29 @@
+{
+  "player_id": 340205,
+  "name": "Gorka Guruzeta",
+  "position": "Delantero centro",
+  "date_of_birth": "12/09/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 29,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/gorka-guruzeta/profil/spieler/340205",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/340205-1709676375.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1142
+  }
+}

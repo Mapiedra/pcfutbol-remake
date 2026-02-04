@@ -1,0 +1,29 @@
+{
+  "player_id": 345886,
+  "name": "Rubén Vargas",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "05/08/1998",
+  "nationality": "Suiza",
+  "second_nationality": "República Dominicana",
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 27,
+  "birthplace": "Adligenswil",
+  "profile_url": "https://www.transfermarkt.es/ruben-vargas/profil/spieler/345886",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/345886-1722850174.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "ROOF",
+  "stats": {
+    "appearances": 13,
+    "goals": 3,
+    "assists": 4,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 879
+  }
+}

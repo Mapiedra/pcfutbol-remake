@@ -1,0 +1,29 @@
+{
+  "player_id": 838473,
+  "name": "Tim Caroutas",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/01/2003",
+  "nationality": "Australia",
+  "second_nationality": "Grecia",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Illawarra",
+  "profile_url": "https://www.transfermarkt.es/tim-caroutas/profil/spieler/838473",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Aspire Management",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 451
+  }
+}

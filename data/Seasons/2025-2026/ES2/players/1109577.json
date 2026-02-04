@@ -1,0 +1,29 @@
+{
+  "player_id": 1109577,
+  "name": "Aarón Ochoa",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "18/04/2007",
+  "nationality": "Irlanda",
+  "second_nationality": "España",
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "35",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 18,
+  "birthplace": "Marbella",
+  "profile_url": "https://www.transfermarkt.es/aaron-ochoa/profil/spieler/1109577",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1109577-1725885829.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "InterStarDeporte",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 255
+  }
+}

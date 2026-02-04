@@ -1,0 +1,29 @@
+{
+  "player_id": 366930,
+  "name": "Sergio Gómez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "04/09/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,71 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 25,
+  "birthplace": "Badalona",
+  "profile_url": "https://www.transfermarkt.es/sergio-gomez/profil/spieler/366930",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/366930-1727678534.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "SEG",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1435
+  }
+}

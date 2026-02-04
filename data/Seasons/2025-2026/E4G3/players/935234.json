@@ -1,0 +1,22 @@
+{
+  "player_id": 935234,
+  "name": "Rubén Bonachera",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "27/11/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 22,
+  "birthplace": "Terrassa",
+  "profile_url": "https://www.transfermarkt.es/ruben-bonachera/profil/spieler/935234",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eloísa López",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1064138,
+  "name": "Hugo Villaverde",
+  "position": "Mediapunta",
+  "date_of_birth": "25/05/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Vilagarcía de Arousa",
+  "profile_url": "https://www.transfermarkt.es/hugo-villaverde/profil/spieler/1064138",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SEG",
+  "stats": {
+    "appearances": 11,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 782
+  }
+}

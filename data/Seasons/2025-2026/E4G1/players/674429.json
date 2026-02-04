@@ -1,0 +1,29 @@
+{
+  "player_id": 674429,
+  "name": "Diego González",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "19/05/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Santibáñez de Béjar",
+  "profile_url": "https://www.transfermarkt.es/diego-gonzalez/profil/spieler/674429",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/674429-1666293446.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Oceans Sport",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1346
+  }
+}

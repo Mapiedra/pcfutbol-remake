@@ -1,0 +1,29 @@
+{
+  "player_id": 337715,
+  "name": "Umar Sadiq",
+  "position": "Delantero centro",
+  "date_of_birth": "02/02/1997",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 28,
+  "birthplace": "Kaduna",
+  "profile_url": "https://www.transfermarkt.es/umar-sadiq/profil/spieler/337715",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/337715-1728040426.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 152
+  }
+}

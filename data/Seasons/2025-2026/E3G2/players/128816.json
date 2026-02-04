@@ -1,0 +1,29 @@
+{
+  "player_id": 128816,
+  "name": "David Cubillas",
+  "position": "Delantero centro",
+  "date_of_birth": "19/06/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 35,
+  "birthplace": "Castelló de La Plana",
+  "profile_url": "https://www.transfermarkt.es/david-cubillas/profil/spieler/128816",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 521
+  }
+}

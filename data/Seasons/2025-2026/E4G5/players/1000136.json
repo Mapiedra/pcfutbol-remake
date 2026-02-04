@@ -1,0 +1,29 @@
+{
+  "player_id": 1000136,
+  "name": "Gorka Rivera",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "01/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Leganés",
+  "profile_url": "https://www.transfermarkt.es/gorka-rivera/profil/spieler/1000136",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1000136-1732134790.JPG?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 331
+  }
+}

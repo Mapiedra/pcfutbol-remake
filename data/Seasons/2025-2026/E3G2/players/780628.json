@@ -1,0 +1,29 @@
+{
+  "player_id": 780628,
+  "name": "Oussama Chit",
+  "position": "Delantero centro",
+  "date_of_birth": "05/04/2000",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Mohammedia",
+  "profile_url": "https://www.transfermarkt.es/oussama-chit/profil/spieler/780628",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/780628-1758933923.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eleven Stars",
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 806
+  }
+}

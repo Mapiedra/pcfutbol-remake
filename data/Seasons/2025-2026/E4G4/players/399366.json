@@ -1,0 +1,29 @@
+{
+  "player_id": 399366,
+  "name": "Álex Lázaro",
+  "position": "Portero",
+  "date_of_birth": "10/02/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 29,
+  "birthplace": "Chipiona",
+  "profile_url": "https://www.transfermarkt.es/alex-lazaro/profil/spieler/399366",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/399366-1764185143.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MMIC Sport",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 21,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

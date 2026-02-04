@@ -1,0 +1,29 @@
+{
+  "player_id": 533354,
+  "name": "Facundo Garcés",
+  "position": "Defensa central",
+  "date_of_birth": "05/09/1999",
+  "nationality": "Malasia",
+  "second_nationality": "Argentina",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 26,
+  "birthplace": "Santa Fe",
+  "profile_url": "https://www.transfermarkt.es/facundo-garces/profil/spieler/533354",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/533354-1633539030.JPG?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 540
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 669511,
+  "name": "Jorge Pascual",
+  "position": "Delantero centro",
+  "date_of_birth": "09/04/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 22,
+  "birthplace": "Almería",
+  "profile_url": "https://www.transfermarkt.es/jorge-pascual/profil/spieler/669511",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/669511-1698947254.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": {
+    "appearances": 23,
+    "goals": 5,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1702
+  }
+}

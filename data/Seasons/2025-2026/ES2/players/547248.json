@@ -1,0 +1,29 @@
+{
+  "player_id": 547248,
+  "name": "Iker Álvarez",
+  "position": "Portero",
+  "date_of_birth": "25/07/2001",
+  "nationality": "Andorra",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 24,
+  "birthplace": "Andorra la Vella",
+  "profile_url": "https://www.transfermarkt.es/iker-alvarez/profil/spieler/547248",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/547248-1698946239.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 18,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1179369,
+  "name": "Adrián Lekuna",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "19/08/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/adrian-lekuna/profil/spieler/1179369",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1179369-1731353385.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 706
+  }
+}

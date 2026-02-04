@@ -1,0 +1,29 @@
+{
+  "player_id": 702275,
+  "name": "Julián Mahicas",
+  "position": "Delantero centro",
+  "date_of_birth": "14/07/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Masquefa",
+  "profile_url": "https://www.transfermarkt.es/julian-mahicas/profil/spieler/702275",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/702275-1760545439.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Pro Evolution Players s.l.",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 477
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 71271,
+  "name": "Adrián",
+  "position": "Portero",
+  "date_of_birth": "03/01/1987",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 39,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/adrian/profil/spieler/71271",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/71271-1687166366.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": null
+}

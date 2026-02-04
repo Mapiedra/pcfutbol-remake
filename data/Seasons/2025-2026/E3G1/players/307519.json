@@ -1,0 +1,29 @@
+{
+  "player_id": 307519,
+  "name": "Fede San Emeterio",
+  "position": "Mediocentro",
+  "date_of_birth": "16/03/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 28,
+  "birthplace": "Sierra de Ibio",
+  "profile_url": "https://www.transfermarkt.es/fede-san-emeterio/profil/spieler/307519",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/307519-1725991174.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Adrián del Nido",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1056
+  }
+}

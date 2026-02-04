@@ -1,0 +1,29 @@
+{
+  "player_id": 1051724,
+  "name": "David Oduro",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/06/2006",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/david-oduro/profil/spieler/1051724",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1051724-1678624903.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CMG Sports",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 689
+  }
+}

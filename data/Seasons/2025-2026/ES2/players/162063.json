@@ -1,0 +1,29 @@
+{
+  "player_id": 162063,
+  "name": "Salva Ruiz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "17/05/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 30,
+  "birthplace": "Albal",
+  "profile_url": "https://www.transfermarkt.es/salva-ruiz/profil/spieler/162063",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/162063-1447231330.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1010
+  }
+}

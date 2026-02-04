@@ -1,0 +1,29 @@
+{
+  "player_id": 1184304,
+  "name": "Domingo Mba",
+  "position": "Extremo derecho",
+  "date_of_birth": "24/02/2000",
+  "nationality": "Guinea Ecuatorial",
+  "second_nationality": "España",
+  "height": null,
+  "foot": null,
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/domingo-mba/profil/spieler/1184304",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 7,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1254
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 466813,
+  "name": "Miguelete",
+  "position": "Mediapunta",
+  "date_of_birth": "09/05/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/miguelete/profil/spieler/466813",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/466813-1693667193.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "DV7 Management",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 617
+  }
+}

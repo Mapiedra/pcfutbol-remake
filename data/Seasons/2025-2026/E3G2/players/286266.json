@@ -1,0 +1,29 @@
+{
+  "player_id": 286266,
+  "name": "David Soto",
+  "position": "Extremo derecho",
+  "date_of_birth": "13/07/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 33,
+  "birthplace": "Ablitas",
+  "profile_url": "https://www.transfermarkt.es/david-soto/profil/spieler/286266",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/286266-1732577835.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 589
+  }
+}

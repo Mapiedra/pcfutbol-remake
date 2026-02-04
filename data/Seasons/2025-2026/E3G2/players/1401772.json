@@ -1,0 +1,29 @@
+{
+  "player_id": 1401772,
+  "name": "Cheikh Tidiane Thiam",
+  "position": "Mediocentro",
+  "date_of_birth": "07/11/2005",
+  "nationality": "Senegal",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Cambérène",
+  "profile_url": "https://www.transfermarkt.es/cheikh-tidiane-thiam/profil/spieler/1401772",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1401772-1746212667.jpeg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 466
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1064426,
+  "name": "Miguel Clavería",
+  "position": "Delantero centro",
+  "date_of_birth": "13/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "24",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Huelva",
+  "profile_url": "https://www.transfermarkt.es/miguel-claveria/profil/spieler/1064426",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 2,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 165
+  }
+}

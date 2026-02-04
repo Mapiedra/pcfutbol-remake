@@ -1,0 +1,29 @@
+{
+  "player_id": 510745,
+  "name": "Pau Darbra",
+  "position": "Mediocentro",
+  "date_of_birth": "22/05/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 33,
+  "birthplace": "Tiana",
+  "profile_url": "https://www.transfermarkt.es/pau-darbra/profil/spieler/510745",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/510745-1734548986.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1532
+  }
+}

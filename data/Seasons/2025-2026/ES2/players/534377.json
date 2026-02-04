@@ -1,0 +1,29 @@
+{
+  "player_id": 534377,
+  "name": "Kialy Abdoul Kone",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "08/04/1997",
+  "nationality": "Costa de Marfil",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 28,
+  "birthplace": "Abidjan",
+  "profile_url": "https://www.transfermarkt.es/kialy-abdoul-kone/profil/spieler/534377",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/534377-1694295048.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "INSUA GROUP",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1428
+  }
+}

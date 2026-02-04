@@ -1,0 +1,29 @@
+{
+  "player_id": 715640,
+  "name": "Juan Durán",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Alcalá de Henares",
+  "profile_url": "https://www.transfermarkt.es/juan-duran/profil/spieler/715640",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/715640-1700240240.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ELITE INTERNACIONAL SPORT AGENCY S.L.",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1794
+  }
+}

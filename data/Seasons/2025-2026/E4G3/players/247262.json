@@ -1,0 +1,29 @@
+{
+  "player_id": 247262,
+  "name": "Raúl González",
+  "position": "Defensa central",
+  "date_of_birth": "13/11/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 33,
+  "birthplace": "Muro de Alcoy",
+  "profile_url": "https://www.transfermarkt.es/raul-gonzalez/profil/spieler/247262",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/247262-1449135140.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1289
+  }
+}

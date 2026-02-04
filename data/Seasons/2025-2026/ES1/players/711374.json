@@ -1,0 +1,29 @@
+{
+  "player_id": 711374,
+  "name": "Jon Gorrotxategi",
+  "position": "Pivote",
+  "date_of_birth": "02/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 23,
+  "birthplace": "Eibar",
+  "profile_url": "https://www.transfermarkt.es/jon-gorrotxategi/profil/spieler/711374",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/711374-1727113195.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1463
+  }
+}

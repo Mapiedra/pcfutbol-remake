@@ -1,0 +1,29 @@
+{
+  "player_id": 1179482,
+  "name": "Iker Luque",
+  "position": "Extremo derecho",
+  "date_of_birth": "05/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,68 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 20,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/iker-luque/profil/spieler/1179482",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1179482-1731933191.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "PHSPORT",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 4,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1577
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 531404,
+  "name": "Marc Aguado",
+  "position": "Pivote",
+  "date_of_birth": "22/02/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 25,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/marc-aguado/profil/spieler/531404",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531404-1709050897.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1418
+  }
+}

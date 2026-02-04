@@ -1,0 +1,29 @@
+{
+  "player_id": 628886,
+  "name": "Iván Romero",
+  "position": "Delantero centro",
+  "date_of_birth": "10/04/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "7,50mill. €Ú",
+  "market_value_numeric": 7500000,
+  "age": 24,
+  "birthplace": "La Solana",
+  "profile_url": "https://www.transfermarkt.es/ivan-romero/profil/spieler/628886",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628886-1756192561.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "33 Sport",
+  "stats": {
+    "appearances": 17,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1325
+  }
+}

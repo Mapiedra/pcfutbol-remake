@@ -1,0 +1,29 @@
+{
+  "player_id": 593412,
+  "name": "Ilyas Chaira",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/02/2001",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 24,
+  "birthplace": "Ripoll",
+  "profile_url": "https://www.transfermarkt.es/ilyas-chaira/profil/spieler/593412",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/593412-1712568424.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 1227
+  }
+}

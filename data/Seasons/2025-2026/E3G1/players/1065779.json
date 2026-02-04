@@ -1,0 +1,29 @@
+{
+  "player_id": 1065779,
+  "name": "Raúl Sanchís",
+  "position": "Mediocentro",
+  "date_of_birth": "04/06/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/raul-sanchis/profil/spieler/1065779",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1065779-1732300719.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Special Talent",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 947
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 632919,
+  "name": "Miquel Alorda",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "13/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/miquel-alorda/profil/spieler/632919",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632919-1700522074.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 333
+  }
+}

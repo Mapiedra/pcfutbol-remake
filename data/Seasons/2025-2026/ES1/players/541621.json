@@ -1,0 +1,22 @@
+{
+  "player_id": 541621,
+  "name": "Marc Vidal",
+  "position": "Portero",
+  "date_of_birth": "14/02/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 25,
+  "birthplace": "Villarreal",
+  "profile_url": "https://www.transfermarkt.es/marc-vidal/profil/spieler/541621",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/541621-1523399454.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "TACTIC GRUP - OROBITG",
+  "stats": null
+}

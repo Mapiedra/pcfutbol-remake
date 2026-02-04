@@ -1,0 +1,29 @@
+{
+  "player_id": 627283,
+  "name": "Vadik Murria",
+  "position": "Defensa central",
+  "date_of_birth": "07/09/2000",
+  "nationality": "Rusia",
+  "second_nationality": "España",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 25,
+  "birthplace": "Kemerovo",
+  "profile_url": "https://www.transfermarkt.es/vadik-murria/profil/spieler/627283",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/627283-1746178598.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Carp Football Management",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 257
+  }
+}

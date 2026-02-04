@@ -1,0 +1,29 @@
+{
+  "player_id": 230203,
+  "name": "Facundo Ackermann",
+  "position": "Portero",
+  "date_of_birth": "26/03/1993",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 32,
+  "birthplace": "Nueva Helvecia",
+  "profile_url": "https://www.transfermarkt.es/facundo-ackermann/profil/spieler/230203",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/230203-1732736028.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 4,
+    "yellow_cards": 22,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

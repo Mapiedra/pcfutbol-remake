@@ -1,0 +1,22 @@
+{
+  "player_id": 862686,
+  "name": "Javi Eslava",
+  "position": "Delantero centro",
+  "date_of_birth": "14/06/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 29,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/javi-eslava/profil/spieler/862686",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/862686-1732141313.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": null
+}

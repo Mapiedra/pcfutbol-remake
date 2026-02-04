@@ -1,0 +1,29 @@
+{
+  "player_id": 635626,
+  "name": "Urko Ardanaz",
+  "position": "Mediocentro",
+  "date_of_birth": "19/07/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/urko-ardanaz/profil/spieler/635626",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Tiki Taka Group",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 885
+  }
+}

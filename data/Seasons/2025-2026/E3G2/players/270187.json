@@ -1,0 +1,29 @@
+{
+  "player_id": 270187,
+  "name": "Tomás Sánchez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "20/11/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,71 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 32,
+  "birthplace": "Algeciras",
+  "profile_url": "https://www.transfermarkt.es/tomas-sanchez/profil/spieler/270187",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 10,
+    "red_cards": 0,
+    "minutes_played": 1710
+  }
+}

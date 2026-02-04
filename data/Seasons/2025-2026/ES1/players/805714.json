@@ -1,0 +1,29 @@
+{
+  "player_id": 805714,
+  "name": "Renato Veiga",
+  "position": "Defensa central",
+  "date_of_birth": "29/07/2003",
+  "nationality": "Portugal",
+  "second_nationality": "Cabo Verde",
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "25,00mill. €Ú",
+  "market_value_numeric": 25000000,
+  "age": 22,
+  "birthplace": "Lisboa",
+  "profile_url": "https://www.transfermarkt.es/renato-veiga/profil/spieler/805714",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/805714-1749414999.jpg?lm=1",
+  "contract_until": "30/06/2032",
+  "international_caps": null,
+  "agent": "Mondo Victory",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 1282
+  }
+}

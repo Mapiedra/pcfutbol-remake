@@ -1,0 +1,29 @@
+{
+  "player_id": 628499,
+  "name": "Kenneth Soler",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "125mil €Ú",
+  "market_value_numeric": 125000,
+  "age": 24,
+  "birthplace": "Tarragona",
+  "profile_url": "https://www.transfermarkt.es/kenneth-soler/profil/spieler/628499",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628499-1602100888.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "OFSPORTS",
+  "stats": {
+    "appearances": 4,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 228
+  }
+}

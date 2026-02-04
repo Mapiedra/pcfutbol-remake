@@ -1,0 +1,29 @@
+{
+  "player_id": 165467,
+  "name": "Stole Dimitrievski",
+  "position": "Portero",
+  "date_of_birth": "25/12/1993",
+  "nationality": "Macedonia del Norte",
+  "second_nationality": "Macedonia",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 32,
+  "birthplace": "Kumanovo",
+  "profile_url": "https://www.transfermarkt.es/stole-dimitrievski/profil/spieler/165467",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/165467-1541150592.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 766556,
+  "name": "Diego Rodríguez",
+  "position": "Delantero centro",
+  "date_of_birth": "13/11/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/diego-rodriguez/profil/spieler/766556",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 19,
+    "goals": 7,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 996
+  }
+}

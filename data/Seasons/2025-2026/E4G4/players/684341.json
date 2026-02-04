@@ -1,0 +1,29 @@
+{
+  "player_id": 684341,
+  "name": "Guille Campos",
+  "position": "Defensa central",
+  "date_of_birth": "15/01/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 29,
+  "birthplace": "Sanlúcar de ...",
+  "profile_url": "https://www.transfermarkt.es/guille-campos/profil/spieler/684341",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FTM",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1350
+  }
+}

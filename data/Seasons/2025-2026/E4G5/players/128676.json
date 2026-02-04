@@ -1,0 +1,29 @@
+{
+  "player_id": 128676,
+  "name": "Gonzalo Llerena",
+  "position": "Defensa central",
+  "date_of_birth": "25/05/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Ambidiestro",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 35,
+  "birthplace": "Zafra",
+  "profile_url": "https://www.transfermarkt.es/gonzalo-llerena/profil/spieler/128676",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1473
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 636414,
+  "name": "Jorge Sarmiento",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "22/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/jorge-sarmiento/profil/spieler/636414",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636414-1700765305.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Cebrián Silva",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1733
+  }
+}

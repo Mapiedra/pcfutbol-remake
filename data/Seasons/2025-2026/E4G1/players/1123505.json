@@ -1,0 +1,29 @@
+{
+  "player_id": 1123505,
+  "name": "Viti Nieves",
+  "position": "Defensa central",
+  "date_of_birth": "03/09/1994",
+  "nationality": "Venezuela",
+  "second_nationality": "España",
+  "height": null,
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 31,
+  "birthplace": "San Antonio del ...",
+  "profile_url": "https://www.transfermarkt.es/viti-nieves/profil/spieler/1123505",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 484
+  }
+}

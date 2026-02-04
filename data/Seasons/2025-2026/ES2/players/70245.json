@@ -1,0 +1,29 @@
+{
+  "player_id": 70245,
+  "name": "Ignasi Miquel",
+  "position": "Defensa central",
+  "date_of_birth": "28/09/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 33,
+  "birthplace": "Corbera de Llobregat",
+  "profile_url": "https://www.transfermarkt.es/ignasi-miquel/profil/spieler/70245",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/70245-1513332415.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Joseba Diaz",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1062
+  }
+}

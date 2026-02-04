@@ -1,0 +1,29 @@
+{
+  "player_id": 930891,
+  "name": "Darío Germil",
+  "position": "Delantero centro",
+  "date_of_birth": "27/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,96 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Santiago de ...",
+  "profile_url": "https://www.transfermarkt.es/dario-germil/profil/spieler/930891",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Special Talent",
+  "stats": {
+    "appearances": 19,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1239
+  }
+}

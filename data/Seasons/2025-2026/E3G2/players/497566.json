@@ -1,0 +1,29 @@
+{
+  "player_id": 497566,
+  "name": "Goyo Medina",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "19/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/goyo-medina/profil/spieler/497566",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "GSM SPAIN",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 861
+  }
+}

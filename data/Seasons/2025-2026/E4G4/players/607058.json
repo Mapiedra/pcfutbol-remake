@@ -1,0 +1,29 @@
+{
+  "player_id": 607058,
+  "name": "Toni Jou",
+  "position": "Mediocentro",
+  "date_of_birth": "16/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 29,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/toni-jou/profil/spieler/607058",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/607058-1673035508.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HMFootball Sport Management",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 89
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 700565,
+  "name": "Brian Cipenga",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "11/03/1998",
+  "nationality": "RD del Congo",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 27,
+  "birthplace": "Kinshasa",
+  "profile_url": "https://www.transfermarkt.es/brian-cipenga/profil/spieler/700565",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/700565-1726738089.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MadeinFootball",
+  "stats": {
+    "appearances": 16,
+    "goals": 4,
+    "assists": 5,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1153
+  }
+}

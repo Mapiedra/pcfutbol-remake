@@ -1,0 +1,29 @@
+{
+  "player_id": 158796,
+  "name": "Omar Álvarez",
+  "position": "Extremo derecho",
+  "date_of_birth": "29/08/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,65 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 35,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/omar-alvarez/profil/spieler/158796",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 922
+  }
+}

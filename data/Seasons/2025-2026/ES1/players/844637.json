@@ -1,0 +1,29 @@
+{
+  "player_id": 844637,
+  "name": "Marc Pubill",
+  "position": "Defensa central",
+  "date_of_birth": "20/06/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 22,
+  "birthplace": "Terrassa",
+  "profile_url": "https://www.transfermarkt.es/marc-pubill/profil/spieler/844637",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/844637-1732735045.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 654
+  }
+}

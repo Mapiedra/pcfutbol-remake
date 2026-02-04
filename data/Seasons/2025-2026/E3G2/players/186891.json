@@ -1,0 +1,29 @@
+{
+  "player_id": 186891,
+  "name": "Álex Martínez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/08/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 35,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/alex-martinez/profil/spieler/186891",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/186891-1544777043.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1790
+  }
+}

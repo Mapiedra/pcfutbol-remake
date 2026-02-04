@@ -1,0 +1,29 @@
+{
+  "player_id": 1280234,
+  "name": "Hugo Rastrilla",
+  "position": "Lateral derecho",
+  "date_of_birth": "14/10/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/hugo-rastrilla/profil/spieler/1280234",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1587
+  }
+}

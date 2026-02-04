@@ -1,0 +1,29 @@
+{
+  "player_id": 1064144,
+  "name": "Rubén Vilela",
+  "position": "Defensa central",
+  "date_of_birth": "29/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Ribadeo",
+  "profile_url": "https://www.transfermarkt.es/ruben-vilela/profil/spieler/1064144",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 450
+  }
+}

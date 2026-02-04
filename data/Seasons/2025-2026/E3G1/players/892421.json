@@ -1,0 +1,22 @@
+{
+  "player_id": 892421,
+  "name": "Alex Quevedo",
+  "position": "Portero",
+  "date_of_birth": "28/04/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Izquierdo",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Mahón",
+  "profile_url": "https://www.transfermarkt.es/alex-quevedo/profil/spieler/892421",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": null
+}

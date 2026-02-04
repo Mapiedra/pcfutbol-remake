@@ -1,0 +1,29 @@
+{
+  "player_id": 935457,
+  "name": "Salim El Jebari",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "05/02/2004",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/salim-el-jebari/profil/spieler/935457",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/935457-1731932970.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PHSPORT",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 601
+  }
+}

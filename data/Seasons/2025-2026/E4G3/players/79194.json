@@ -1,0 +1,29 @@
+{
+  "player_id": 79194,
+  "name": "Erik Schouten",
+  "position": "Defensa central",
+  "date_of_birth": "16/08/1991",
+  "nationality": "Países Bajos",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 34,
+  "birthplace": "Westwoud",
+  "profile_url": "https://www.transfermarkt.es/erik-schouten/profil/spieler/79194",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/79194-1718023156.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YSI Football",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1085
+  }
+}

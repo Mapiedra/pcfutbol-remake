@@ -1,0 +1,29 @@
+{
+  "player_id": 152284,
+  "name": "Fran García",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "07/12/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 33,
+  "birthplace": "Vila-real",
+  "profile_url": "https://www.transfermarkt.es/fran-garcia/profil/spieler/152284",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/152284-1675799705.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Football Promotions (Scotland) Ltd.",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 180
+  }
+}

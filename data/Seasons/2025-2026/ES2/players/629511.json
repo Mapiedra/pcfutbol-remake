@@ -1,0 +1,29 @@
+{
+  "player_id": 629511,
+  "name": "Pablo Ramón",
+  "position": "Defensa central",
+  "date_of_birth": "30/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 24,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/pablo-ramon/profil/spieler/629511",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/629511-1712568179.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1440
+  }
+}

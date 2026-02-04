@@ -1,0 +1,22 @@
+{
+  "player_id": 1301760,
+  "name": "Plácido González",
+  "position": "Defensa central",
+  "date_of_birth": "01/01/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "28",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Villanueva de la ...",
+  "profile_url": "https://www.transfermarkt.es/placido-gonzalez/profil/spieler/1301760",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1301760-1732130027.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Rubén López Bueno",
+  "stats": null
+}

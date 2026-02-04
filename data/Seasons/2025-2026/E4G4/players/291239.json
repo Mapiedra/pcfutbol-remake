@@ -1,0 +1,29 @@
+{
+  "player_id": 291239,
+  "name": "Connor Ruane",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "15/11/1993",
+  "nationality": "Inglaterra",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Ambidiestro",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 32,
+  "birthplace": "Manchester",
+  "profile_url": "https://www.transfermarkt.es/connor-ruane/profil/spieler/291239",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/291239-1613458921.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 208
+  }
+}

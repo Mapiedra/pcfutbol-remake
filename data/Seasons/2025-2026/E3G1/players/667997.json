@@ -1,0 +1,29 @@
+{
+  "player_id": 667997,
+  "name": "Bilal Ouacharaf",
+  "position": "Lateral derecho",
+  "date_of_birth": "09/05/2002",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "El Ejido",
+  "profile_url": "https://www.transfermarkt.es/bilal-ouacharaf/profil/spieler/667997",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IS SPORTS AGENCY",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 550
+  }
+}

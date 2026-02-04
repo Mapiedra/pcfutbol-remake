@@ -1,0 +1,29 @@
+{
+  "player_id": 1075192,
+  "name": "Sergio Carmona",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "25/07/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/sergio-carmona/profil/spieler/1075192",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1075192-1714770050.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "F-PXT AGENCY",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 428
+  }
+}

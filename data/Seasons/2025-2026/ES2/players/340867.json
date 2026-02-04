@@ -1,0 +1,29 @@
+{
+  "player_id": 340867,
+  "name": "Jaime Seoane",
+  "position": "Mediocentro",
+  "date_of_birth": "22/01/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 29,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/jaime-seoane/profil/spieler/340867",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/340867-1572432326.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

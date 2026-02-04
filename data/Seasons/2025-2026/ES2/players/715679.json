@@ -1,0 +1,29 @@
+{
+  "player_id": 715679,
+  "name": "Lalo Aguilar",
+  "position": "Defensa central",
+  "date_of_birth": "11/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Ambidiestro",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/lalo-aguilar/profil/spieler/715679",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/715679-1736375163.jpeg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1650
+  }
+}

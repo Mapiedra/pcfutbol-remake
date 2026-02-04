@@ -1,0 +1,29 @@
+{
+  "player_id": 395234,
+  "name": "Batista Mendy",
+  "position": "Pivote",
+  "date_of_birth": "12/01/2000",
+  "nationality": "Francia",
+  "second_nationality": "Guinea-Bissau",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 26,
+  "birthplace": "Saint-Nazaire",
+  "profile_url": "https://www.transfermarkt.es/batista-mendy/profil/spieler/395234",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/395234-1756290427.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Kelyxane Sport Agency",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1240
+  }
+}

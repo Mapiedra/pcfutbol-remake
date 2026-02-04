@@ -1,0 +1,29 @@
+{
+  "player_id": 895333,
+  "name": "Koke Iglesias",
+  "position": "Lateral derecho",
+  "date_of_birth": "16/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 20,
+  "birthplace": "Pedrajas de San ...",
+  "profile_url": "https://www.transfermarkt.es/koke-iglesias/profil/spieler/895333",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/895333-1724146227.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 45
+  }
+}

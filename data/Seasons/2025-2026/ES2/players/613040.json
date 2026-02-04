@@ -1,0 +1,29 @@
+{
+  "player_id": 613040,
+  "name": "Youness Lachhab",
+  "position": "Mediocentro",
+  "date_of_birth": "23/04/1999",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,96 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 26,
+  "birthplace": "El Palmar",
+  "profile_url": "https://www.transfermarkt.es/youness-lachhab/profil/spieler/613040",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1555
+  }
+}

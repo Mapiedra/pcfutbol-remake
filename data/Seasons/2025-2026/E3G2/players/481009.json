@@ -1,0 +1,29 @@
+{
+  "player_id": 481009,
+  "name": "Teddy Sutherland",
+  "position": "Extremo derecho",
+  "date_of_birth": "28/03/2000",
+  "nationality": "Inglaterra",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "London",
+  "profile_url": "https://www.transfermarkt.es/teddy-sutherland/profil/spieler/481009",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/481009-1732217618.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 801
+  }
+}

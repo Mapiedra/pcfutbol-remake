@@ -1,0 +1,29 @@
+{
+  "player_id": 806955,
+  "name": "Dario Sits",
+  "position": "Delantero centro",
+  "date_of_birth": "04/02/2004",
+  "nationality": "Letonia",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 21,
+  "birthplace": "Kuldīga",
+  "profile_url": "https://www.transfermarkt.es/dario-sits/profil/spieler/806955",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/806955-1675935712.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 292
+  }
+}

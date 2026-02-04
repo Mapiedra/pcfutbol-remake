@@ -1,0 +1,29 @@
+{
+  "player_id": 509484,
+  "name": "Julián Delmás",
+  "position": "Lateral derecho",
+  "date_of_birth": "20/04/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "275mil €Ú",
+  "market_value_numeric": 275000,
+  "age": 30,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/julian-delmas/profil/spieler/509484",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 11
+  }
+}

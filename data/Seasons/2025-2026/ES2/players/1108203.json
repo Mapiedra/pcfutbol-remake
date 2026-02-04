@@ -1,0 +1,29 @@
+{
+  "player_id": 1108203,
+  "name": "Min-su Kim",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "19/01/2006",
+  "nationality": "Corea del Sur",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 20,
+  "birthplace": "Gwangju",
+  "profile_url": "https://www.transfermarkt.es/min-su-kim/profil/spieler/1108203",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1108203-1730843338.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 24,
+    "goals": 5,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1639
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 579304,
+  "name": "Emmanuel Attipoe",
+  "position": "Lateral derecho",
+  "date_of_birth": "22/06/2000",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 25,
+  "birthplace": "Accra",
+  "profile_url": "https://www.transfermarkt.es/emmanuel-attipoe/profil/spieler/579304",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/579304-1537292678.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LH Management",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1597
+  }
+}

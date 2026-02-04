@@ -1,0 +1,29 @@
+{
+  "player_id": 412927,
+  "name": "Álvaro Arnedo",
+  "position": "Mediocentro",
+  "date_of_birth": "09/06/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/alvaro-arnedo/profil/spieler/412927",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 450
+  }
+}

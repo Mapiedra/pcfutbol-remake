@@ -1,0 +1,29 @@
+{
+  "player_id": 387321,
+  "name": "Felipe Chacartegui",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "23/02/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Cádiz",
+  "profile_url": "https://www.transfermarkt.es/felipe-chacartegui/profil/spieler/387321",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/387321-1727030507.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1284
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 1000626,
+  "name": "Enric García",
+  "position": "Mediocentro",
+  "date_of_birth": "28/12/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/enric-garcia/profil/spieler/1000626",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1000626-1730843179.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

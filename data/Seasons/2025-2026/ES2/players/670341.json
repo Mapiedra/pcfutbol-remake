@@ -1,0 +1,22 @@
+{
+  "player_id": 670341,
+  "name": "Martín Fernández",
+  "position": "Pivote",
+  "date_of_birth": "08/05/2001",
+  "nationality": "Uruguay",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 24,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/martin-fernandez/profil/spieler/670341",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/670341-1739197463.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Focus Soccer Agency",
+  "stats": null
+}

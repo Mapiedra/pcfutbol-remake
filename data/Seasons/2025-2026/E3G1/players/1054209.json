@@ -1,0 +1,29 @@
+{
+  "player_id": 1054209,
+  "name": "Mahamadou Baldé",
+  "position": "Delantero centro",
+  "date_of_birth": "01/01/2004",
+  "nationality": "España",
+  "second_nationality": "Senegal",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 22,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/mahamadou-balde/profil/spieler/1054209",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1054209-1739271164.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 318
+  }
+}

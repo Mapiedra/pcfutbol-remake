@@ -1,0 +1,29 @@
+{
+  "player_id": 192009,
+  "name": "Unai López",
+  "position": "Mediocentro",
+  "date_of_birth": "30/10/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 30,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/unai-lopez/profil/spieler/192009",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/192009-1726662500.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1038
+  }
+}

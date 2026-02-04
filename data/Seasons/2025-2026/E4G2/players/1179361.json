@@ -1,0 +1,29 @@
+{
+  "player_id": 1179361,
+  "name": "Ander Peciña",
+  "position": "Delantero centro",
+  "date_of_birth": "04/05/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": "Sopela",
+  "profile_url": "https://www.transfermarkt.es/ander-pecina/profil/spieler/1179361",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1179361-1731353930.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IFM",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1290
+  }
+}

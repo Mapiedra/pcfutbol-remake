@@ -1,0 +1,29 @@
+{
+  "player_id": 335225,
+  "name": "Manu Morlanes",
+  "position": "Mediocentro",
+  "date_of_birth": "12/01/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "2,40mill. €Ú",
+  "market_value_numeric": 2400000,
+  "age": 27,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/manu-morlanes/profil/spieler/335225",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/335225-1552044533.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Goal Management",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 889
+  }
+}

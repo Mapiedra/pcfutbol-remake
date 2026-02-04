@@ -1,0 +1,29 @@
+{
+  "player_id": 69457,
+  "name": "Richi de Souza",
+  "position": "Defensa central",
+  "date_of_birth": "22/09/1989",
+  "nationality": "España",
+  "second_nationality": "Brasil",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 36,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/richi-de-souza/profil/spieler/69457",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1646
+  }
+}

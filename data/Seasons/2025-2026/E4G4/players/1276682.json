@@ -1,0 +1,22 @@
+{
+  "player_id": 1276682,
+  "name": "Jaime Morillas",
+  "position": "Portero",
+  "date_of_birth": "10/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Sa Pobla",
+  "profile_url": "https://www.transfermarkt.es/jaime-morillas/profil/spieler/1276682",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1276682-1727463754.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

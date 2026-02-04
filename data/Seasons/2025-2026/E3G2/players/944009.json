@@ -1,0 +1,29 @@
+{
+  "player_id": 944009,
+  "name": "David López",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "14/05/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/david-lopez/profil/spieler/944009",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "380amk",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1124
+  }
+}

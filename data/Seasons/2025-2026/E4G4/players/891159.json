@@ -1,0 +1,29 @@
+{
+  "player_id": 891159,
+  "name": "José Castillo",
+  "position": "Portero",
+  "date_of_birth": "06/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jose-castillo/profil/spieler/891159",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/891159-1702412270.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SPOCS Global Sports",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 936981,
+  "name": "Gustavo Puerta",
+  "position": "Mediocentro",
+  "date_of_birth": "23/07/2003",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "3,50mill. €Ú",
+  "market_value_numeric": 3500000,
+  "age": 22,
+  "birthplace": "La Victoria",
+  "profile_url": "https://www.transfermarkt.es/gustavo-puerta/profil/spieler/936981",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/936981-1695368256.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "TOP",
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1337
+  }
+}

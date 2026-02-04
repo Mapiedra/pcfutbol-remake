@@ -1,0 +1,22 @@
+{
+  "player_id": 1432016,
+  "name": "Tommy Romero",
+  "position": "Portero",
+  "date_of_birth": "08/05/2003",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/tommy-romero/profil/spieler/1432016",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NTA Sport Management",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 278837,
+  "name": "Luis Rioja",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/10/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 32,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/luis-rioja/profil/spieler/278837",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/278837-1647530464.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1387
+  }
+}

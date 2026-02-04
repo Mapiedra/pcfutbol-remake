@@ -1,0 +1,29 @@
+{
+  "player_id": 281990,
+  "name": "Nacho Monsalve",
+  "position": "Defensa central",
+  "date_of_birth": "27/04/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Ambidiestro",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/nacho-monsalve/profil/spieler/281990",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/281990-1676568205.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 668
+  }
+}

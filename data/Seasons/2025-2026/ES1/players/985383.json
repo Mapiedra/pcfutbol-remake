@@ -1,0 +1,29 @@
+{
+  "player_id": 985383,
+  "name": "Valentín Gómez",
+  "position": "Defensa central",
+  "date_of_birth": "26/06/2003",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 22,
+  "birthplace": "San Miguel",
+  "profile_url": "https://www.transfermarkt.es/valentin-gomez/profil/spieler/985383",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/985383-1758783099.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Guastadisegno",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1100
+  }
+}

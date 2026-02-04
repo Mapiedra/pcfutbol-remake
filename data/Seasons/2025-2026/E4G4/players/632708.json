@@ -1,0 +1,29 @@
+{
+  "player_id": 632708,
+  "name": "Willy Ibáñez",
+  "position": "Mediocentro",
+  "date_of_birth": "14/02/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "León",
+  "profile_url": "https://www.transfermarkt.es/willy-ibanez/profil/spieler/632708",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632708-1732231077.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1625
+  }
+}

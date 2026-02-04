@@ -1,0 +1,29 @@
+{
+  "player_id": 1487970,
+  "name": "Noah Obioma",
+  "position": "Defensa central",
+  "date_of_birth": "11/12/2007",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "12",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": "Rouen",
+  "profile_url": "https://www.transfermarkt.es/noah-obioma/profil/spieler/1487970",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 270
+  }
+}

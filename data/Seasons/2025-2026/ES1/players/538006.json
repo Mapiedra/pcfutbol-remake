@@ -1,0 +1,29 @@
+{
+  "player_id": 538006,
+  "name": "Kwasi Sibo",
+  "position": "Mediocentro",
+  "date_of_birth": "24/06/1998",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 27,
+  "birthplace": "Wa",
+  "profile_url": "https://www.transfermarkt.es/kwasi-sibo/profil/spieler/538006",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/538006-1622087180.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 721
+  }
+}

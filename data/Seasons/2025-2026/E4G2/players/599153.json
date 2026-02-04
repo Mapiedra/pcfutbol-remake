@@ -1,0 +1,29 @@
+{
+  "player_id": 599153,
+  "name": "Iñigo Alayeto",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "15/01/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 32,
+  "birthplace": "Murchante",
+  "profile_url": "https://www.transfermarkt.es/inigo-alayeto/profil/spieler/599153",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 18,
+    "goals": 13,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1356
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 332305,
+  "name": "Juan Otero",
+  "position": "Extremo derecho",
+  "date_of_birth": "26/05/1995",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 30,
+  "birthplace": "Sipí",
+  "profile_url": "https://www.transfermarkt.es/juan-otero/profil/spieler/332305",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/332305-1760543841.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Alinea",
+  "stats": {
+    "appearances": 20,
+    "goals": 7,
+    "assists": 9,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1635
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 95926,
+  "name": "Hugo Díaz",
+  "position": "Delantero centro",
+  "date_of_birth": "09/02/1988",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 37,
+  "birthplace": "Almodóvar del Río",
+  "profile_url": "https://www.transfermarkt.es/hugo-diaz/profil/spieler/95926",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/95926-1673131013.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1242
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1423716,
+  "name": "Pablo Goitia",
+  "position": "Extremo derecho",
+  "date_of_birth": "19/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Pontevedra",
+  "profile_url": "https://www.transfermarkt.es/pablo-goitia/profil/spieler/1423716",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 290
+  }
+}

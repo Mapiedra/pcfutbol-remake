@@ -1,0 +1,29 @@
+{
+  "player_id": 1244578,
+  "name": "Luis Quiñónez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "17/07/2004",
+  "nationality": "Ecuador",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Esmeraldas",
+  "profile_url": "https://www.transfermarkt.es/luis-quinonez/profil/spieler/1244578",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1244578-1744040454.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 42
+  }
+}

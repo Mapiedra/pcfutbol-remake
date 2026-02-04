@@ -1,0 +1,29 @@
+{
+  "player_id": 30321,
+  "name": "Óscar Trejo",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "26/04/1988",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 37,
+  "birthplace": "Santiago del Estero",
+  "profile_url": "https://www.transfermarkt.es/oscar-trejo/profil/spieler/30321",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/30321-1653039805.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eleven Talent Group",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 52
+  }
+}

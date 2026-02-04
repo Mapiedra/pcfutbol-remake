@@ -1,0 +1,29 @@
+{
+  "player_id": 1034853,
+  "name": "Nobel Mendy",
+  "position": "Defensa central",
+  "date_of_birth": "03/09/2004",
+  "nationality": "Senegal",
+  "second_nationality": "Guinea-Bissau",
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "32",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 21,
+  "birthplace": "Guédiawaye",
+  "profile_url": "https://www.transfermarkt.es/nobel-mendy/profil/spieler/1034853",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1034853-1736244947.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BS Group International ",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 949
+  }
+}

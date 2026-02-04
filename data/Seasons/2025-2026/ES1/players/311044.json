@@ -1,0 +1,29 @@
+{
+  "player_id": 311044,
+  "name": "Alfonso Espino",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "05/01/1992",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,72 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 34,
+  "birthplace": "San Jacinto",
+  "profile_url": "https://www.transfermarkt.es/alfonso-espino/profil/spieler/311044",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/311044-1635328827.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "GBG Global Business Group",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 540
+  }
+}

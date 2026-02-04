@@ -1,0 +1,29 @@
+{
+  "player_id": 1055133,
+  "name": "Óscar Gonpi",
+  "position": "Extremo derecho",
+  "date_of_birth": "11/07/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 24,
+  "birthplace": "Badalona",
+  "profile_url": "https://www.transfermarkt.es/oscar-gonpi/profil/spieler/1055133",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1055133-1732228620.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Special Talent",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 854
+  }
+}

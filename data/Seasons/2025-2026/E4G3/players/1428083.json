@@ -1,0 +1,29 @@
+{
+  "player_id": 1428083,
+  "name": "Steven Sibille",
+  "position": "Lateral derecho",
+  "date_of_birth": "06/02/2004",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/steven-sibille/profil/spieler/1428083",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 652
+  }
+}

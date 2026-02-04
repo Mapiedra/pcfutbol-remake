@@ -1,0 +1,29 @@
+{
+  "player_id": 628882,
+  "name": "Luismi Luengo",
+  "position": "Defensa central",
+  "date_of_birth": "19/03/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Badajoz",
+  "profile_url": "https://www.transfermarkt.es/luismi-luengo/profil/spieler/628882",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628882-1679083059.jpeg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "HMFootball Sport Management",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 1,
+    "minutes_played": 1370
+  }
+}

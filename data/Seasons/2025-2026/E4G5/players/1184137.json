@@ -1,0 +1,29 @@
+{
+  "player_id": 1184137,
+  "name": "Yassin Tallal",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "03/03/2005",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/yassin-tallal/profil/spieler/1184137",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1184137-1732138803.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NEXO Football Agency",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1334
+  }
+}

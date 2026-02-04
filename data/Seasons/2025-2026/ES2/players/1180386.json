@@ -1,0 +1,29 @@
+{
+  "player_id": 1180386,
+  "name": "Efe Aghama",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "11/06/2004",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/efe-aghama/profil/spieler/1180386",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HORIZON SM",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 160
+  }
+}

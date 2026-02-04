@@ -1,0 +1,29 @@
+{
+  "player_id": 327657,
+  "name": "Pau López",
+  "position": "Mediocentro",
+  "date_of_birth": "22/10/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 30,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/pau-lopez/profil/spieler/327657",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/327657-1732121712.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 564
+  }
+}

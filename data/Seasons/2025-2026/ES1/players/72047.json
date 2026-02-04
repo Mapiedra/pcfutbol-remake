@@ -1,0 +1,29 @@
+{
+  "player_id": 72047,
+  "name": "Iago Aspas",
+  "position": "Delantero centro",
+  "date_of_birth": "01/08/1987",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 38,
+  "birthplace": "Moaña",
+  "profile_url": "https://www.transfermarkt.es/iago-aspas/profil/spieler/72047",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/72047-1758827533.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 759
+  }
+}

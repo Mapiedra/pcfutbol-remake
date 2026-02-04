@@ -1,0 +1,29 @@
+{
+  "player_id": 469669,
+  "name": "Yvan Neyou",
+  "position": "Pivote",
+  "date_of_birth": "03/01/1997",
+  "nationality": "Camerún",
+  "second_nationality": "Francia",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 29,
+  "birthplace": "Douala",
+  "profile_url": "https://www.transfermarkt.es/yvan-neyou/profil/spieler/469669",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/469669-1703762516.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "IFM",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 65
+  }
+}

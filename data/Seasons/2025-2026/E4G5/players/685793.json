@@ -1,0 +1,29 @@
+{
+  "player_id": 685793,
+  "name": "Raúl Pesca",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "31/07/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Pinto",
+  "profile_url": "https://www.transfermarkt.es/raul-pesca/profil/spieler/685793",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/685793-1700153331.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 5,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1511
+  }
+}

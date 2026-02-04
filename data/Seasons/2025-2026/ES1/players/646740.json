@@ -1,0 +1,29 @@
+{
+  "player_id": 646740,
+  "name": "Gavi",
+  "position": "Mediocentro",
+  "date_of_birth": "05/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "40,00mill. €Ú",
+  "market_value_numeric": 40000000,
+  "age": 21,
+  "birthplace": "Los Palacios y ...",
+  "profile_url": "https://www.transfermarkt.es/gavi/profil/spieler/646740",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/646740-1682685701.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "De la Peña & Sostres",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 66
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 473359,
+  "name": "Agus Alonso",
+  "position": "Delantero centro",
+  "date_of_birth": "21/09/1994",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 31,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/agus-alonso/profil/spieler/473359",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Sport",
+  "stats": {
+    "appearances": 14,
+    "goals": 6,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 913
+  }
+}

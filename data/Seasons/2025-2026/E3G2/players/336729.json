@@ -1,0 +1,29 @@
+{
+  "player_id": 336729,
+  "name": "Cedric Omoigui",
+  "position": "Delantero centro",
+  "date_of_birth": "11/11/1994",
+  "nationality": "Nigeria",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 31,
+  "birthplace": "Benin City",
+  "profile_url": "https://www.transfermarkt.es/cedric-omoigui/profil/spieler/336729",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/336729-1700767954.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 21,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 999
+  }
+}

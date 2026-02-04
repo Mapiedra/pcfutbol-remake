@@ -1,0 +1,29 @@
+{
+  "player_id": 717952,
+  "name": "Mario de Luis",
+  "position": "Portero",
+  "date_of_birth": "06/05/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/mario-de-luis/profil/spieler/717952",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/717952-1682451448.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Roalza",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 284888,
+  "name": "Alberto Solís",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "01/01/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Tomares",
+  "profile_url": "https://www.transfermarkt.es/alberto-solis/profil/spieler/284888",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": null
+}

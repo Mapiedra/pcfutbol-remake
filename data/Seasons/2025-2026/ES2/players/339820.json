@@ -1,0 +1,29 @@
+{
+  "player_id": 339820,
+  "name": "Amath Ndiaye",
+  "position": "Extremo derecho",
+  "date_of_birth": "16/07/1996",
+  "nationality": "Senegal",
+  "second_nationality": "España",
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "900mil €Ú",
+  "market_value_numeric": 900000,
+  "age": 29,
+  "birthplace": "Dakar",
+  "profile_url": "https://www.transfermarkt.es/amath-ndiaye/profil/spieler/339820",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/339820-1510233284.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "EF11 SL",
+  "stats": {
+    "appearances": 14,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 832
+  }
+}

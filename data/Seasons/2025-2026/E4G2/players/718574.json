@@ -1,0 +1,29 @@
+{
+  "player_id": 718574,
+  "name": "Álex Daza",
+  "position": "Portero",
+  "date_of_birth": "22/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": null,
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Alcalá de Guadaíra",
+  "profile_url": "https://www.transfermarkt.es/alex-daza/profil/spieler/718574",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/718574-1764187683.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

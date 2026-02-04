@@ -1,0 +1,29 @@
+{
+  "player_id": 216464,
+  "name": "Carlos Fernández",
+  "position": "Delantero centro",
+  "date_of_birth": "22/05/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 29,
+  "birthplace": "Castilleja de Guzmán",
+  "profile_url": "https://www.transfermarkt.es/carlos-fernandez/profil/spieler/216464",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/216464-1544775694.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 10,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1595
+  }
+}

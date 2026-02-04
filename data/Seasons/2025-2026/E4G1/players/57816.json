@@ -1,0 +1,29 @@
+{
+  "player_id": 57816,
+  "name": "Alberto Lora",
+  "position": "Mediocentro",
+  "date_of_birth": "25/03/1987",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,64 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 38,
+  "birthplace": "Móstoles",
+  "profile_url": "https://www.transfermarkt.es/alberto-lora/profil/spieler/57816",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/57816-1447320183.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 904
+  }
+}

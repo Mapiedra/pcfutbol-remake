@@ -1,0 +1,29 @@
+{
+  "player_id": 221899,
+  "name": "Léo Baptistão",
+  "position": "Delantero centro",
+  "date_of_birth": "26/08/1992",
+  "nationality": "Brasil",
+  "second_nationality": "España",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 33,
+  "birthplace": "Santos",
+  "profile_url": "https://www.transfermarkt.es/leo-baptistao/profil/spieler/221899",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/221899-1732735727.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Soccersport",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1022
+  }
+}

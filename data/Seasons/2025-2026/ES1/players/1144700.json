@@ -1,0 +1,29 @@
+{
+  "player_id": 1144700,
+  "name": "Matías Moreno",
+  "position": "Defensa central",
+  "date_of_birth": "24/09/2003",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 22,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/matias-moreno/profil/spieler/1144700",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1144700-1730183072.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ADA SPORTS",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1037
+  }
+}

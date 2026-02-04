@@ -1,0 +1,22 @@
+{
+  "player_id": 941156,
+  "name": "Adri Suárez",
+  "position": "Portero",
+  "date_of_birth": "28/05/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "35",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 20,
+  "birthplace": "Teror",
+  "profile_url": "https://www.transfermarkt.es/adri-suarez/profil/spieler/941156",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": null
+}

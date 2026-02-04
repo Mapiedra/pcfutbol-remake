@@ -1,0 +1,29 @@
+{
+  "player_id": 424042,
+  "name": "Nahuel Molina",
+  "position": "Lateral derecho",
+  "date_of_birth": "06/04/1998",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 27,
+  "birthplace": "Embalse",
+  "profile_url": "https://www.transfermarkt.es/nahuel-molina/profil/spieler/424042",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/424042-1697037362.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "ADMIRA PARTNERS UK",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 540
+  }
+}

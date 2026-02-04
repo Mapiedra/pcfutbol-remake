@@ -1,0 +1,29 @@
+{
+  "player_id": 413262,
+  "name": "Dani Raba",
+  "position": "Mediapunta",
+  "date_of_birth": "29/10/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "2,40mill. €Ú",
+  "market_value_numeric": 2400000,
+  "age": 30,
+  "birthplace": "Santander",
+  "profile_url": "https://www.transfermarkt.es/dani-raba/profil/spieler/413262",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/413262-1743493611.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Joseba Diaz",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 248
+  }
+}

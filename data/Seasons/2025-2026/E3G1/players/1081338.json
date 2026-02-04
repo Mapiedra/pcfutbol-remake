@@ -1,0 +1,29 @@
+{
+  "player_id": 1081338,
+  "name": "Quicala Bari",
+  "position": "Extremo derecho",
+  "date_of_birth": "18/01/2002",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": "España",
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Bissau",
+  "profile_url": "https://www.transfermarkt.es/quicala-bari/profil/spieler/1081338",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 866
+  }
+}

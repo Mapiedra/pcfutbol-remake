@@ -1,0 +1,29 @@
+{
+  "player_id": 435500,
+  "name": "Sergio González",
+  "position": "Mediocentro",
+  "date_of_birth": "14/05/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Ambidiestro",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 28,
+  "birthplace": "Cartagena",
+  "profile_url": "https://www.transfermarkt.es/sergio-gonzalez/profil/spieler/435500",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/435500-1610536245.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 724
+  }
+}

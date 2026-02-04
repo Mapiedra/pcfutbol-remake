@@ -1,0 +1,29 @@
+{
+  "player_id": 167721,
+  "name": "Chimy Ávila",
+  "position": "Delantero centro",
+  "date_of_birth": "06/02/1994",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 31,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/chimy-avila/profil/spieler/167721",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/167721-1708949836.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Carlos Bilicich",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 158
+  }
+}

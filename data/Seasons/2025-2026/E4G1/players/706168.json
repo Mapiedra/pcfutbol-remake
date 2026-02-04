@@ -1,0 +1,29 @@
+{
+  "player_id": 706168,
+  "name": "Borja Marchante",
+  "position": "Defensa central",
+  "date_of_birth": "24/08/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Las Mesas",
+  "profile_url": "https://www.transfermarkt.es/borja-marchante/profil/spieler/706168",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/706168-1732230772.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 21,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1783
+  }
+}

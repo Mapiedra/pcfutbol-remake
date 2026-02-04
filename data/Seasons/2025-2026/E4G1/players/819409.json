@@ -1,0 +1,29 @@
+{
+  "player_id": 819409,
+  "name": "Leo Mendes",
+  "position": "Portero",
+  "date_of_birth": "08/12/2000",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": "España",
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 25,
+  "birthplace": "Arrecife",
+  "profile_url": "https://www.transfermarkt.es/leo-mendes/profil/spieler/819409",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 18,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

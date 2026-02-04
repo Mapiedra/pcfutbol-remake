@@ -1,0 +1,29 @@
+{
+  "player_id": 854097,
+  "name": "Stefan Dzodic",
+  "position": "Mediocentro",
+  "date_of_birth": "15/03/2005",
+  "nationality": "Serbia",
+  "second_nationality": "Francia",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 20,
+  "birthplace": "Montpellier",
+  "profile_url": "https://www.transfermarkt.es/stefan-dzodic/profil/spieler/854097",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/854097-1752425181.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 910
+  }
+}

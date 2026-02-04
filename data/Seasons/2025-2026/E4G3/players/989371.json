@@ -1,0 +1,29 @@
+{
+  "player_id": 989371,
+  "name": "Marc Arnau",
+  "position": "Portero",
+  "date_of_birth": "01/01/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/marc-arnau/profil/spieler/989371",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NTA Sport Management",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

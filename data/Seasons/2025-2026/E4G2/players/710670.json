@@ -1,0 +1,29 @@
+{
+  "player_id": 710670,
+  "name": "Kevin Soeiro",
+  "position": "Delantero centro",
+  "date_of_birth": "22/03/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Pitillas",
+  "profile_url": "https://www.transfermarkt.es/kevin-soeiro/profil/spieler/710670",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/710670-1732126329.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 1068
+  }
+}

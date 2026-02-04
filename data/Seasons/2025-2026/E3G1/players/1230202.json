@@ -1,0 +1,29 @@
+{
+  "player_id": 1230202,
+  "name": "Borja Vázquez",
+  "position": "Delantero centro",
+  "date_of_birth": "18/01/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/borja-vazquez/profil/spieler/1230202",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1453
+  }
+}

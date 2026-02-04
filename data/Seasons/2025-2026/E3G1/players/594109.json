@@ -1,0 +1,29 @@
+{
+  "player_id": 594109,
+  "name": "Boris Moltenis",
+  "position": "Defensa central",
+  "date_of_birth": "08/05/1999",
+  "nationality": "Martinica",
+  "second_nationality": "Francia",
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 26,
+  "birthplace": "Belfort",
+  "profile_url": "https://www.transfermarkt.es/boris-moltenis/profil/spieler/594109",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/594109-1706289172.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1330
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 938156,
+  "name": "Tommy Marqués",
+  "position": "Pivote",
+  "date_of_birth": "30/10/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 19,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/tommy-marques/profil/spieler/938156",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/938156-1750759779.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1066
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 658115,
+  "name": "Abel Bretones",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/08/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "4,50mill. €Ú",
+  "market_value_numeric": 4500000,
+  "age": 25,
+  "birthplace": "Langreo",
+  "profile_url": "https://www.transfermarkt.es/abel-bretones/profil/spieler/658115",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/658115-1690301272.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "MRH Football Agency",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1362
+  }
+}

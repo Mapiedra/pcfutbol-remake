@@ -1,0 +1,29 @@
+{
+  "player_id": 708498,
+  "name": "Jaime Vallejo",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "18/05/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/jaime-vallejo/profil/spieler/708498",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 375
+  }
+}

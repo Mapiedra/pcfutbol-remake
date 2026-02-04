@@ -1,0 +1,29 @@
+{
+  "player_id": 469906,
+  "name": "Marvin Anieboh",
+  "position": "Defensa central",
+  "date_of_birth": "26/08/1997",
+  "nationality": "Guinea Ecuatorial",
+  "second_nationality": "España",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/marvin-anieboh/profil/spieler/469906",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/469906-1700694416.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HMFootball Sport Management",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1246
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 636385,
+  "name": "Yeremay Hernández",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "10/12/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "25,00mill. €Ú",
+  "market_value_numeric": 25000000,
+  "age": 23,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/yeremay-hernandez/profil/spieler/636385",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636385-1762939146.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Balance International Group",
+  "stats": {
+    "appearances": 23,
+    "goals": 8,
+    "assists": 7,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 2005
+  }
+}

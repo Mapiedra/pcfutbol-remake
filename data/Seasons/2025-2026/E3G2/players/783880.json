@@ -1,0 +1,29 @@
+{
+  "player_id": 783880,
+  "name": "Rafa Diz",
+  "position": "Mediocentro",
+  "date_of_birth": "09/10/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/rafa-diz/profil/spieler/783880",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/783880-1732137512.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 9,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 396
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1009766,
+  "name": "David Otorbi",
+  "position": "Extremo derecho",
+  "date_of_birth": "16/10/2007",
+  "nationality": "España",
+  "second_nationality": "Nigeria",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 18,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/david-otorbi/profil/spieler/1009766",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1009766-1724053276.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 850
+  }
+}

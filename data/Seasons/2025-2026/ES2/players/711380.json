@@ -1,0 +1,29 @@
+{
+  "player_id": 711380,
+  "name": "Jon Balda",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "20/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 23,
+  "birthplace": "Anoeta",
+  "profile_url": "https://www.transfermarkt.es/jon-balda/profil/spieler/711380",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/711380-1732795226.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1589
+  }
+}

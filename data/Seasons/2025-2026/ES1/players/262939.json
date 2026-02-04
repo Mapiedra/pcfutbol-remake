@@ -1,0 +1,29 @@
+{
+  "player_id": 262939,
+  "name": "Johan Mojica",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/08/1992",
+  "nationality": "Colombia",
+  "second_nationality": "España",
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 33,
+  "birthplace": "Santiago de Cali",
+  "profile_url": "https://www.transfermarkt.es/johan-mojica/profil/spieler/262939",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/262939-1541161893.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "LF Sport Management",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1586
+  }
+}

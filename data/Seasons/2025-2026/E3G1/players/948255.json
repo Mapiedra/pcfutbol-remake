@@ -1,0 +1,29 @@
+{
+  "player_id": 948255,
+  "name": "Cristian Perea",
+  "position": "Pivote",
+  "date_of_birth": "17/08/2005",
+  "nationality": "España",
+  "second_nationality": "Colombia",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 20,
+  "birthplace": "Lleida",
+  "profile_url": "https://www.transfermarkt.es/cristian-perea/profil/spieler/948255",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/948255-1730833865.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 608
+  }
+}

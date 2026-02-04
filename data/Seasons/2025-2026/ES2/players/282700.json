@@ -1,0 +1,29 @@
+{
+  "player_id": 282700,
+  "name": "Enric Franquesa",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "26/02/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 28,
+  "birthplace": "Sant Cugat del ...",
+  "profile_url": "https://www.transfermarkt.es/enric-franquesa/profil/spieler/282700",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/282700-1625480292.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AC Talent",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 675
+  }
+}

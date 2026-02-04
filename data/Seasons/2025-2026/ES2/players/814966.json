@@ -1,0 +1,29 @@
+{
+  "player_id": 814966,
+  "name": "Agustín Sienra",
+  "position": "Defensa central",
+  "date_of_birth": "14/07/1999",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 26,
+  "birthplace": "Capitán Bermúdez",
+  "profile_url": "https://www.transfermarkt.es/agustin-sienra/profil/spieler/814966",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/814966-1732821340.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1038
+  }
+}

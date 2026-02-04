@@ -1,0 +1,22 @@
+{
+  "player_id": 512111,
+  "name": "Álex Cortijo",
+  "position": "Defensa central",
+  "date_of_birth": "13/11/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 29,
+  "birthplace": "La Barca de la ...",
+  "profile_url": "https://www.transfermarkt.es/alex-cortijo/profil/spieler/512111",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/512111-1751927199.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

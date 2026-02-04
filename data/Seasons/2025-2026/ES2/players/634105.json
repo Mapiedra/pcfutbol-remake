@@ -1,0 +1,29 @@
+{
+  "player_id": 634105,
+  "name": "Alberto Marí",
+  "position": "Delantero centro",
+  "date_of_birth": "11/07/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 24,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/alberto-mari/profil/spieler/634105",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/634105-1690382984.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 822
+  }
+}

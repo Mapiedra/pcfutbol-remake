@@ -1,0 +1,29 @@
+{
+  "player_id": 396125,
+  "name": "José Carlos Márquez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "17/04/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 28,
+  "birthplace": "Dos Hermanas",
+  "profile_url": "https://www.transfermarkt.es/jose-carlos-marquez/profil/spieler/396125",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/396125-1732137954.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 21,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1555
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1023879,
+  "name": "Albert Orriols",
+  "position": "Mediocentro",
+  "date_of_birth": "02/12/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Vic",
+  "profile_url": "https://www.transfermarkt.es/albert-orriols/profil/spieler/1023879",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1023879-1725605821.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1890
+  }
+}

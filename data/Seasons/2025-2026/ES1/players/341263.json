@@ -1,0 +1,29 @@
+{
+  "player_id": 341263,
+  "name": "Adrián Dela",
+  "position": "Defensa central",
+  "date_of_birth": "26/02/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 26,
+  "birthplace": "El Escorial",
+  "profile_url": "https://www.transfermarkt.es/adrian-dela/profil/spieler/341263",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/341263-1698879765.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gesport Espizua SL",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1309
+  }
+}

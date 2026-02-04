@@ -1,0 +1,29 @@
+{
+  "player_id": 895331,
+  "name": "Dani Pérez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "26/07/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/dani-perez/profil/spieler/895331",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 548
+  }
+}

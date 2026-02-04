@@ -1,0 +1,29 @@
+{
+  "player_id": 729814,
+  "name": "Georges Mikautadze",
+  "position": "Delantero centro",
+  "date_of_birth": "31/10/2000",
+  "nationality": "Georgia",
+  "second_nationality": "Francia",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "28,00mill. €Ú",
+  "market_value_numeric": 28000000,
+  "age": 25,
+  "birthplace": "Lyon",
+  "profile_url": "https://www.transfermarkt.es/georges-mikautadze/profil/spieler/729814",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/729814-1719222514.jpg?lm=1",
+  "contract_until": "30/06/2031",
+  "international_caps": null,
+  "agent": "VV Consulting",
+  "stats": {
+    "appearances": 15,
+    "goals": 5,
+    "assists": 3,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 919
+  }
+}

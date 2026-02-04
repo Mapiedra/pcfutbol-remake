@@ -1,0 +1,29 @@
+{
+  "player_id": 331503,
+  "name": "Alejandro Viedma",
+  "position": "Mediocentro",
+  "date_of_birth": "16/04/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 26,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/alejandro-viedma/profil/spieler/331503",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 28
+  }
+}

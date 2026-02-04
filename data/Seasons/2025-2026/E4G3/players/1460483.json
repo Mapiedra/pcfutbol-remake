@@ -1,0 +1,29 @@
+{
+  "player_id": 1460483,
+  "name": "Lou White",
+  "position": "Extremo derecho",
+  "date_of_birth": "22/03/2007",
+  "nationality": "Suiza",
+  "second_nationality": "Barbados",
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": "Winterthur",
+  "profile_url": "https://www.transfermarkt.es/lou-white/profil/spieler/1460483",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 156
+  }
+}

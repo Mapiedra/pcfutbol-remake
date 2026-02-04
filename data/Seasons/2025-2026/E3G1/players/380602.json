@@ -1,0 +1,29 @@
+{
+  "player_id": 380602,
+  "name": "Ekaitz Molina",
+  "position": "Mediocentro",
+  "date_of_birth": "25/09/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 35,
+  "birthplace": "Abadiño",
+  "profile_url": "https://www.transfermarkt.es/ekaitz-molina/profil/spieler/380602",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/380602-1736856677.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SportySpain",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 853
+  }
+}

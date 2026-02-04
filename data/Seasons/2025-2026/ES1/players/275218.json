@@ -1,0 +1,29 @@
+{
+  "player_id": 275218,
+  "name": "Augusto Batalla",
+  "position": "Portero",
+  "date_of_birth": "30/04/1996",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 29,
+  "birthplace": "Hurlingham",
+  "profile_url": "https://www.transfermarkt.es/augusto-batalla/profil/spieler/275218",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/275218-1656336113.JPG?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Hernan Berman",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 28,
+    "red_cards": 0,
+    "minutes_played": 6
+  }
+}

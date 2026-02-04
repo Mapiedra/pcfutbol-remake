@@ -1,0 +1,29 @@
+{
+  "player_id": 204096,
+  "name": "Carlos Blanco",
+  "position": "Defensa central",
+  "date_of_birth": "06/01/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/carlos-blanco/profil/spieler/204096",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/204096-1413554199.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 19,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1654
+  }
+}

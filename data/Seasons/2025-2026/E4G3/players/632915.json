@@ -1,0 +1,29 @@
+{
+  "player_id": 632915,
+  "name": "Carlos Sánchez",
+  "position": "Lateral derecho",
+  "date_of_birth": "19/04/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/carlos-sanchez/profil/spieler/632915",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Identity Sports",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1273
+  }
+}

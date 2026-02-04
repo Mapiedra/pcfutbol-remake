@@ -1,0 +1,29 @@
+{
+  "player_id": 505675,
+  "name": "Rober González",
+  "position": "Extremo derecho",
+  "date_of_birth": "08/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,69 m",
+  "foot": "Ambidiestro",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 25,
+  "birthplace": "Mérida",
+  "profile_url": "https://www.transfermarkt.es/rober-gonzalez/profil/spieler/505675",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/505675-1764336539.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 90
+  }
+}

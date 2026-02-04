@@ -1,0 +1,22 @@
+{
+  "player_id": 199369,
+  "name": "Sandro Ramírez",
+  "position": "Delantero centro",
+  "date_of_birth": "09/07/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 30,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/sandro-ramirez/profil/spieler/199369",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/199369-1726230862.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": null
+}

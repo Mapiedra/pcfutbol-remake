@@ -1,0 +1,29 @@
+{
+  "player_id": 536030,
+  "name": "Arnau Puigmal",
+  "position": "Mediocentro",
+  "date_of_birth": "10/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 25,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/arnau-puigmal/profil/spieler/536030",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/536030-1732735394.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "REVOLUTION Football Boutique",
+  "stats": {
+    "appearances": 23,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 872
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 251046,
+  "name": "Einar Galilea",
+  "position": "Defensa central",
+  "date_of_birth": "22/05/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 31,
+  "birthplace": "Vitoria-Gasteiz",
+  "profile_url": "https://www.transfermarkt.es/einar-galilea/profil/spieler/251046",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/251046-1646598982.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1228
+  }
+}

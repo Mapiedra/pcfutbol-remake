@@ -1,0 +1,29 @@
+{
+  "player_id": 379530,
+  "name": "Carlos Doncel",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "04/12/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 29,
+  "birthplace": "Cabrera de Mar",
+  "profile_url": "https://www.transfermarkt.es/carlos-doncel/profil/spieler/379530",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/379530-1732141487.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1154
+  }
+}

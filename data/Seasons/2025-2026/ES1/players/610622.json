@@ -1,0 +1,29 @@
+{
+  "player_id": 610622,
+  "name": "Urko Izeta",
+  "position": "Delantero centro",
+  "date_of_birth": "29/09/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 26,
+  "birthplace": "Aia",
+  "profile_url": "https://www.transfermarkt.es/urko-izeta/profil/spieler/610622",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/610622-1709678226.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 123
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 67544,
+  "name": "Dani Nieto",
+  "position": "Extremo derecho",
+  "date_of_birth": "04/05/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 34,
+  "birthplace": "Palmanova",
+  "profile_url": "https://www.transfermarkt.es/dani-nieto/profil/spieler/67544",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/67544-1700240772.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SimaSport Soccer",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 355
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 962113,
+  "name": "Quim Junyent",
+  "position": "Mediocentro",
+  "date_of_birth": "25/03/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,71 m",
+  "foot": "Ambidiestro",
+  "squad_number": "27",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 18,
+  "birthplace": "Balsereny",
+  "profile_url": "https://www.transfermarkt.es/quim-junyent/profil/spieler/962113",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/962113-1745910971.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 87
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 710672,
+  "name": "Xabi Irurita",
+  "position": "Lateral derecho",
+  "date_of_birth": "02/01/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Villava-Atarrabia",
+  "profile_url": "https://www.transfermarkt.es/xabi-irurita/profil/spieler/710672",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/710672-1731351814.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IS SPORTS AGENCY",
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 861
+  }
+}

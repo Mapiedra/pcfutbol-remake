@@ -1,0 +1,29 @@
+{
+  "player_id": 1186918,
+  "name": "Pipe",
+  "position": "Delantero centro",
+  "date_of_birth": "09/06/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": "Ibiza",
+  "profile_url": "https://www.transfermarkt.es/pipe/profil/spieler/1186918",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 3
+  }
+}

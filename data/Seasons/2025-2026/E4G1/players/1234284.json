@@ -1,0 +1,22 @@
+{
+  "player_id": 1234284,
+  "name": "Hans Peralta",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "25/02/2005",
+  "nationality": "Ecuador",
+  "second_nationality": null,
+  "height": "1,65 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 1,
+  "market_value": "225mil €Ú",
+  "market_value_numeric": 225000,
+  "age": 20,
+  "birthplace": "Guayaquil",
+  "profile_url": "https://www.transfermarkt.es/hans-peralta/profil/spieler/1234284",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1234284-1744038050.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Goal Holding",
+  "stats": null
+}

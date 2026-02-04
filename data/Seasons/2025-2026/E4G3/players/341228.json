@@ -1,0 +1,29 @@
+{
+  "player_id": 341228,
+  "name": "Juan Agüero",
+  "position": "Extremo derecho",
+  "date_of_birth": "27/05/1999",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": "Mendoza",
+  "profile_url": "https://www.transfermarkt.es/juan-aguero/profil/spieler/341228",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/341228-1732123969.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 501
+  }
+}

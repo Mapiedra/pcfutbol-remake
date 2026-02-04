@@ -1,0 +1,29 @@
+{
+  "player_id": 121483,
+  "name": "Jan Oblak",
+  "position": "Portero",
+  "date_of_birth": "07/01/1993",
+  "nationality": "Eslovenia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "17,00mill. €Ú",
+  "market_value_numeric": 17000000,
+  "age": 33,
+  "birthplace": "Škofja Loka",
+  "profile_url": "https://www.transfermarkt.es/jan-oblak/profil/spieler/121483",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/121483-1719350076.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Miha Mlakar",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 17,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

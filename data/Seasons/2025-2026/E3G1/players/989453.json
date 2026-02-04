@@ -1,0 +1,29 @@
+{
+  "player_id": 989453,
+  "name": "Oussama El Goumiri",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "28/04/2003",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,83 m",
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Oued Zem",
+  "profile_url": "https://www.transfermarkt.es/oussama-el-goumiri/profil/spieler/989453",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/989453-1712140085.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 577
+  }
+}

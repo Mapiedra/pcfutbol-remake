@@ -1,0 +1,29 @@
+{
+  "player_id": 636302,
+  "name": "Jordi Pola",
+  "position": "Defensa central",
+  "date_of_birth": "12/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 25,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/jordi-pola/profil/spieler/636302",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sports Company",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1245
+  }
+}

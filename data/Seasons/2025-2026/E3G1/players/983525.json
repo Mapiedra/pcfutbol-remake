@@ -1,0 +1,29 @@
+{
+  "player_id": 983525,
+  "name": "Martín Ochoa",
+  "position": "Delantero centro",
+  "date_of_birth": "20/12/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 21,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/martin-ochoa/profil/spieler/983525",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/983525-1702411065.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 682
+  }
+}

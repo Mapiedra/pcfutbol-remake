@@ -1,0 +1,29 @@
+{
+  "player_id": 1061254,
+  "name": "Hugo San Modesto",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "24/10/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/hugo-san-modesto/profil/spieler/1061254",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1061254-1700778550.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 910
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 647955,
+  "name": "Quadri Liameed",
+  "position": "Mediocentro",
+  "date_of_birth": "08/04/2002",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 23,
+  "birthplace": "Lagos",
+  "profile_url": "https://www.transfermarkt.es/quadri-liameed/profil/spieler/647955",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Diamond Sports",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1779
+  }
+}

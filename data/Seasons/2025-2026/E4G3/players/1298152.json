@@ -1,0 +1,29 @@
+{
+  "player_id": 1298152,
+  "name": "Aimar García",
+  "position": "Mediocentro",
+  "date_of_birth": "22/04/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Parets del Vallès",
+  "profile_url": "https://www.transfermarkt.es/aimar-garcia/profil/spieler/1298152",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Proneo Sports S.L.",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 46
+  }
+}

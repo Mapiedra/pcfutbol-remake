@@ -1,0 +1,29 @@
+{
+  "player_id": 535959,
+  "name": "Duk",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/02/2000",
+  "nationality": "Cabo Verde",
+  "second_nationality": "Portugal",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 25,
+  "birthplace": "Lisboa",
+  "profile_url": "https://www.transfermarkt.es/duktm/profil/spieler/535959",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/535959-1681745685.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "STV",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1378
+  }
+}

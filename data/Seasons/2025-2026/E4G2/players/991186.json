@@ -1,0 +1,29 @@
+{
+  "player_id": 991186,
+  "name": "Thierry Katsukunya",
+  "position": "Defensa central",
+  "date_of_birth": "30/11/2005",
+  "nationality": "Gales",
+  "second_nationality": "Inglaterra",
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/thierry-katsukunya/profil/spieler/991186",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 537
+  }
+}

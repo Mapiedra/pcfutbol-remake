@@ -1,0 +1,29 @@
+{
+  "player_id": 152975,
+  "name": "Aleix Coch",
+  "position": "Defensa central",
+  "date_of_birth": "18/10/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 34,
+  "birthplace": "Tarragona",
+  "profile_url": "https://www.transfermarkt.es/aleix-coch/profil/spieler/152975",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 808
+  }
+}

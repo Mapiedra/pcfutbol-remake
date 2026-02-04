@@ -1,0 +1,29 @@
+{
+  "player_id": 182712,
+  "name": "João Cancelo",
+  "position": "Lateral derecho",
+  "date_of_birth": "27/05/1994",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 31,
+  "birthplace": "Barreiro",
+  "profile_url": "https://www.transfermarkt.es/joao-cancelo/profil/spieler/182712",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/182712-1675080937.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 88
+  }
+}

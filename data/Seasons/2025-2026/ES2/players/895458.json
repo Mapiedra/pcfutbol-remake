@@ -1,0 +1,29 @@
+{
+  "player_id": 895458,
+  "name": "Adrián Pica",
+  "position": "Defensa central",
+  "date_of_birth": "25/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 23,
+  "birthplace": "Alba de Tormes",
+  "profile_url": "https://www.transfermarkt.es/adrian-pica/profil/spieler/895458",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/895458-1751442592.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 539
+  }
+}

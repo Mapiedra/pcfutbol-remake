@@ -1,0 +1,29 @@
+{
+  "player_id": 342048,
+  "name": "Grady Diangana",
+  "position": "Extremo derecho",
+  "date_of_birth": "19/04/1998",
+  "nationality": "RD del Congo",
+  "second_nationality": "Inglaterra",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "3,50mill. €Ú",
+  "market_value_numeric": 3500000,
+  "age": 27,
+  "birthplace": "Lubumbashi",
+  "profile_url": "https://www.transfermarkt.es/grady-diangana/profil/spieler/342048",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/342048-1723555515.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 470
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 340206,
+  "name": "Andoni López",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "05/04/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 29,
+  "birthplace": "Barakaldo",
+  "profile_url": "https://www.transfermarkt.es/andoni-lopez/profil/spieler/340206",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/340206-1732793934.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1694
+  }
+}

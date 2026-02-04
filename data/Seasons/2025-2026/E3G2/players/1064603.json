@@ -1,0 +1,29 @@
+{
+  "player_id": 1064603,
+  "name": "Iván del Olmo",
+  "position": "Mediocentro",
+  "date_of_birth": "17/02/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/ivan-del-olmo/profil/spieler/1064603",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "J.J.",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 581
+  }
+}

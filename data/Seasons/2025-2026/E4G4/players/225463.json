@@ -1,0 +1,29 @@
+{
+  "player_id": 225463,
+  "name": "Adri Paz",
+  "position": "Mediocentro",
+  "date_of_birth": "22/07/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 33,
+  "birthplace": "Jaén",
+  "profile_url": "https://www.transfermarkt.es/adri-paz/profil/spieler/225463",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 9,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 725
+  }
+}

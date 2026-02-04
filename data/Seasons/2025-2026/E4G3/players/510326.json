@@ -1,0 +1,29 @@
+{
+  "player_id": 510326,
+  "name": "Lucas Viña",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/06/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 29,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/lucas-vina/profil/spieler/510326",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/510326-1734549146.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Sferico Sports Management",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1750
+  }
+}

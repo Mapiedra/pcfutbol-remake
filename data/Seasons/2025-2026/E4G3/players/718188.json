@@ -1,0 +1,29 @@
+{
+  "player_id": 718188,
+  "name": "Iván Biarge",
+  "position": "Portero",
+  "date_of_birth": "04/06/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/ivan-biarge/profil/spieler/718188",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Proneo Sports S.L.",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

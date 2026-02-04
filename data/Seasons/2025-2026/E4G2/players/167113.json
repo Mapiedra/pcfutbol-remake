@@ -1,0 +1,29 @@
+{
+  "player_id": 167113,
+  "name": "Odei Onaindia",
+  "position": "Defensa central",
+  "date_of_birth": "07/12/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 36,
+  "birthplace": "Lekeitio",
+  "profile_url": "https://www.transfermarkt.es/odei-onaindia/profil/spieler/167113",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/167113-1710947842.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1852
+  }
+}

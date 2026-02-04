@@ -1,0 +1,29 @@
+{
+  "player_id": 633093,
+  "name": "Eneko Aguilar",
+  "position": "Mediocentro",
+  "date_of_birth": "21/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 25,
+  "birthplace": "Berriozar",
+  "profile_url": "https://www.transfermarkt.es/eneko-aguilar/profil/spieler/633093",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/633093-1700857918.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 45
+  }
+}

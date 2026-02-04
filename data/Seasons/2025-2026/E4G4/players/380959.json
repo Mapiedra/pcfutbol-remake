@@ -1,0 +1,29 @@
+{
+  "player_id": 380959,
+  "name": "Juanjo Mateo",
+  "position": "Lateral derecho",
+  "date_of_birth": "10/06/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 30,
+  "birthplace": "Los Rosales",
+  "profile_url": "https://www.transfermarkt.es/juanjo-mateo/profil/spieler/380959",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/380959-1701458429.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FBM_SPORTS_AGENCY",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1083
+  }
+}

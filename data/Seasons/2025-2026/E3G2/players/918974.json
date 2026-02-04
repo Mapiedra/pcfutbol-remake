@@ -1,0 +1,29 @@
+{
+  "player_id": 918974,
+  "name": "Ibuki Nemoto",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "01/05/2002",
+  "nationality": "Japón",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Ambidiestro",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Tokyo",
+  "profile_url": "https://www.transfermarkt.es/ibuki-nemoto/profil/spieler/918974",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/918974-1760545317.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Yu Matoji",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 118
+  }
+}

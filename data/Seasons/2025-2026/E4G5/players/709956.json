@@ -1,0 +1,29 @@
+{
+  "player_id": 709956,
+  "name": "Alejandro Ramos",
+  "position": "Portero",
+  "date_of_birth": "18/02/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/alejandro-ramos/profil/spieler/709956",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "All in One Football",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 11,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

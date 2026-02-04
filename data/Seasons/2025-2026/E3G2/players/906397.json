@@ -1,0 +1,22 @@
+{
+  "player_id": 906397,
+  "name": "Pau Pérez",
+  "position": "Extremo derecho",
+  "date_of_birth": "20/05/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Novelda",
+  "profile_url": "https://www.transfermarkt.es/pau-perez/profil/spieler/906397",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/906397-1732217255.JPG?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": null
+}

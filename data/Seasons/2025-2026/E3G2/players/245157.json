@@ -1,0 +1,29 @@
+{
+  "player_id": 245157,
+  "name": "Borja Martínez",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/03/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/borja-martinez/profil/spieler/245157",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 817
+  }
+}

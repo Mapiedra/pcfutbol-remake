@@ -1,0 +1,29 @@
+{
+  "player_id": 218431,
+  "name": "Amir Abedzadeh",
+  "position": "Portero",
+  "date_of_birth": "26/04/1993",
+  "nationality": "Irán",
+  "second_nationality": "Portugal",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 32,
+  "birthplace": "Tehran",
+  "profile_url": "https://www.transfermarkt.es/amir-abedzadeh/profil/spieler/218431",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/218431-1669037013.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

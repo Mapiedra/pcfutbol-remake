@@ -1,0 +1,29 @@
+{
+  "player_id": 311266,
+  "name": "Rubén Díez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "18/08/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 32,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/ruben-diez/profil/spieler/311266",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/311266-1700767558.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 18,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1418
+  }
+}

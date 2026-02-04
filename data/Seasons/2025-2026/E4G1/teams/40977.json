@@ -1,0 +1,26 @@
+{
+  "club_id": 40977,
+  "club_name": "Atlético Astorga",
+  "club_url": "https://www.transfermarkt.es/atletico-astorga/startseite/verein/40977/saison_id/2025",
+  "season": "2025-2026",
+  "player_ids": [],
+  "stadium": null,
+  "stadium_capacity": null,
+  "city": null,
+  "founded_year": null,
+  "logo_url": "https://tmssl.akamaized.net//images/wappen/tiny/40977.png?lm=1437941879",
+  "stats": {
+    "league_position": 12,
+    "points": 24,
+    "matches_played": 21,
+    "wins": 6,
+    "draws": 6,
+    "losses": 9,
+    "goals_for": 21,
+    "goals_against": 28,
+    "goal_difference": -7,
+    "squad_size": null,
+    "avg_age": null,
+    "total_market_value": null
+  }
+}

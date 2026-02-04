@@ -1,0 +1,29 @@
+{
+  "player_id": 153427,
+  "name": "Bebé",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "12/07/1990",
+  "nationality": "Cabo Verde",
+  "second_nationality": "Portugal",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 35,
+  "birthplace": "Lisboa",
+  "profile_url": "https://www.transfermarkt.es/bebe/profil/spieler/153427",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/153427-1447238040.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 22,
+    "goals": 3,
+    "assists": 4,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1739
+  }
+}

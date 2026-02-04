@@ -1,0 +1,29 @@
+{
+  "player_id": 298976,
+  "name": "Borja Mayoral",
+  "position": "Delantero centro",
+  "date_of_birth": "05/04/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "7,50mill. €Ú",
+  "market_value_numeric": 7500000,
+  "age": 28,
+  "birthplace": "Parla",
+  "profile_url": "https://www.transfermarkt.es/borja-mayoral/profil/spieler/298976",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/298976-1669365430.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 14,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1044
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 989826,
+  "name": "Mehdi Puch",
+  "position": "Mediocentro",
+  "date_of_birth": "20/01/2004",
+  "nationality": "Argelia",
+  "second_nationality": "Francia",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "37",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 22,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/mehdi-puch/profil/spieler/989826",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/989826-1752835925.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 4,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 349
+  }
+}

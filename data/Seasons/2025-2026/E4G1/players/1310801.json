@@ -1,0 +1,29 @@
+{
+  "player_id": 1310801,
+  "name": "Daniel Onyia",
+  "position": "Mediocentro",
+  "date_of_birth": "27/10/2006",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/daniel-onyia/profil/spieler/1310801",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 248
+  }
+}

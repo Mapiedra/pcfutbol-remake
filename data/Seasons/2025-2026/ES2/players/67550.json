@@ -1,0 +1,29 @@
+{
+  "player_id": 67550,
+  "name": "Óscar Sielva",
+  "position": "Mediocentro",
+  "date_of_birth": "06/08/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 34,
+  "birthplace": "Olot",
+  "profile_url": "https://www.transfermarkt.es/oscar-sielva/profil/spieler/67550",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/67550-1757573264.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1446
+  }
+}

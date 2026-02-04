@@ -1,0 +1,29 @@
+{
+  "player_id": 1183335,
+  "name": "Guize Medina",
+  "position": "Mediocentro",
+  "date_of_birth": "23/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": null,
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Lanzarote",
+  "profile_url": "https://www.transfermarkt.es/guize-medina/profil/spieler/1183335",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1183335-1698777495.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Agencia David Copito",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1660
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 623525,
+  "name": "Luis López",
+  "position": "Portero",
+  "date_of_birth": "08/05/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,97 m",
+  "foot": "Izquierdo",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 24,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/luis-lopez/profil/spieler/623525",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/623525-1614696484.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": null
+}

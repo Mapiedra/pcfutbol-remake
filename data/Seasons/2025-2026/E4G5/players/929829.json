@@ -1,0 +1,29 @@
+{
+  "player_id": 929829,
+  "name": "Dani Simón",
+  "position": "Portero",
+  "date_of_birth": "09/05/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/dani-simon/profil/spieler/929829",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NTA Sport Management",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 23,
+    "red_cards": 0,
+    "minutes_played": 6
+  }
+}

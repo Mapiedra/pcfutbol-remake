@@ -1,0 +1,29 @@
+{
+  "player_id": 511021,
+  "name": "Manu Fuster",
+  "position": "Extremo derecho",
+  "date_of_birth": "22/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,69 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 28,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/manu-fuster/profil/spieler/511021",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/511021-1683202707.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 23,
+    "goals": 3,
+    "assists": 7,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1768
+  }
+}

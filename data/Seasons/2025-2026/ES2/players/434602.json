@@ -1,0 +1,29 @@
+{
+  "player_id": 434602,
+  "name": "Aritz Arambarri",
+  "position": "Defensa central",
+  "date_of_birth": "31/01/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 28,
+  "birthplace": "Azkoitia",
+  "profile_url": "https://www.transfermarkt.es/aritz-arambarri/profil/spieler/434602",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/434602-1701787117.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 580
+  }
+}

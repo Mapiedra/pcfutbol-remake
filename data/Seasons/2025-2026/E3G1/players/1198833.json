@@ -1,0 +1,22 @@
+{
+  "player_id": 1198833,
+  "name": "Sergio Aragoneses",
+  "position": "Portero",
+  "date_of_birth": "09/10/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Santa Cruz de ...",
+  "profile_url": "https://www.transfermarkt.es/sergio-aragoneses/profil/spieler/1198833",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BOIM FOOTBALL BOUTIQUE",
+  "stats": null
+}

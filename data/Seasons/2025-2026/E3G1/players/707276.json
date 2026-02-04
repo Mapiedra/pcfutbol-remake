@@ -1,0 +1,29 @@
+{
+  "player_id": 707276,
+  "name": "Miki Bosch",
+  "position": "Defensa central",
+  "date_of_birth": "09/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 24,
+  "birthplace": "Alginet",
+  "profile_url": "https://www.transfermarkt.es/miki-bosch/profil/spieler/707276",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/707276-1732736330.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IFM",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1771
+  }
+}

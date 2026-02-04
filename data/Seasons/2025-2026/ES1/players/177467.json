@@ -1,0 +1,29 @@
+{
+  "player_id": 177467,
+  "name": "Gerard Moreno",
+  "position": "Delantero centro",
+  "date_of_birth": "07/04/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "2,80mill. €Ú",
+  "market_value_numeric": 2800000,
+  "age": 33,
+  "birthplace": "Santa Perpètua de ...",
+  "profile_url": "https://www.transfermarkt.es/gerard-moreno/profil/spieler/177467",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/177467-1726231623.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 11,
+    "goals": 5,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 647
+  }
+}

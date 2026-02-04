@@ -1,0 +1,29 @@
+{
+  "player_id": 1209286,
+  "name": "Yussif Saidu",
+  "position": "Defensa central",
+  "date_of_birth": "14/06/2005",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "33",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 20,
+  "birthplace": "Accra",
+  "profile_url": "https://www.transfermarkt.es/yussif-saidu/profil/spieler/1209286",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "LA PLAYERS",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 971
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1305564,
+  "name": "Jean Ives Valou",
+  "position": "Defensa central",
+  "date_of_birth": "22/12/2005",
+  "nationality": "Costa de Marfil",
+  "second_nationality": "Benín",
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Abidjan",
+  "profile_url": "https://www.transfermarkt.es/jean-ives-valou/profil/spieler/1305564",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1218
+  }
+}

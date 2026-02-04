@@ -1,0 +1,29 @@
+{
+  "player_id": 1133939,
+  "name": "Rodrigue Dipanda",
+  "position": "Delantero centro",
+  "date_of_birth": "10/06/2006",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/rodrigue-dipanda/profil/spieler/1133939",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "NSPORTS & bGROUP",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 473
+  }
+}

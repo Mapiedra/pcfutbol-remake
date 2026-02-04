@@ -1,0 +1,29 @@
+{
+  "player_id": 568148,
+  "name": "Mario Soriano",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "22/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,63 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 23,
+  "birthplace": "Alcalá de Henares",
+  "profile_url": "https://www.transfermarkt.es/mario-soriano/profil/spieler/568148",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/568148-1724424505.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 23,
+    "goals": 3,
+    "assists": 6,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1963
+  }
+}

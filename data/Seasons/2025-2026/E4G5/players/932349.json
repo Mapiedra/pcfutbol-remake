@@ -1,0 +1,22 @@
+{
+  "player_id": 932349,
+  "name": "Diego Méndez",
+  "position": "Mediocentro",
+  "date_of_birth": "29/08/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Móstoles",
+  "profile_url": "https://www.transfermarkt.es/diego-mendez/profil/spieler/932349",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": null
+}

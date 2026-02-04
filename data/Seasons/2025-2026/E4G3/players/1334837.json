@@ -1,0 +1,22 @@
+{
+  "player_id": 1334837,
+  "name": "Jacobo de Oro",
+  "position": "Extremo derecho",
+  "date_of_birth": "26/06/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jacobo-de-oro/profil/spieler/1334837",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1056559,
+  "name": "José Manuel Romera",
+  "position": "Mediocentro",
+  "date_of_birth": "26/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Almería",
+  "profile_url": "https://www.transfermarkt.es/jose-manuel-romera/profil/spieler/1056559",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1056559-1733488843.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1236
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 961297,
+  "name": "Rodrigo Mendoza",
+  "position": "Mediocentro",
+  "date_of_birth": "15/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 20,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/rodrigo-mendoza/profil/spieler/961297",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/961297-1765462791.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LEADERBROCK",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 701
+  }
+}

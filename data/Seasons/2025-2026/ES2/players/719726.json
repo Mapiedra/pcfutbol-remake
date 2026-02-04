@@ -1,0 +1,29 @@
+{
+  "player_id": 719726,
+  "name": "Dani Queipo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "22/05/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,68 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 23,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/dani-queipo/profil/spieler/719726",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/719726-1760543540.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 319
+  }
+}

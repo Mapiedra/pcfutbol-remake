@@ -1,0 +1,29 @@
+{
+  "player_id": 520395,
+  "name": "Iago Novo",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "23/10/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 27,
+  "birthplace": "Fene",
+  "profile_url": "https://www.transfermarkt.es/iago-novo/profil/spieler/520395",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/520395-1706391985.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 4,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1861
+  }
+}

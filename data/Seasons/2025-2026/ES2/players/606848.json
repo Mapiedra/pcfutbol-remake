@@ -1,0 +1,29 @@
+{
+  "player_id": 606848,
+  "name": "Jonmi Magunagoitia",
+  "position": "Portero",
+  "date_of_birth": "06/08/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 25,
+  "birthplace": "Amorebieta",
+  "profile_url": "https://www.transfermarkt.es/jonmi-magunagoitia/profil/spieler/606848",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/606848-1725622355.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Football Promotions (Scotland) Ltd.",
+  "stats": {
+    "appearances": 24,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 26,
+    "red_cards": 0,
+    "minutes_played": 9
+  }
+}

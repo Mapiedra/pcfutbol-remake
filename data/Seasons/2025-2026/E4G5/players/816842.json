@@ -1,0 +1,29 @@
+{
+  "player_id": 816842,
+  "name": "Carmelo Merenciano",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "14/12/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 26,
+  "birthplace": "Ossa de Montiel",
+  "profile_url": "https://www.transfermarkt.es/carmelo-merenciano/profil/spieler/816842",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/816842-1612902291.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SCM Sports Agency",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1054
+  }
+}

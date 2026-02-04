@@ -1,0 +1,29 @@
+{
+  "player_id": 948259,
+  "name": "Daniel Mesonero",
+  "position": "Mediocentro",
+  "date_of_birth": "03/09/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/daniel-mesonero/profil/spieler/948259",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/948259-1768994814.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "ROOF Talents",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 511
+  }
+}

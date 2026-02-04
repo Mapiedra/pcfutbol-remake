@@ -1,0 +1,29 @@
+{
+  "player_id": 442802,
+  "name": "Cristian Rodríguez",
+  "position": "Mediocentro",
+  "date_of_birth": "15/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 29,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/cristian-rodriguez/profil/spieler/442802",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/442802-1698154720.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 495
+  }
+}

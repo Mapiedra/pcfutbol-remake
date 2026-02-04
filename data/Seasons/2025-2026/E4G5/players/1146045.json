@@ -1,0 +1,29 @@
+{
+  "player_id": 1146045,
+  "name": "Johan Guedes",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "23/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 21,
+  "birthplace": "Valsequillo",
+  "profile_url": "https://www.transfermarkt.es/johan-guedes/profil/spieler/1146045",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ivan Cristovinho",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 851
+  }
+}

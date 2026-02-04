@@ -1,0 +1,29 @@
+{
+  "player_id": 346289,
+  "name": "Mouctar Diakhaby",
+  "position": "Defensa central",
+  "date_of_birth": "19/12/1996",
+  "nationality": "Guinea",
+  "second_nationality": "Francia",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "2,80mill. €Ú",
+  "market_value_numeric": 2800000,
+  "age": 29,
+  "birthplace": "Vendôme",
+  "profile_url": "https://www.transfermarkt.es/mouctar-diakhaby/profil/spieler/346289",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/346289-1709636432.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "VV Consulting",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 544
+  }
+}

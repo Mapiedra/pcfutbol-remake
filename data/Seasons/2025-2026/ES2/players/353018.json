@@ -1,0 +1,22 @@
+{
+  "player_id": 353018,
+  "name": "Javi Mier",
+  "position": "Mediocentro",
+  "date_of_birth": "04/02/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 26,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/javi-mier/profil/spieler/353018",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/353018-1757674719.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": null
+}

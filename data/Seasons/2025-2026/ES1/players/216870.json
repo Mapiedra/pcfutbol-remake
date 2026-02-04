@@ -1,0 +1,29 @@
+{
+  "player_id": 216870,
+  "name": "Nacho Vidal",
+  "position": "Lateral derecho",
+  "date_of_birth": "24/01/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,60mill. €Ú",
+  "market_value_numeric": 1600000,
+  "age": 31,
+  "birthplace": "El Campello",
+  "profile_url": "https://www.transfermarkt.es/nacho-vidal/profil/spieler/216870",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/216870-1510233362.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1005
+  }
+}

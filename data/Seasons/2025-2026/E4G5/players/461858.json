@@ -1,0 +1,29 @@
+{
+  "player_id": 461858,
+  "name": "José Alonso Lara",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "07/03/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,62 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/jose-alonso-lara/profil/spieler/461858",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/461858-1701198271.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 785
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 524742,
+  "name": "Fran Callejón",
+  "position": "Mediocentro",
+  "date_of_birth": "15/04/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 27,
+  "birthplace": "Almería",
+  "profile_url": "https://www.transfermarkt.es/fran-callejon/profil/spieler/524742",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/524742-1697815684.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 431
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 118997,
+  "name": "Aitor Fernández",
+  "position": "Portero",
+  "date_of_birth": "03/05/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 34,
+  "birthplace": "Arrasate",
+  "profile_url": "https://www.transfermarkt.es/aitor-fernandez/profil/spieler/118997",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/118997-1683281584.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Sports and Management",
+  "stats": {
+    "appearances": 0,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

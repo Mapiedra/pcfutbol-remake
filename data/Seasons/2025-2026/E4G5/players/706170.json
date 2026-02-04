@@ -1,0 +1,29 @@
+{
+  "player_id": 706170,
+  "name": "Fernando Romero",
+  "position": "Defensa central",
+  "date_of_birth": "08/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 24,
+  "birthplace": "Daimiel",
+  "profile_url": "https://www.transfermarkt.es/fernando-romero/profil/spieler/706170",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1283
+  }
+}

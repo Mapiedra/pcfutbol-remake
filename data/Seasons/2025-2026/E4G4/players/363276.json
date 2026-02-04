@@ -1,0 +1,29 @@
+{
+  "player_id": 363276,
+  "name": "Matías Chavarría",
+  "position": "Delantero centro",
+  "date_of_birth": "03/02/1994",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 32,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/matias-chavarria/profil/spieler/363276",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/363276-1606290372.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 20,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1234
+  }
+}

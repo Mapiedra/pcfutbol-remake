@@ -1,0 +1,29 @@
+{
+  "player_id": 632501,
+  "name": "Thomas Giaquinto",
+  "position": "Mediocentro",
+  "date_of_birth": "20/03/2000",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Mar del Plata",
+  "profile_url": "https://www.transfermarkt.es/thomas-giaquinto/profil/spieler/632501",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 698
+  }
+}

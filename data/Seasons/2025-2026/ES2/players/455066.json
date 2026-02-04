@@ -1,0 +1,29 @@
+{
+  "player_id": 455066,
+  "name": "Juanpe",
+  "position": "Mediocentro",
+  "date_of_birth": "31/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 29,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/juanpe/profil/spieler/455066",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/455066-1643299266.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IFM",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 812
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 956517,
+  "name": "Jesús Martínez",
+  "position": "Mediocentro",
+  "date_of_birth": "08/02/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Santander",
+  "profile_url": "https://www.transfermarkt.es/jesus-martinez/profil/spieler/956517",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/956517-1736856902.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MRH Football Agency",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1486
+  }
+}

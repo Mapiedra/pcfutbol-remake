@@ -1,0 +1,29 @@
+{
+  "player_id": 727578,
+  "name": "David Astals",
+  "position": "Lateral derecho",
+  "date_of_birth": "13/12/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 1,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 24,
+  "birthplace": "Bienvenida",
+  "profile_url": "https://www.transfermarkt.es/david-astals/profil/spieler/727578",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/727578-1676910250.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1512
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 533427,
+  "name": "Mauro Lucero",
+  "position": "Defensa central",
+  "date_of_birth": "05/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": null,
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/mauro-lucero/profil/spieler/533427",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 85
+  }
+}

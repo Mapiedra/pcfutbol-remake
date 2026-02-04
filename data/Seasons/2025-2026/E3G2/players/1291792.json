@@ -1,0 +1,29 @@
+{
+  "player_id": 1291792,
+  "name": "Agustín Juarez",
+  "position": "Delantero centro",
+  "date_of_birth": "24/05/2005",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Junin",
+  "profile_url": "https://www.transfermarkt.es/agustin-juarez/profil/spieler/1291792",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Carlos Bilicich",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 912
+  }
+}

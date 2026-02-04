@@ -1,0 +1,29 @@
+{
+  "player_id": 188888,
+  "name": "Sheraldo Becker",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "09/02/1995",
+  "nationality": "Surinam",
+  "second_nationality": "Países Bajos",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 30,
+  "birthplace": "Amsterdam",
+  "profile_url": "https://www.transfermarkt.es/sheraldo-becker/profil/spieler/188888",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/188888-1692707512.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Sports360 GmbH",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 150
+  }
+}

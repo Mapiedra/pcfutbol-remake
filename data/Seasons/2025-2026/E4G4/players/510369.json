@@ -1,0 +1,29 @@
+{
+  "player_id": 510369,
+  "name": "Carlos Cordero",
+  "position": "Defensa central",
+  "date_of_birth": "26/09/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": "Almendralejo",
+  "profile_url": "https://www.transfermarkt.es/carlos-cordero/profil/spieler/510369",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/510369-1732058566.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1017
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 631002,
+  "name": "Raúl García",
+  "position": "Delantero centro",
+  "date_of_birth": "03/11/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 25,
+  "birthplace": "Olesa de Montserrat",
+  "profile_url": "https://www.transfermarkt.es/raul-garcia/profil/spieler/631002",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/631002-1614090749.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "G&O SPORT",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 644
+  }
+}

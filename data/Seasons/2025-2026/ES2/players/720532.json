@@ -1,0 +1,29 @@
+{
+  "player_id": 720532,
+  "name": "Diego Bri",
+  "position": "Extremo derecho",
+  "date_of_birth": "12/09/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 23,
+  "birthplace": "Elche",
+  "profile_url": "https://www.transfermarkt.es/diego-bri/profil/spieler/720532",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/720532-1731933000.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 10,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 319
+  }
+}

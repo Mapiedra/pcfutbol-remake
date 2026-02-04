@@ -1,0 +1,29 @@
+{
+  "player_id": 964364,
+  "name": "Shane Kluivert",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "24/09/2007",
+  "nationality": "Países Bajos",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "39",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 18,
+  "birthplace": "Zaandam",
+  "profile_url": "https://www.transfermarkt.es/shane-kluivert/profil/spieler/964364",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/964364-1763984645.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "79KAPS",
+  "stats": {
+    "appearances": 11,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 379
+  }
+}

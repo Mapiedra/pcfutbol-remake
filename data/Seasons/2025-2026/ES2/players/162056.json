@@ -1,0 +1,29 @@
+{
+  "player_id": 162056,
+  "name": "Gonzalo Melero",
+  "position": "Mediocentro",
+  "date_of_birth": "02/01/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 32,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/gonzalo-melero/profil/spieler/162056",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/162056-1732735437.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 601
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 548187,
+  "name": "Alejandro Pérez",
+  "position": "Defensa central",
+  "date_of_birth": "07/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "El Masnou",
+  "profile_url": "https://www.transfermarkt.es/alejandro-perez/profil/spieler/548187",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/548187-1756484936.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1548
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 639733,
+  "name": "Peque Fernández",
+  "position": "Mediapunta",
+  "date_of_birth": "04/10/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "3,50mill. €Ú",
+  "market_value_numeric": 3500000,
+  "age": 23,
+  "birthplace": "L'Hospitalet de ...",
+  "profile_url": "https://www.transfermarkt.es/peque-fernandez/profil/spieler/639733",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/639733-1615192753.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 756
+  }
+}

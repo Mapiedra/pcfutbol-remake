@@ -1,0 +1,29 @@
+{
+  "player_id": 537760,
+  "name": "Benjamín Garay",
+  "position": "Defensa central",
+  "date_of_birth": "19/04/2000",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 25,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/benjamin-garay/profil/spieler/537760",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/537760-1700519207.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AREA SPORT TEAM",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 672
+  }
+}

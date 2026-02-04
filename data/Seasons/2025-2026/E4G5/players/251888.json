@@ -1,0 +1,29 @@
+{
+  "player_id": 251888,
+  "name": "Mario Rodríguez",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "03/03/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/mario-rodriguez/profil/spieler/251888",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/251888-1607814443.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 844
+  }
+}

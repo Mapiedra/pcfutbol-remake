@@ -1,0 +1,29 @@
+{
+  "player_id": 158844,
+  "name": "Julen Castañeda",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "14/11/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 35,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/julen-castaneda/profil/spieler/158844",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/158844-1731445102.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1579
+  }
+}

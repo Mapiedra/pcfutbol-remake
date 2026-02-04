@@ -1,0 +1,29 @@
+{
+  "player_id": 348552,
+  "name": "Roni",
+  "position": "Delantero centro",
+  "date_of_birth": "02/08/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 32,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/roni/profil/spieler/348552",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/348552-1689735468.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 830
+  }
+}

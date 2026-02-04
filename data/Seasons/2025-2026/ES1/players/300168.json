@@ -1,0 +1,29 @@
+{
+  "player_id": 300168,
+  "name": "Mikel Vesga",
+  "position": "Pivote",
+  "date_of_birth": "08/04/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Izquierdo",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 32,
+  "birthplace": "Vitoria-Gasteiz",
+  "profile_url": "https://www.transfermarkt.es/mikel-vesga/profil/spieler/300168",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/300168-1709675412.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Football Promotions (Scotland) Ltd.",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 255
+  }
+}

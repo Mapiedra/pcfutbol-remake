@@ -1,0 +1,29 @@
+{
+  "player_id": 45567,
+  "name": "Jonathan Biabiany",
+  "position": "Extremo derecho",
+  "date_of_birth": "28/04/1988",
+  "nationality": "Francia",
+  "second_nationality": "Guadalupe",
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 37,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/jonathan-biabiany/profil/spieler/45567",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/45567-1448967724.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Branchini Associati S.p.A.",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 746
+  }
+}

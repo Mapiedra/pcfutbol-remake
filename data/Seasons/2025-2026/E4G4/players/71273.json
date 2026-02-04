@@ -1,0 +1,29 @@
+{
+  "player_id": 71273,
+  "name": "Stefan Scepovic",
+  "position": "Delantero centro",
+  "date_of_birth": "10/01/1990",
+  "nationality": "Serbia",
+  "second_nationality": "Yugoslavia (RFSY)",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 36,
+  "birthplace": "Belgrade",
+  "profile_url": "https://www.transfermarkt.es/stefan-scepovic/profil/spieler/71273",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/71273-1531947800.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 26
+  }
+}

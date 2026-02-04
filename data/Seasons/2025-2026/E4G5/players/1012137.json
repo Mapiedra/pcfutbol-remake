@@ -1,0 +1,29 @@
+{
+  "player_id": 1012137,
+  "name": "Kike Bartual",
+  "position": "Portero",
+  "date_of_birth": "10/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/kike-bartual/profil/spieler/1012137",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 17,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

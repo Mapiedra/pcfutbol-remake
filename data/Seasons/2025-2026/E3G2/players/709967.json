@@ -1,0 +1,29 @@
+{
+  "player_id": 709967,
+  "name": "Toni Caravaca",
+  "position": "Mediocentro",
+  "date_of_birth": "08/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 22,
+  "birthplace": "Santa Coloma de ...",
+  "profile_url": "https://www.transfermarkt.es/toni-caravaca/profil/spieler/709967",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/709967-1760545247.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 878
+  }
+}

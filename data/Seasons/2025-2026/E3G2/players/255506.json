@@ -1,0 +1,29 @@
+{
+  "player_id": 255506,
+  "name": "Yanis Rahmani",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "13/05/1995",
+  "nationality": "Francia",
+  "second_nationality": "Argelia",
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 30,
+  "birthplace": "Champigny-sur-Marne",
+  "profile_url": "https://www.transfermarkt.es/yanis-rahmani/profil/spieler/255506",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/255506-1725885876.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 2,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 123
+  }
+}

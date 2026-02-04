@@ -1,0 +1,29 @@
+{
+  "player_id": 938730,
+  "name": "Ibon Sánchez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "08/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 21,
+  "birthplace": "Getxo",
+  "profile_url": "https://www.transfermarkt.es/ibon-sanchez/profil/spieler/938730",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/938730-1709678063.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1794
+  }
+}

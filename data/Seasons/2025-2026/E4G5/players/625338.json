@@ -1,0 +1,29 @@
+{
+  "player_id": 625338,
+  "name": "Marcos Bautista",
+  "position": "Mediocentro",
+  "date_of_birth": "30/09/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": null,
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Albacete",
+  "profile_url": "https://www.transfermarkt.es/marcos-bautista/profil/spieler/625338",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/625338-1600981454.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1274
+  }
+}

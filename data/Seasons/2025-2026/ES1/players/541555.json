@@ -1,0 +1,29 @@
+{
+  "player_id": 541555,
+  "name": "Enzo Boyomo",
+  "position": "Defensa central",
+  "date_of_birth": "07/10/2001",
+  "nationality": "Camerún",
+  "second_nationality": "Francia",
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "20,00mill. €Ú",
+  "market_value_numeric": 20000000,
+  "age": 24,
+  "birthplace": "Toulouse",
+  "profile_url": "https://www.transfermarkt.es/enzo-boyomo/profil/spieler/541555",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/541555-1728038860.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1524
+  }
+}

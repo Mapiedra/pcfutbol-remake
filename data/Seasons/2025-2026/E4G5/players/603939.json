@@ -1,0 +1,29 @@
+{
+  "player_id": 603939,
+  "name": "Fran Rivera",
+  "position": "Mediocentro",
+  "date_of_birth": "31/12/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": null,
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Barbate",
+  "profile_url": "https://www.transfermarkt.es/fran-rivera/profil/spieler/603939",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/603939-1705427899.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1371
+  }
+}

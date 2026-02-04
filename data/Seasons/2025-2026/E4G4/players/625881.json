@@ -1,0 +1,29 @@
+{
+  "player_id": 625881,
+  "name": "Eneko Delgado",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "18/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Galdakao",
+  "profile_url": "https://www.transfermarkt.es/eneko-delgado/profil/spieler/625881",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/625881-1700683662.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Rioja Cermeño S.L.",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 1,
+    "minutes_played": 1125
+  }
+}

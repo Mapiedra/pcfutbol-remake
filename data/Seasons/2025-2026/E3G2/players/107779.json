@@ -1,0 +1,29 @@
+{
+  "player_id": 107779,
+  "name": "Nico Delmonte",
+  "position": "Defensa central",
+  "date_of_birth": "10/05/1989",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 36,
+  "birthplace": "Oliva",
+  "profile_url": "https://www.transfermarkt.es/nico-delmonte/profil/spieler/107779",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 90
+  }
+}

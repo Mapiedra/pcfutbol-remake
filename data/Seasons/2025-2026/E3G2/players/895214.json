@@ -1,0 +1,22 @@
+{
+  "player_id": 895214,
+  "name": "Rodrigo Rocafort",
+  "position": "Portero",
+  "date_of_birth": "15/09/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "2,03 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 20,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/rodrigo-rocafort/profil/spieler/895214",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MSSports",
+  "stats": null
+}

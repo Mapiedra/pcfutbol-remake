@@ -1,0 +1,29 @@
+{
+  "player_id": 524008,
+  "name": "Yussi Diarra",
+  "position": "Mediocentro",
+  "date_of_birth": "13/09/1998",
+  "nationality": "Malí",
+  "second_nationality": "España",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 27,
+  "birthplace": "Bamako",
+  "profile_url": "https://www.transfermarkt.es/yussi-diarra/profil/spieler/524008",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Goal Management",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 770
+  }
+}

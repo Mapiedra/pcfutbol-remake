@@ -1,0 +1,22 @@
+{
+  "player_id": 614546,
+  "name": "Sergio León",
+  "position": "Mediocentro",
+  "date_of_birth": "16/03/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Los Alcázares",
+  "profile_url": "https://www.transfermarkt.es/sergio-leon/profil/spieler/614546",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

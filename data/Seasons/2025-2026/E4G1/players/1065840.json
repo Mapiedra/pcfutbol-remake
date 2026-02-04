@@ -1,0 +1,29 @@
+{
+  "player_id": 1065840,
+  "name": "Pelayo García",
+  "position": "Delantero centro",
+  "date_of_birth": "01/01/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/pelayo-garcia/profil/spieler/1065840",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 310
+  }
+}

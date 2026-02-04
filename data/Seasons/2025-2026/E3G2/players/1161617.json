@@ -1,0 +1,29 @@
+{
+  "player_id": 1161617,
+  "name": "Boubacar Diallo",
+  "position": "Defensa central",
+  "date_of_birth": "25/10/2003",
+  "nationality": "Malí",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Bamako",
+  "profile_url": "https://www.transfermarkt.es/boubacar-diallo/profil/spieler/1161617",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 909
+  }
+}

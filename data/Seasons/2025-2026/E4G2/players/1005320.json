@@ -1,0 +1,29 @@
+{
+  "player_id": 1005320,
+  "name": "Markel Pita",
+  "position": "Extremo derecho",
+  "date_of_birth": "28/09/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 24,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/markel-pita/profil/spieler/1005320",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Futgen",
+  "stats": {
+    "appearances": 15,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1096
+  }
+}

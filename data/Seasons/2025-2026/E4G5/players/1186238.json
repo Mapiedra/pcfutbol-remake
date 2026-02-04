@@ -1,0 +1,29 @@
+{
+  "player_id": 1186238,
+  "name": "Pablo Montero",
+  "position": "Mediocentro",
+  "date_of_birth": "29/09/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/pablo-montero/profil/spieler/1186238",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 183
+  }
+}

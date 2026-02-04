@@ -1,0 +1,29 @@
+{
+  "player_id": 379743,
+  "name": "Rubén Alves",
+  "position": "Defensa central",
+  "date_of_birth": "07/09/1994",
+  "nationality": "España",
+  "second_nationality": "Brasil",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 31,
+  "birthplace": "Río de Janeiro",
+  "profile_url": "https://www.transfermarkt.es/ruben-alves/profil/spieler/379743",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/379743-1540334266.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 942
+  }
+}

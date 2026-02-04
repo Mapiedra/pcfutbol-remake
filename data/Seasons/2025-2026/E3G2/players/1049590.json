@@ -1,0 +1,29 @@
+{
+  "player_id": 1049590,
+  "name": "Meshak Babanzila",
+  "position": "Mediocentro",
+  "date_of_birth": "11/06/2001",
+  "nationality": "Gabón",
+  "second_nationality": null,
+  "height": "1,71 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 24,
+  "birthplace": "Libreville",
+  "profile_url": "https://www.transfermarkt.es/meshak-babanzila/profil/spieler/1049590",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1049590-1760545138.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1219
+  }
+}

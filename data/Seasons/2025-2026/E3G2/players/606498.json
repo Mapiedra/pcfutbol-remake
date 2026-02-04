@@ -1,0 +1,29 @@
+{
+  "player_id": 606498,
+  "name": "Agüero",
+  "position": "Delantero centro",
+  "date_of_birth": "24/10/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 30,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/aguero/profil/spieler/606498",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/606498-1701198572.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Status Sport Management",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 10,
+    "red_cards": 0,
+    "minutes_played": 1553
+  }
+}

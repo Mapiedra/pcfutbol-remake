@@ -1,0 +1,29 @@
+{
+  "player_id": 176067,
+  "name": "Borja Valle",
+  "position": "Delantero centro",
+  "date_of_birth": "09/07/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 33,
+  "birthplace": "Ponferrada",
+  "profile_url": "https://www.transfermarkt.es/borja-valle/profil/spieler/176067",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/176067-1692034974.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1271
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1074968,
+  "name": "Mateo Sciancalepore",
+  "position": "Delantero centro",
+  "date_of_birth": "07/02/2006",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Cunit",
+  "profile_url": "https://www.transfermarkt.es/mateo-sciancalepore/profil/spieler/1074968",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "PHSPORT",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 866
+  }
+}

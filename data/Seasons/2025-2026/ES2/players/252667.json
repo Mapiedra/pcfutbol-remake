@@ -1,0 +1,22 @@
+{
+  "player_id": 252667,
+  "name": "Fali",
+  "position": "Defensa central",
+  "date_of_birth": "12/08/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 32,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/fali/profil/spieler/252667",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/252667-1557499262.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1226594,
+  "name": "Guille Berzal",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "11/01/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/guille-berzal/profil/spieler/1226594",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "NEXO Football Agency",
+  "stats": {
+    "appearances": 21,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1341
+  }
+}

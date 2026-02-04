@@ -1,0 +1,29 @@
+{
+  "player_id": 1013774,
+  "name": "Marciano Sanca",
+  "position": "Delantero centro",
+  "date_of_birth": "03/03/2004",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 21,
+  "birthplace": "Bissáu",
+  "profile_url": "https://www.transfermarkt.es/marciano-sanca/profil/spieler/1013774",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1013774-1699983007.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1344
+  }
+}

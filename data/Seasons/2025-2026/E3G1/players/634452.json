@@ -1,0 +1,29 @@
+{
+  "player_id": 634452,
+  "name": "Pablo García",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "22/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Santander",
+  "profile_url": "https://www.transfermarkt.es/pablo-garcia/profil/spieler/634452",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1337
+  }
+}

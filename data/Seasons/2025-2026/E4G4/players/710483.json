@@ -1,0 +1,29 @@
+{
+  "player_id": 710483,
+  "name": "Diego Iglesias",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "25/05/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "A Coruña",
+  "profile_url": "https://www.transfermarkt.es/diego-iglesias/profil/spieler/710483",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RGFOOTBALL",
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 931
+  }
+}

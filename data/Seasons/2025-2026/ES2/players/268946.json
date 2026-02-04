@@ -1,0 +1,29 @@
+{
+  "player_id": 268946,
+  "name": "José Antonio Caro",
+  "position": "Portero",
+  "date_of_birth": "03/05/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 31,
+  "birthplace": "La Palma del Condado",
+  "profile_url": "https://www.transfermarkt.es/jose-antonio-caro/profil/spieler/268946",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/268946-1675798416.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

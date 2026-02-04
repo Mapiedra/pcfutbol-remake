@@ -1,0 +1,29 @@
+{
+  "player_id": 349873,
+  "name": "Juan Hernández",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "06/12/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Lorca",
+  "profile_url": "https://www.transfermarkt.es/juan-hernandez/profil/spieler/349873",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/349873-1675802466.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Aclama",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 266
+  }
+}

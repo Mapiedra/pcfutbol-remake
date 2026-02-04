@@ -1,0 +1,29 @@
+{
+  "player_id": 247250,
+  "name": "Rubén Alcaraz",
+  "position": "Mediocentro",
+  "date_of_birth": "01/05/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 34,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/ruben-alcaraz/profil/spieler/247250",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/247250-1541148505.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LEADERBROCK",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1451
+  }
+}

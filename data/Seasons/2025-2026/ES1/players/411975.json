@@ -1,0 +1,29 @@
+{
+  "player_id": 411975,
+  "name": "Jules Koundé",
+  "position": "Lateral derecho",
+  "date_of_birth": "12/11/1998",
+  "nationality": "Francia",
+  "second_nationality": "Benín",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "65,00mill. €Ú",
+  "market_value_numeric": 65000000,
+  "age": 27,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/jules-kounde/profil/spieler/411975",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/411975-1702502639.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "ESN",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1459
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 364237,
+  "name": "Mamadou Loum",
+  "position": "Pivote",
+  "date_of_birth": "30/12/1996",
+  "nationality": "Senegal",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 29,
+  "birthplace": "Dakar",
+  "profile_url": "https://www.transfermarkt.es/mamadou-loum/profil/spieler/364237",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/364237-1760543924.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "LS Sports",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 61
+  }
+}

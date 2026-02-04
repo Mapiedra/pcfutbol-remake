@@ -1,0 +1,29 @@
+{
+  "player_id": 790447,
+  "name": "Álvaro Ginés",
+  "position": "Delantero centro",
+  "date_of_birth": "15/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/alvaro-gines/profil/spieler/790447",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/790447-1766753741.jpeg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 717
+  }
+}

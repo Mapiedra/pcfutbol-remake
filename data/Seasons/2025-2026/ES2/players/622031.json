@@ -1,0 +1,29 @@
+{
+  "player_id": 622031,
+  "name": "Tommaso De Nipoti",
+  "position": "Mediapunta",
+  "date_of_birth": "23/07/2003",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 22,
+  "birthplace": "Udine",
+  "profile_url": "https://www.transfermarkt.es/tommaso-de-nipoti/profil/spieler/622031",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/622031-1643021542.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "TMP SOCCER srl",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 151
+  }
+}

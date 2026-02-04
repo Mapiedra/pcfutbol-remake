@@ -1,0 +1,22 @@
+{
+  "player_id": 1130177,
+  "name": "Alejandro Martín",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/02/2006",
+  "nationality": "República Dominicana",
+  "second_nationality": "España",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 19,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/alejandro-martin/profil/spieler/1130177",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

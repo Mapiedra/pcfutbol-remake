@@ -1,0 +1,29 @@
+{
+  "player_id": 453704,
+  "name": "Álvaro Fernández",
+  "position": "Portero",
+  "date_of_birth": "13/04/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 27,
+  "birthplace": "Arnedo",
+  "profile_url": "https://www.transfermarkt.es/alvaro-fernandez/profil/spieler/453704",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/453704-1694431085.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Dupla Piqué & Domínguez",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

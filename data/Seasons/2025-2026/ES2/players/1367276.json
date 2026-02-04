@@ -1,0 +1,29 @@
+{
+  "player_id": 1367276,
+  "name": "Ibrahim Alani",
+  "position": "Mediocentro",
+  "date_of_birth": "29/07/2006",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 19,
+  "birthplace": "Lagos",
+  "profile_url": "https://www.transfermarkt.es/ibrahim-alani/profil/spieler/1367276",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 184
+  }
+}

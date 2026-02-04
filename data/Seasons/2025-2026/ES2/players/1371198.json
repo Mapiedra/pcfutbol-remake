@@ -1,0 +1,29 @@
+{
+  "player_id": 1371198,
+  "name": "Ale Gomes",
+  "position": "Defensa central",
+  "date_of_birth": "14/02/2008",
+  "nationality": "España",
+  "second_nationality": "Cabo Verde",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "36",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 17,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/ale-gomes/profil/spieler/1371198",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 447
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 282411,
+  "name": "Marcos Llorente",
+  "position": "Lateral derecho",
+  "date_of_birth": "30/01/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "22,00mill. €Ú",
+  "market_value_numeric": 22000000,
+  "age": 30,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/marcos-llorente/profil/spieler/282411",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/282411-1684159821.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1442
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 534279,
+  "name": "Fran Viñuela",
+  "position": "Extremo derecho",
+  "date_of_birth": "12/07/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Villafranca de los ...",
+  "profile_url": "https://www.transfermarkt.es/fran-vinuela/profil/spieler/534279",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/534279-1700765219.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MMIC Sport",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 556
+  }
+}

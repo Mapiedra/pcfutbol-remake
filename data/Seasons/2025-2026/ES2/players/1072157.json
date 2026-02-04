@@ -1,0 +1,29 @@
+{
+  "player_id": 1072157,
+  "name": "Thalys",
+  "position": "Delantero centro",
+  "date_of_birth": "22/02/2005",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 20,
+  "birthplace": "São Miguel dos ...",
+  "profile_url": "https://www.transfermarkt.es/thalys/profil/spieler/1072157",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1072157-1680449274.jpg?lm=1",
+  "contract_until": "30/06/2031",
+  "international_caps": null,
+  "agent": "Bertolucci Sports",
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 607
+  }
+}

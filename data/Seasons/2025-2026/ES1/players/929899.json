@@ -1,0 +1,29 @@
+{
+  "player_id": 929899,
+  "name": "Rahim Alhassane",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "01/01/2002",
+  "nationality": "Níger",
+  "second_nationality": "Nigeria",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 24,
+  "birthplace": "Abuja",
+  "profile_url": "https://www.transfermarkt.es/rahim-alhassane/profil/spieler/929899",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/929899-1758832463.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "ROOF",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1413
+  }
+}

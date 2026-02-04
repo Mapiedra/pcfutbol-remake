@@ -1,0 +1,29 @@
+{
+  "player_id": 710675,
+  "name": "Nowend Lorenzo",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/11/2002",
+  "nationality": "República Dominicana",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Santo Domingo de ...",
+  "profile_url": "https://www.transfermarkt.es/nowend-lorenzo/profil/spieler/710675",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/710675-1700779911.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Futivpro",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 402
+  }
+}

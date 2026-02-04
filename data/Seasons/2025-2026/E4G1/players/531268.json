@@ -1,0 +1,29 @@
+{
+  "player_id": 531268,
+  "name": "René Pérez",
+  "position": "Defensa central",
+  "date_of_birth": "19/10/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Villaviciosa",
+  "profile_url": "https://www.transfermarkt.es/rene-perez/profil/spieler/531268",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531268-1733489467.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1534
+  }
+}

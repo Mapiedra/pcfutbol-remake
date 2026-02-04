@@ -1,0 +1,29 @@
+{
+  "player_id": 896014,
+  "name": "Adrià Nicoli",
+  "position": "Lateral derecho",
+  "date_of_birth": "19/07/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 25,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/adria-nicoli/profil/spieler/896014",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "TDM",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1706
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 635581,
+  "name": "Ander Yoldi",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "09/09/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 25,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/ander-yoldi/profil/spieler/635581",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/635581-1700855965.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "INVSPORT (Sergio Barila)",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1701
+  }
+}

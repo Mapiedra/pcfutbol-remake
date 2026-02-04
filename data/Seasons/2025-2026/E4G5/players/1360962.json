@@ -1,0 +1,29 @@
+{
+  "player_id": 1360962,
+  "name": "Martín Cuéllar",
+  "position": "Delantero centro",
+  "date_of_birth": "26/03/2007",
+  "nationality": "España",
+  "second_nationality": "Venezuela",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "27",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": "A Coruña",
+  "profile_url": "https://www.transfermarkt.es/martin-cuellar/profil/spieler/1360962",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1360962-1758931248.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 5,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 169
+  }
+}

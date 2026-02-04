@@ -1,0 +1,29 @@
+{
+  "player_id": 1008584,
+  "name": "Juancho Villegas",
+  "position": "Defensa central",
+  "date_of_birth": "14/01/2003",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,86 m",
+  "foot": "Izquierdo",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/juancho-villegas/profil/spieler/1008584",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 497
+  }
+}

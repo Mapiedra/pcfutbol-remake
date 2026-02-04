@@ -1,0 +1,29 @@
+{
+  "player_id": 895480,
+  "name": "Adu Ares",
+  "position": "Extremo derecho",
+  "date_of_birth": "12/10/2001",
+  "nationality": "España",
+  "second_nationality": "Guinea-Bissau",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 24,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/adu-ares/profil/spieler/895480",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/895480-1709676270.png?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 349
+  }
+}

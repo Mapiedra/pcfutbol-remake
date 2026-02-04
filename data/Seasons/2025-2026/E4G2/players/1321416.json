@@ -1,0 +1,29 @@
+{
+  "player_id": 1321416,
+  "name": "Jaime Tobajas",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "15/12/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jaime-tobajas/profil/spieler/1321416",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1642
+  }
+}

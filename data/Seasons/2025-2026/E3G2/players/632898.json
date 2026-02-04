@@ -1,0 +1,29 @@
+{
+  "player_id": 632898,
+  "name": "Rodri Val",
+  "position": "Extremo derecho",
+  "date_of_birth": "05/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Aurín",
+  "profile_url": "https://www.transfermarkt.es/rodri-val/profil/spieler/632898",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632898-1643297432.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1721
+  }
+}

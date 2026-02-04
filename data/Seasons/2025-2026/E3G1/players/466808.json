@@ -1,0 +1,29 @@
+{
+  "player_id": 466808,
+  "name": "Jaume Cuéllar",
+  "position": "Extremo derecho",
+  "date_of_birth": "23/08/2001",
+  "nationality": "Bolivia",
+  "second_nationality": "España",
+  "height": "1,80 m",
+  "foot": "Ambidiestro",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Granollers",
+  "profile_url": "https://www.transfermarkt.es/jaume-cuellar/profil/spieler/466808",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/466808-1718304759.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 714
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 46413,
+  "name": "Ante Budimir",
+  "position": "Delantero centro",
+  "date_of_birth": "22/07/1991",
+  "nationality": "Croacia",
+  "second_nationality": "Yugoslavia (RFSY)",
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 34,
+  "birthplace": "Zenica",
+  "profile_url": "https://www.transfermarkt.es/ante-budimir/profil/spieler/46413",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/46413-1732219707.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "MG MEDIATOR TRANSFER",
+  "stats": {
+    "appearances": 20,
+    "goals": 9,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1565
+  }
+}

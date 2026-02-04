@@ -1,0 +1,29 @@
+{
+  "player_id": 480267,
+  "name": "Ronald Araujo",
+  "position": "Defensa central",
+  "date_of_birth": "07/03/1999",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "25,00mill. €Ú",
+  "market_value_numeric": 25000000,
+  "age": 26,
+  "birthplace": "Rivera",
+  "profile_url": "https://www.transfermarkt.es/ronald-araujo/profil/spieler/480267",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/480267-1736431980.jpg?lm=1",
+  "contract_until": "30/06/2031",
+  "international_caps": null,
+  "agent": "Excellence Sport",
+  "stats": {
+    "appearances": 11,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 647
+  }
+}

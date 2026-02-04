@@ -1,0 +1,22 @@
+{
+  "player_id": 117549,
+  "name": "Rodri Ríos",
+  "position": "Delantero centro",
+  "date_of_birth": "06/06/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 35,
+  "birthplace": "Soria",
+  "profile_url": "https://www.transfermarkt.es/rodri-rios/profil/spieler/117549",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/s_117549_3302_2012_1.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": null
+}

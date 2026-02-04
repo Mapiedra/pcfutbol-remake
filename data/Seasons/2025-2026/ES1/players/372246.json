@@ -1,0 +1,29 @@
+{
+  "player_id": 372246,
+  "name": "Carlos Soler",
+  "position": "Mediocentro",
+  "date_of_birth": "02/01/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 29,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/carlos-soler/profil/spieler/372246",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/372246-1759159072.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1032
+  }
+}

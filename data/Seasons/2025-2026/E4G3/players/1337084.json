@@ -1,0 +1,29 @@
+{
+  "player_id": 1337084,
+  "name": "Papa Ba",
+  "position": "Extremo derecho",
+  "date_of_birth": "19/04/2004",
+  "nationality": "Senegal",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Thiès",
+  "profile_url": "https://www.transfermarkt.es/papa-ba/profil/spieler/1337084",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 15,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1235
+  }
+}

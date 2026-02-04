@@ -1,0 +1,29 @@
+{
+  "player_id": 958969,
+  "name": "Paki",
+  "position": "Extremo derecho",
+  "date_of_birth": "08/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 28,
+  "birthplace": "Utrillas",
+  "profile_url": "https://www.transfermarkt.es/paki/profil/spieler/958969",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 1,
+    "minutes_played": 1041
+  }
+}

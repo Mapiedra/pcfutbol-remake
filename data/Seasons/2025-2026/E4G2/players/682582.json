@@ -1,0 +1,29 @@
+{
+  "player_id": 682582,
+  "name": "Manolo Molina",
+  "position": "Defensa central",
+  "date_of_birth": "12/11/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": null,
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Granada",
+  "profile_url": "https://www.transfermarkt.es/manolo-molina/profil/spieler/682582",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Cebrián Silva",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 931
+  }
+}

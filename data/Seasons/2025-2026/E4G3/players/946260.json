@@ -1,0 +1,29 @@
+{
+  "player_id": 946260,
+  "name": "Pol Fernández",
+  "position": "Lateral derecho",
+  "date_of_birth": "16/12/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "24",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/pol-fernandez/profil/spieler/946260",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 347
+  }
+}

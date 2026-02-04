@@ -1,0 +1,29 @@
+{
+  "player_id": 713632,
+  "name": "Ángel Jiménez",
+  "position": "Portero",
+  "date_of_birth": "22/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,94 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Granada",
+  "profile_url": "https://www.transfermarkt.es/angel-jimenez/profil/spieler/713632",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/713632-1732793519.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 6
+  }
+}

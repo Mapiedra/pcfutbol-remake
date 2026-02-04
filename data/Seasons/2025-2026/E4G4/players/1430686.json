@@ -1,0 +1,29 @@
+{
+  "player_id": 1430686,
+  "name": "Ale Contreras",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "13/03/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/ale-contreras/profil/spieler/1430686",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MSM Sports Group",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 196
+  }
+}

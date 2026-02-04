@@ -1,0 +1,29 @@
+{
+  "player_id": 510967,
+  "name": "Aritz Huete",
+  "position": "Defensa central",
+  "date_of_birth": "27/06/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 29,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/aritz-huete/profil/spieler/510967",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/510967-1701284884.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1678
+  }
+}

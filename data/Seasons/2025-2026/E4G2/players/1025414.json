@@ -1,0 +1,29 @@
+{
+  "player_id": 1025414,
+  "name": "Aitor Mujica",
+  "position": "Portero",
+  "date_of_birth": "11/09/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 24,
+  "birthplace": "Mataró",
+  "profile_url": "https://www.transfermarkt.es/aitor-mujica/profil/spieler/1025414",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All in One Football",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

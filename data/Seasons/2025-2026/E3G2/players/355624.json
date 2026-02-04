@@ -1,0 +1,29 @@
+{
+  "player_id": 355624,
+  "name": "Luis Muñoz",
+  "position": "Mediocentro",
+  "date_of_birth": "23/02/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 28,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/luis-munoz/profil/spieler/355624",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/355624-1606725822.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 446
+  }
+}

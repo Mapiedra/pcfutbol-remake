@@ -1,0 +1,29 @@
+{
+  "player_id": 199355,
+  "name": "Marcos Legaz",
+  "position": "Delantero centro",
+  "date_of_birth": "29/11/1995",
+  "nationality": "España",
+  "second_nationality": "Argentina",
+  "height": "1,79 m",
+  "foot": "Ambidiestro",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 30,
+  "birthplace": "San Martín",
+  "profile_url": "https://www.transfermarkt.es/marcos-legaz/profil/spieler/199355",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/199355-1702068155.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Onefootball",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 830
+  }
+}

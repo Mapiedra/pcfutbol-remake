@@ -1,0 +1,29 @@
+{
+  "player_id": 602105,
+  "name": "Antony",
+  "position": "Extremo derecho",
+  "date_of_birth": "24/02/2000",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "30,00mill. €Ú",
+  "market_value_numeric": 30000000,
+  "age": 25,
+  "birthplace": "São Paulo",
+  "profile_url": "https://www.transfermarkt.es/antony/profil/spieler/602105",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/602105-1758783018.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "4ComM",
+  "stats": {
+    "appearances": 16,
+    "goals": 5,
+    "assists": 4,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 1329
+  }
+}

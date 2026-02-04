@@ -1,0 +1,29 @@
+{
+  "player_id": 1064476,
+  "name": "Roi Tato",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "08/09/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Pontevedra",
+  "profile_url": "https://www.transfermarkt.es/roi-tato/profil/spieler/1064476",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 949
+  }
+}

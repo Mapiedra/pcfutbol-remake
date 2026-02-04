@@ -1,0 +1,29 @@
+{
+  "player_id": 248330,
+  "name": "Chema Rodríguez",
+  "position": "Defensa central",
+  "date_of_birth": "03/03/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 33,
+  "birthplace": "Caudete",
+  "profile_url": "https://www.transfermarkt.es/chema-rodriguez/profil/spieler/248330",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/248330-1702510888.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Sports and Management",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 410
+  }
+}

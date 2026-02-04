@@ -1,0 +1,29 @@
+{
+  "player_id": 935229,
+  "name": "Marvel",
+  "position": "Defensa central",
+  "date_of_birth": "07/01/2003",
+  "nationality": "España",
+  "second_nationality": "Marruecos",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 23,
+  "birthplace": "Casablanca",
+  "profile_url": "https://www.transfermarkt.es/marvel/profil/spieler/935229",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/935229-1672753886.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Roalza",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 1,
+    "minutes_played": 1539
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 904712,
+  "name": "Justin Smith",
+  "position": "Mediocentro",
+  "date_of_birth": "04/02/2003",
+  "nationality": "Canadá",
+  "second_nationality": "Francia",
+  "height": "1,89 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 22,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/justin-smith/profil/spieler/904712",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/904712-1760544046.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ARANEA",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 879
+  }
+}

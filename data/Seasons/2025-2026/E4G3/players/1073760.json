@@ -1,0 +1,29 @@
+{
+  "player_id": 1073760,
+  "name": "Isaac Boudaoud",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "04/09/2002",
+  "nationality": "España",
+  "second_nationality": "Argelia",
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/isaac-boudaoud/profil/spieler/1073760",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Greco Group Ltd.",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 196
+  }
+}

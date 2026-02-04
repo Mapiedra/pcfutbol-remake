@@ -1,0 +1,29 @@
+{
+  "player_id": 1056960,
+  "name": "Urtzi Albizua",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "29/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 20,
+  "birthplace": "Arrigorriaga",
+  "profile_url": "https://www.transfermarkt.es/urtzi-albizua/profil/spieler/1056960",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Podium Trade",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 335
+  }
+}

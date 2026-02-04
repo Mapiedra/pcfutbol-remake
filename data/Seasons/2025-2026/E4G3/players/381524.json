@@ -1,0 +1,29 @@
+{
+  "player_id": 381524,
+  "name": "Jaume Pol",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "31/12/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 31,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/jaume-pol/profil/spieler/381524",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/381524-1756486670.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 1560
+  }
+}

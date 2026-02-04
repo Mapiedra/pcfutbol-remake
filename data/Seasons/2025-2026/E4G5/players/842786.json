@@ -1,0 +1,29 @@
+{
+  "player_id": 842786,
+  "name": "Javi Solsona",
+  "position": "Delantero centro",
+  "date_of_birth": "04/04/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,94 m",
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 27,
+  "birthplace": "Orihuela",
+  "profile_url": "https://www.transfermarkt.es/javi-solsona/profil/spieler/842786",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/842786-1732217435.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 10,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1424
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 1132776,
+  "name": "Aimar Bonel",
+  "position": "Mediocentro",
+  "date_of_birth": "19/05/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": "Caparroso",
+  "profile_url": "https://www.transfermarkt.es/aimar-bonel/profil/spieler/1132776",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": null
+}

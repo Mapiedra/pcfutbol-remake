@@ -1,0 +1,29 @@
+{
+  "player_id": 984440,
+  "name": "Anai Morales",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "13/06/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 19,
+  "birthplace": "Larraga",
+  "profile_url": "https://www.transfermarkt.es/anai-morales/profil/spieler/984440",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/984440-1764187450.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1050
+  }
+}

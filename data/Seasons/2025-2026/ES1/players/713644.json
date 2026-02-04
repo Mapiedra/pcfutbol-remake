@@ -1,0 +1,29 @@
+{
+  "player_id": 713644,
+  "name": "Bryan Zaragoza",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "09/09/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,64 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 24,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/bryan-zaragoza/profil/spieler/713644",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/713644-1714503809.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1135
+  }
+}

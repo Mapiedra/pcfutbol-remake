@@ -1,0 +1,29 @@
+{
+  "player_id": 531265,
+  "name": "Nacho Fariña",
+  "position": "Mediocentro",
+  "date_of_birth": "07/11/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 27,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/nacho-farina/profil/spieler/531265",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531265-1732231174.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1337
+  }
+}

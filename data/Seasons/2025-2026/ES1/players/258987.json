@@ -1,0 +1,29 @@
+{
+  "player_id": 258987,
+  "name": "Carl Starfelt",
+  "position": "Defensa central",
+  "date_of_birth": "01/06/1995",
+  "nationality": "Suecia",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 30,
+  "birthplace": "Stockholm",
+  "profile_url": "https://www.transfermarkt.es/carl-starfelt/profil/spieler/258987",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/258987-1758827268.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "BHM Sports Agency",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1042
+  }
+}

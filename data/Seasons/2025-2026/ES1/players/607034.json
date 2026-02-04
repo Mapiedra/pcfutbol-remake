@@ -1,0 +1,29 @@
+{
+  "player_id": 607034,
+  "name": "Akor Adams",
+  "position": "Delantero centro",
+  "date_of_birth": "29/01/2000",
+  "nationality": "Nigeria",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "7,00mill. €Ú",
+  "market_value_numeric": 7000000,
+  "age": 26,
+  "birthplace": "Kogi State",
+  "profile_url": "https://www.transfermarkt.es/akor-adams/profil/spieler/607034",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/607034-1767008026.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Aneke/PMG",
+  "stats": {
+    "appearances": 16,
+    "goals": 6,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 981
+  }
+}

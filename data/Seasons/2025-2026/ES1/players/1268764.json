@@ -1,0 +1,29 @@
+{
+  "player_id": 1268764,
+  "name": "Davinchi",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "16/10/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "26",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 18,
+  "birthplace": "Huelva",
+  "profile_url": "https://www.transfermarkt.es/davinchi/profil/spieler/1268764",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1268764-1732577167.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "GBG Global Business Group",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 429
+  }
+}

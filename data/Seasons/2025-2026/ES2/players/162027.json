@@ -1,0 +1,22 @@
+{
+  "player_id": 162027,
+  "name": "David Gil",
+  "position": "Portero",
+  "date_of_birth": "11/01/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 32,
+  "birthplace": "Getafe",
+  "profile_url": "https://www.transfermarkt.es/david-gil/profil/spieler/162027",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/162027-1595508190.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Gesport Espizua SL",
+  "stats": null
+}

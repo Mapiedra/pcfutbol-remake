@@ -1,0 +1,29 @@
+{
+  "player_id": 79352,
+  "name": "Quique González",
+  "position": "Delantero centro",
+  "date_of_birth": "16/05/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 35,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/quique-gonzalez/profil/spieler/79352",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/79352-1544775790.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1088
+  }
+}

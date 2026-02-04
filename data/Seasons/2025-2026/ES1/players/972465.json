@@ -1,0 +1,29 @@
+{
+  "player_id": 972465,
+  "name": "Tani Oluwaseyi",
+  "position": "Delantero centro",
+  "date_of_birth": "15/05/2000",
+  "nationality": "Canadá",
+  "second_nationality": "Nigeria",
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 25,
+  "birthplace": "Abuja",
+  "profile_url": "https://www.transfermarkt.es/tani-oluwaseyi/profil/spieler/972465",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/972465-1758059359.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 505
+  }
+}

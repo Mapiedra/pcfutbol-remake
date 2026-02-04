@@ -1,0 +1,29 @@
+{
+  "player_id": 184885,
+  "name": "Christos Almpanis",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "05/11/1994",
+  "nationality": "Grecia",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Ambidiestro",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 31,
+  "birthplace": "Kalabaka",
+  "profile_url": "https://www.transfermarkt.es/christos-almpanis/profil/spieler/184885",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/184885-1694354224.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "E.C.Dimitriadis s.r.o.",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 355
+  }
+}

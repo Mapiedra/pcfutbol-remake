@@ -1,0 +1,29 @@
+{
+  "player_id": 248738,
+  "name": "Sergio Herrera",
+  "position": "Portero",
+  "date_of_birth": "05/06/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 32,
+  "birthplace": "Miranda de Ebro",
+  "profile_url": "https://www.transfermarkt.es/sergio-herrera/profil/spieler/248738",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/248738-1732220099.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 25,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

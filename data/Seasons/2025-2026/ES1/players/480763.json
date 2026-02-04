@@ -1,0 +1,29 @@
+{
+  "player_id": 480763,
+  "name": "Juan Foyth",
+  "position": "Defensa central",
+  "date_of_birth": "12/01/1998",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 28,
+  "birthplace": "La Plata",
+  "profile_url": "https://www.transfermarkt.es/juan-foyth/profil/spieler/480763",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/480763-1662668281.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Primotempo",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 936
+  }
+}

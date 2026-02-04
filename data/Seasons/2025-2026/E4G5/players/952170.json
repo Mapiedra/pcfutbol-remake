@@ -1,0 +1,29 @@
+{
+  "player_id": 952170,
+  "name": "Francesco Crapisto",
+  "position": "Mediocentro",
+  "date_of_birth": "15/01/2006",
+  "nationality": "Italia",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "26",
+  "is_on_loan": 1,
+  "market_value": "450mil €Ú",
+  "market_value_numeric": 450000,
+  "age": 20,
+  "birthplace": "Alessandria",
+  "profile_url": "https://www.transfermarkt.es/francesco-crapisto/profil/spieler/952170",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/952170-1707214250.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SP GROUP",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 20
+  }
+}

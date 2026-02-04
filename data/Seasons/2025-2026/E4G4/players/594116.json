@@ -1,0 +1,29 @@
+{
+  "player_id": 594116,
+  "name": "Maikel Villajos",
+  "position": "Delantero centro",
+  "date_of_birth": "04/10/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 27,
+  "birthplace": "Porzuna",
+  "profile_url": "https://www.transfermarkt.es/maikel-villajos/profil/spieler/594116",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/594116-1713379002.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 432
+  }
+}

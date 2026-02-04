@@ -1,0 +1,29 @@
+{
+  "player_id": 78818,
+  "name": "Dario Dumic",
+  "position": "Defensa central",
+  "date_of_birth": "30/01/1992",
+  "nationality": "Bosnia y Herzegovina",
+  "second_nationality": "Yugoslavia (RFSY)",
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 34,
+  "birthplace": "Sarajevo",
+  "profile_url": "https://www.transfermarkt.es/dario-dumic/profil/spieler/78818",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/78818-1657048651.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "People In Sport",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 581
+  }
+}

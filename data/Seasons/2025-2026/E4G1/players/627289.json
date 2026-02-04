@@ -1,0 +1,29 @@
+{
+  "player_id": 627289,
+  "name": "Alex René Reyes",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "01/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 26,
+  "birthplace": "Torre Pacheco",
+  "profile_url": "https://www.transfermarkt.es/alex-rene-reyes/profil/spieler/627289",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LH Management",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1451
+  }
+}

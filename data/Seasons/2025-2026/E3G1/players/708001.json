@@ -1,0 +1,29 @@
+{
+  "player_id": 708001,
+  "name": "Guille Perero",
+  "position": "Extremo derecho",
+  "date_of_birth": "31/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "175mil €Ú",
+  "market_value_numeric": 175000,
+  "age": 28,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/guille-perero/profil/spieler/708001",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/708001-1731669052.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MMIC Sport",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 50
+  }
+}

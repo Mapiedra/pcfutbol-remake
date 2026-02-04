@@ -1,0 +1,29 @@
+{
+  "player_id": 293388,
+  "name": "Oriol Rey",
+  "position": "Pivote",
+  "date_of_birth": "25/02/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 27,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/oriol-rey/profil/spieler/293388",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/293388-1726053851.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 746
+  }
+}

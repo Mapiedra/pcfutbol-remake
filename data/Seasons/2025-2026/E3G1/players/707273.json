@@ -1,0 +1,29 @@
+{
+  "player_id": 707273,
+  "name": "Brais Val",
+  "position": "Mediocentro",
+  "date_of_birth": "01/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/brais-val/profil/spieler/707273",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1589
+  }
+}

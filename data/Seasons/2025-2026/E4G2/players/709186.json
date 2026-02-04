@@ -1,0 +1,29 @@
+{
+  "player_id": 709186,
+  "name": "Iñigo López",
+  "position": "Delantero centro",
+  "date_of_birth": "27/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Derio",
+  "profile_url": "https://www.transfermarkt.es/inigo-lopez/profil/spieler/709186",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/709186-1709678268.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Acción Sport",
+  "stats": {
+    "appearances": 7,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 498
+  }
+}

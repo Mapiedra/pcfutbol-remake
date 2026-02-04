@@ -1,0 +1,29 @@
+{
+  "player_id": 182904,
+  "name": "Clément Lenglet",
+  "position": "Defensa central",
+  "date_of_birth": "17/06/1995",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 30,
+  "birthplace": "Beauvais",
+  "profile_url": "https://www.transfermarkt.es/clement-lenglet/profil/spieler/182904",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/182904-1599988301.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 732
+  }
+}

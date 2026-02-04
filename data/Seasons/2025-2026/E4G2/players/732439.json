@@ -1,0 +1,22 @@
+{
+  "player_id": 732439,
+  "name": "Nico Magno",
+  "position": "Mediocentro",
+  "date_of_birth": "19/09/1996",
+  "nationality": "Argentina",
+  "second_nationality": "Austria",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/nico-magno/profil/spieler/732439",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PRESSIONA",
+  "stats": null
+}

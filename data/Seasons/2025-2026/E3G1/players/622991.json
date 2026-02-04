@@ -1,0 +1,22 @@
+{
+  "player_id": 622991,
+  "name": "Slavy",
+  "position": "Delantero centro",
+  "date_of_birth": "05/05/2002",
+  "nationality": "Bulgaria",
+  "second_nationality": "España",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 23,
+  "birthplace": "Huesca",
+  "profile_url": "https://www.transfermarkt.es/slavy/profil/spieler/622991",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/622991-1732229949.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": null
+}

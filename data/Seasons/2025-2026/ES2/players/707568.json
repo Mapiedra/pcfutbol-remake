@@ -1,0 +1,29 @@
+{
+  "player_id": 707568,
+  "name": "Suleiman Camara",
+  "position": "Extremo derecho",
+  "date_of_birth": "07/12/2001",
+  "nationality": "Gambia",
+  "second_nationality": "España",
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 24,
+  "birthplace": "Sant Celoni",
+  "profile_url": "https://www.transfermarkt.es/suleiman-camara/profil/spieler/707568",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/707568-1700767834.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 264
+  }
+}

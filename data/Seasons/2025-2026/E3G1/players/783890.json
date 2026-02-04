@@ -1,0 +1,29 @@
+{
+  "player_id": 783890,
+  "name": "Luis Pareja",
+  "position": "Defensa central",
+  "date_of_birth": "05/11/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 27,
+  "birthplace": "San Sebastián de ...",
+  "profile_url": "https://www.transfermarkt.es/luis-pareja/profil/spieler/783890",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/783890-1732141178.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 657
+  }
+}

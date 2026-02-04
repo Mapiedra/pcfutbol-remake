@@ -1,0 +1,29 @@
+{
+  "player_id": 798114,
+  "name": "Calebe",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "30/04/2000",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 25,
+  "birthplace": "Monte Azul",
+  "profile_url": "https://www.transfermarkt.es/calebe/profil/spieler/798114",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/798114-1762367600.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LINK SPORTS",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 542
+  }
+}

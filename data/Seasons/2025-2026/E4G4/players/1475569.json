@@ -1,0 +1,29 @@
+{
+  "player_id": 1475569,
+  "name": "Alberto Jiménez",
+  "position": "Lateral derecho",
+  "date_of_birth": "28/05/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": null,
+  "squad_number": "28",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/alberto-jimenez/profil/spieler/1475569",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 376
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 379632,
+  "name": "Sergio Camus",
+  "position": "Lateral derecho",
+  "date_of_birth": "19/04/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Colindres",
+  "profile_url": "https://www.transfermarkt.es/sergio-camus/profil/spieler/379632",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "REVOLUTION Football Boutique",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1385
+  }
+}

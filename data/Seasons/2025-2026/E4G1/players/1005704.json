@@ -1,0 +1,29 @@
+{
+  "player_id": 1005704,
+  "name": "Rareș Mezdrea",
+  "position": "Mediocentro",
+  "date_of_birth": "09/02/2002",
+  "nationality": "Rumania",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Suceava",
+  "profile_url": "https://www.transfermarkt.es/rares-mezdrea/profil/spieler/1005704",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1005704-1732276646.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 928
+  }
+}

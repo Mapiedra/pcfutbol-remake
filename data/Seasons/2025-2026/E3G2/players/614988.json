@@ -1,0 +1,29 @@
+{
+  "player_id": 614988,
+  "name": "Ilias Kostis",
+  "position": "Defensa central",
+  "date_of_birth": "27/02/2003",
+  "nationality": "Grecia",
+  "second_nationality": "Chipre",
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 22,
+  "birthplace": "Thessaloniki",
+  "profile_url": "https://www.transfermarkt.es/ilias-kostis/profil/spieler/614988",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/614988-1731932512.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 5,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 243
+  }
+}

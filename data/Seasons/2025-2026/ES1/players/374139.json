@@ -1,0 +1,29 @@
+{
+  "player_id": 374139,
+  "name": "Junior Firpo",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "22/08/1996",
+  "nationality": "República Dominicana",
+  "second_nationality": "España",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 29,
+  "birthplace": "Santo Domingo de ...",
+  "profile_url": "https://www.transfermarkt.es/junior-firpo/profil/spieler/374139",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/374139-1724939835.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 541
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 71918,
+  "name": "David Ferreiro",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "01/04/1988",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 37,
+  "birthplace": "Ourense",
+  "profile_url": "https://www.transfermarkt.es/david-ferreiro/profil/spieler/71918",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/71918-1609758125.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1392
+  }
+}

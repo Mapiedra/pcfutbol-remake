@@ -1,0 +1,29 @@
+{
+  "player_id": 318520,
+  "name": "Clément Michelin",
+  "position": "Lateral derecho",
+  "date_of_birth": "11/05/1997",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 28,
+  "birthplace": "Montauban",
+  "profile_url": "https://www.transfermarkt.es/clement-michelin/profil/spieler/318520",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/318520-1501591204.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 358
+  }
+}

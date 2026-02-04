@@ -1,0 +1,29 @@
+{
+  "player_id": 708369,
+  "name": "Esteban Aparicio",
+  "position": "Delantero centro",
+  "date_of_birth": "11/05/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/esteban-aparicio/profil/spieler/708369",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/708369-1734519190.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "33 Sport",
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 787
+  }
+}

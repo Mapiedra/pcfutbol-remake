@@ -1,0 +1,29 @@
+{
+  "player_id": 855875,
+  "name": "José Masllorens",
+  "position": "Mediocentro",
+  "date_of_birth": "07/05/2001",
+  "nationality": "España",
+  "second_nationality": "Colombia",
+  "height": "1,88 m",
+  "foot": null,
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 24,
+  "birthplace": "Girona",
+  "profile_url": "https://www.transfermarkt.es/jose-masllorens/profil/spieler/855875",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/855875-1753666626.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 7
+  }
+}

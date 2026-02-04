@@ -1,0 +1,29 @@
+{
+  "player_id": 76285,
+  "name": "Toño",
+  "position": "Portero",
+  "date_of_birth": "23/11/1986",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 39,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/tono/profil/spieler/76285",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/76285-1510317030.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 22,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 741292,
+  "name": "Iker Bravo",
+  "position": "Delantero centro",
+  "date_of_birth": "13/01/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "49",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 21,
+  "birthplace": "Sant Cugat del ...",
+  "profile_url": "https://www.transfermarkt.es/iker-bravo/profil/spieler/741292",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/741292-1753444385.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 110
+  }
+}

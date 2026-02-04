@@ -1,0 +1,29 @@
+{
+  "player_id": 132625,
+  "name": "Francisco Dorronsoro",
+  "position": "Portero",
+  "date_of_birth": "22/05/1985",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 40,
+  "birthplace": "Torrelavega",
+  "profile_url": "https://www.transfermarkt.es/francisco-dorronsoro/profil/spieler/132625",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/132625-1732131736.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 4,
+    "yellow_cards": 21,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

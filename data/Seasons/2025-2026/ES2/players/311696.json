@@ -1,0 +1,29 @@
+{
+  "player_id": 311696,
+  "name": "Kuki Zalazar",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "05/05/1998",
+  "nationality": "España",
+  "second_nationality": "Uruguay",
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 27,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/kuki-zalazar/profil/spieler/311696",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/311696-1447238730.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 24,
+    "goals": 4,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1594
+  }
+}

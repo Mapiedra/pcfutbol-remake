@@ -1,0 +1,29 @@
+{
+  "player_id": 1376105,
+  "name": "César Porras",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "12/09/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 19,
+  "birthplace": "Badajoz",
+  "profile_url": "https://www.transfermarkt.es/cesar-porras/profil/spieler/1376105",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1155
+  }
+}

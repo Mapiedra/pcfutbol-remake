@@ -1,0 +1,29 @@
+{
+  "player_id": 210143,
+  "name": "Álex Gallar",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "19/03/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 33,
+  "birthplace": "Sabadell",
+  "profile_url": "https://www.transfermarkt.es/alex-gallar/profil/spieler/210143",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/210143-1700767700.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 216
+  }
+}

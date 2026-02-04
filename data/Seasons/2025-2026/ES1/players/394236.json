@@ -1,0 +1,29 @@
+{
+  "player_id": 394236,
+  "name": "Filip Ugrinic",
+  "position": "Mediocentro",
+  "date_of_birth": "05/01/1999",
+  "nationality": "Suiza",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 27,
+  "birthplace": "Luzern",
+  "profile_url": "https://www.transfermarkt.es/filip-ugrinic/profil/spieler/394236",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/394236-1700817304.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 528
+  }
+}

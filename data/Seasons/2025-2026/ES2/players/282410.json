@@ -1,0 +1,29 @@
+{
+  "player_id": 282410,
+  "name": "José Carlos Lazo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/02/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Ambidiestro",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 29,
+  "birthplace": "Sanlúcar de ...",
+  "profile_url": "https://www.transfermarkt.es/jose-carlos-lazo/profil/spieler/282410",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/282410-1727174572.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sports Company",
+  "stats": {
+    "appearances": 23,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 903
+  }
+}

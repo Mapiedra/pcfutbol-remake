@@ -1,0 +1,29 @@
+{
+  "player_id": 715683,
+  "name": "Naim García",
+  "position": "Extremo derecho",
+  "date_of_birth": "11/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/naim-garcia/profil/spieler/715683",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/715683-1698881493.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 23,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1547
+  }
+}

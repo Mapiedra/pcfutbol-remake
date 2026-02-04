@@ -1,0 +1,29 @@
+{
+  "player_id": 715625,
+  "name": "Hugo Sanz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 23,
+  "birthplace": "Ourense",
+  "profile_url": "https://www.transfermarkt.es/hugo-sanz/profil/spieler/715625",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 22,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1909
+  }
+}

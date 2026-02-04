@@ -1,0 +1,29 @@
+{
+  "player_id": 582698,
+  "name": "Florentin Bloch",
+  "position": "Portero",
+  "date_of_birth": "02/02/2000",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 26,
+  "birthplace": "Vernon",
+  "profile_url": "https://www.transfermarkt.es/florentin-bloch/profil/spieler/582698",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/582698-1595965585.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 23,
+    "red_cards": 0,
+    "minutes_played": 4
+  }
+}

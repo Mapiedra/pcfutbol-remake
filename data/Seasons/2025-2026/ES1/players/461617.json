@@ -1,0 +1,29 @@
+{
+  "player_id": 461617,
+  "name": "Rodrigo Riquelme",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/rodrigo-riquelme/profil/spieler/461617",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/461617-1701212385.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 584
+  }
+}

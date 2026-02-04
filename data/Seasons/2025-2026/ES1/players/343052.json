@@ -1,0 +1,29 @@
+{
+  "player_id": 343052,
+  "name": "Nicolas Pépé",
+  "position": "Extremo derecho",
+  "date_of_birth": "29/05/1995",
+  "nationality": "Costa de Marfil",
+  "second_nationality": "Francia",
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 30,
+  "birthplace": "Mantes-la-Jolie",
+  "profile_url": "https://www.transfermarkt.es/nicolas-pepe/profil/spieler/343052",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/343052-1758059244.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "BS Group International ",
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1074
+  }
+}

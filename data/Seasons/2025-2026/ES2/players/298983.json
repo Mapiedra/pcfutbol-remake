@@ -1,0 +1,29 @@
+{
+  "player_id": 298983,
+  "name": "Javi Ontiveros",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "09/09/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 28,
+  "birthplace": "Marbella",
+  "profile_url": "https://www.transfermarkt.es/javi-ontiveros/profil/spieler/298983",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/298983-1629886260.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 594
+  }
+}

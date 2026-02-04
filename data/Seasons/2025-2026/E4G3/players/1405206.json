@@ -1,0 +1,29 @@
+{
+  "player_id": 1405206,
+  "name": "Mario González",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "25/05/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/mario-gonzalez/profil/spieler/1405206",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1405206-1760553029.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Sports and Management",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 417
+  }
+}

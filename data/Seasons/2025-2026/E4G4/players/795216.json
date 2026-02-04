@@ -1,0 +1,29 @@
+{
+  "player_id": 795216,
+  "name": "Álex Caramelo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "21/02/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 30,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/alex-caramelo/profil/spieler/795216",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/795216-1748558400.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 1066
+  }
+}

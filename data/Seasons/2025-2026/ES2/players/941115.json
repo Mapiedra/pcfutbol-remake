@@ -1,0 +1,29 @@
+{
+  "player_id": 941115,
+  "name": "Rubén López",
+  "position": "Mediocentro",
+  "date_of_birth": "26/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "35",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 21,
+  "birthplace": "Silleda",
+  "profile_url": "https://www.transfermarkt.es/ruben-lopez/profil/spieler/941115",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Miguel Pedrajo",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 74
+  }
+}

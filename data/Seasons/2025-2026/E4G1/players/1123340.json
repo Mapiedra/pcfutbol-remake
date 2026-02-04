@@ -1,0 +1,29 @@
+{
+  "player_id": 1123340,
+  "name": "Gerard Urbina",
+  "position": "Lateral derecho",
+  "date_of_birth": "17/03/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/gerard-urbina/profil/spieler/1123340",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MSSports",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1503
+  }
+}

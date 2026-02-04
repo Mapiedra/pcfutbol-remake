@@ -1,0 +1,29 @@
+{
+  "player_id": 672953,
+  "name": "César Moreno",
+  "position": "Mediocentro",
+  "date_of_birth": "23/04/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Cartagena",
+  "profile_url": "https://www.transfermarkt.es/cesar-moreno/profil/spieler/672953",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/672953-1732577427.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ulisses Santos - US11",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 956
+  }
+}

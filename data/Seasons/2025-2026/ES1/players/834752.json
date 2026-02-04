@@ -1,0 +1,29 @@
+{
+  "player_id": 834752,
+  "name": "Unai Gómez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "25/05/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 22,
+  "birthplace": "Bermeo",
+  "profile_url": "https://www.transfermarkt.es/unai-gomez/profil/spieler/834752",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/834752-1709676122.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Rioja Cermeño S.L.",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 402
+  }
+}

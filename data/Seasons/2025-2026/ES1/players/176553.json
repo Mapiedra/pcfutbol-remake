@@ -1,0 +1,29 @@
+{
+  "player_id": 176553,
+  "name": "Aymeric Laporte",
+  "position": "Defensa central",
+  "date_of_birth": "27/05/1994",
+  "nationality": "España",
+  "second_nationality": "Francia",
+  "height": "1,91 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "9,00mill. €Ú",
+  "market_value_numeric": 9000000,
+  "age": 31,
+  "birthplace": "Agen",
+  "profile_url": "https://www.transfermarkt.es/aymeric-laporte/profil/spieler/176553",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/176553-1685546335.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 860
+  }
+}

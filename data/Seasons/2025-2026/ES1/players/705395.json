@@ -1,0 +1,29 @@
+{
+  "player_id": 705395,
+  "name": "Gerard Martín",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "26/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "20,00mill. €Ú",
+  "market_value_numeric": 20000000,
+  "age": 23,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/gerard-martin/profil/spieler/705395",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/705395-1730119053.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1026
+  }
+}

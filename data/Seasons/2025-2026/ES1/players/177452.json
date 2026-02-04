@@ -1,0 +1,29 @@
+{
+  "player_id": 177452,
+  "name": "Abdón Prats",
+  "position": "Delantero centro",
+  "date_of_birth": "07/12/1992",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "900mil €Ú",
+  "market_value_numeric": 900000,
+  "age": 33,
+  "birthplace": "Artà",
+  "profile_url": "https://www.transfermarkt.es/abdon-prats/profil/spieler/177452",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/177452-1696950061.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 79
+  }
+}

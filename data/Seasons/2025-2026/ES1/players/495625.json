@@ -1,0 +1,29 @@
+{
+  "player_id": 495625,
+  "name": "Víctor Chust",
+  "position": "Defensa central",
+  "date_of_birth": "05/03/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Ambidiestro",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 25,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/victor-chust/profil/spieler/495625",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/495625-1725990797.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Borja Couce",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1137
+  }
+}

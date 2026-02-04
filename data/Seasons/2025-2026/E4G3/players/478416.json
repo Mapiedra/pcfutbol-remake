@@ -1,0 +1,29 @@
+{
+  "player_id": 478416,
+  "name": "Rubén Enri",
+  "position": "Delantero centro",
+  "date_of_birth": "10/04/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/ruben-enri/profil/spieler/478416",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FUTBOL21 AGENCY",
+  "stats": {
+    "appearances": 21,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1336
+  }
+}

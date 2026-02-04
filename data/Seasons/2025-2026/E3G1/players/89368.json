@@ -1,0 +1,29 @@
+{
+  "player_id": 89368,
+  "name": "Borja García",
+  "position": "Defensa central",
+  "date_of_birth": "07/01/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 36,
+  "birthplace": "Laredo",
+  "profile_url": "https://www.transfermarkt.es/borja-garcia/profil/spieler/89368",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/89368-1736855510.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "EGGO Asesores Deportivos",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 131
+  }
+}

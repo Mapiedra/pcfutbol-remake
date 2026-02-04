@@ -1,0 +1,29 @@
+{
+  "player_id": 928726,
+  "name": "Roberto Arroyo",
+  "position": "Delantero centro",
+  "date_of_birth": "25/08/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Ambidiestro",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 22,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/roberto-arroyo/profil/spieler/928726",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/928726-1700768041.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1189
+  }
+}

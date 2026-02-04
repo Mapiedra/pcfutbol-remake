@@ -1,0 +1,29 @@
+{
+  "player_id": 733575,
+  "name": "Ilies Faure",
+  "position": "Delantero centro",
+  "date_of_birth": "28/06/2001",
+  "nationality": "Francia",
+  "second_nationality": "Argelia",
+  "height": "1,92 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Toulouse",
+  "profile_url": "https://www.transfermarkt.es/ilies-faure/profil/spieler/733575",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/733575-1700241083.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 6,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1577
+  }
+}

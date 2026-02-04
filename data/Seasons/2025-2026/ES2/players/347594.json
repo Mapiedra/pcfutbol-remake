@@ -1,0 +1,29 @@
+{
+  "player_id": 347594,
+  "name": "Florian Miguel",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "01/09/1996",
+  "nationality": "Francia",
+  "second_nationality": "Portugal",
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 29,
+  "birthplace": "Bruges",
+  "profile_url": "https://www.transfermarkt.es/florian-miguel/profil/spieler/347594",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/347594-1713279453.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Horizon",
+  "stats": {
+    "appearances": 23,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 10,
+    "red_cards": 0,
+    "minutes_played": 2040
+  }
+}

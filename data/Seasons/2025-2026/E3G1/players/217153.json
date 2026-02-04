@@ -1,0 +1,29 @@
+{
+  "player_id": 217153,
+  "name": "Yelko Pino",
+  "position": "Mediocentro",
+  "date_of_birth": "30/10/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 29,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/yelko-pino/profil/spieler/217153",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/217153-1700515048.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 5,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1841
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1134273,
+  "name": "Mohammed Hamony",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "05/08/2006",
+  "nationality": "Marruecos",
+  "second_nationality": "Francia",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 19,
+  "birthplace": "Casablanca",
+  "profile_url": "https://www.transfermarkt.es/mohammed-hamony/profil/spieler/1134273",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1134273-1726836747.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BS Group International ",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 634
+  }
+}

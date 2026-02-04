@@ -1,0 +1,29 @@
+{
+  "player_id": 124419,
+  "name": "Odysseas Vlachodimos",
+  "position": "Portero",
+  "date_of_birth": "26/04/1994",
+  "nationality": "Grecia",
+  "second_nationality": "Alemania",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 31,
+  "birthplace": "Stuttgart",
+  "profile_url": "https://www.transfermarkt.es/odysseas-vlachodimos/profil/spieler/124419",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/124419-1706829687.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "fair-sport GmbH",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 26,
+    "red_cards": 0,
+    "minutes_played": 3
+  }
+}

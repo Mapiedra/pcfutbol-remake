@@ -1,0 +1,29 @@
+{
+  "player_id": 741252,
+  "name": "Aarón Alonso",
+  "position": "Portero",
+  "date_of_birth": "10/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Ambidiestro",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "El Rosario",
+  "profile_url": "https://www.transfermarkt.es/aaron-alonso/profil/spieler/741252",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Team Raiola",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

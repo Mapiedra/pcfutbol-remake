@@ -1,0 +1,29 @@
+{
+  "player_id": 636703,
+  "name": "Fermín López",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "11/05/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "70,00mill. €Ú",
+  "market_value_numeric": 70000000,
+  "age": 22,
+  "birthplace": "El Campillo",
+  "profile_url": "https://www.transfermarkt.es/fermin-lopez/profil/spieler/636703",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636703-1698086824.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 15,
+    "goals": 4,
+    "assists": 4,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 813
+  }
+}

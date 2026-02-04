@@ -1,0 +1,22 @@
+{
+  "player_id": 1226259,
+  "name": "Miguel Platero",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/01/2006",
+  "nationality": "Brasil",
+  "second_nationality": "España",
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 20,
+  "birthplace": "São Paulo",
+  "profile_url": "https://www.transfermarkt.es/miguel-platero/profil/spieler/1226259",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1226259-1708775929.jpeg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

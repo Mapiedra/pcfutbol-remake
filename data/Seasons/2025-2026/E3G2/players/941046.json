@@ -1,0 +1,22 @@
+{
+  "player_id": 941046,
+  "name": "Juan Cortéz",
+  "position": "Extremo derecho",
+  "date_of_birth": "03/04/2005",
+  "nationality": "México",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Hermosillo",
+  "profile_url": "https://www.transfermarkt.es/juan-cortez/profil/spieler/941046",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/941046-1671214733.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CANTERA LATINA / MATIAS BUNGE",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 617060,
+  "name": "Mika Mármol",
+  "position": "Defensa central",
+  "date_of_birth": "02/07/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 24,
+  "birthplace": "Terrassa",
+  "profile_url": "https://www.transfermarkt.es/mika-marmol/profil/spieler/617060",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/617060-1737366208.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1546
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1066202,
+  "name": "Eder Aller",
+  "position": "Portero",
+  "date_of_birth": "04/04/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,94 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 18,
+  "birthplace": "León",
+  "profile_url": "https://www.transfermarkt.es/eder-aller/profil/spieler/1066202",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1066202-1758897924.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 170472,
+  "name": "Dimitri Foulquier",
+  "position": "Lateral derecho",
+  "date_of_birth": "23/03/1993",
+  "nationality": "Guadalupe",
+  "second_nationality": "Francia",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 32,
+  "birthplace": "Sarcelles",
+  "profile_url": "https://www.transfermarkt.es/dimitri-foulquier/profil/spieler/170472",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/170472-1447230887.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "ACE",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1058
+  }
+}

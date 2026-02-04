@@ -1,0 +1,29 @@
+{
+  "player_id": 459463,
+  "name": "Cucho Hernández",
+  "position": "Delantero centro",
+  "date_of_birth": "20/04/1999",
+  "nationality": "Colombia",
+  "second_nationality": "España",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "18,00mill. €Ú",
+  "market_value_numeric": 18000000,
+  "age": 26,
+  "birthplace": "Pereira",
+  "profile_url": "https://www.transfermarkt.es/cucho-hernandez/profil/spieler/459463",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/459463-1709482118.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 19,
+    "goals": 8,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1654
+  }
+}

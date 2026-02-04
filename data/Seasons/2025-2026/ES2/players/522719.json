@@ -1,0 +1,29 @@
+{
+  "player_id": 522719,
+  "name": "Samuel Obeng",
+  "position": "Delantero centro",
+  "date_of_birth": "15/05/1997",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 28,
+  "birthplace": "Nsapor",
+  "profile_url": "https://www.transfermarkt.es/samuel-obeng/profil/spieler/522719",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/522719-1694431228.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Football Promotions (Scotland) Ltd.",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 206
+  }
+}

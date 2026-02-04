@@ -1,0 +1,29 @@
+{
+  "player_id": 1064503,
+  "name": "Bakary Traoré",
+  "position": "Defensa central",
+  "date_of_birth": "08/08/2004",
+  "nationality": "España",
+  "second_nationality": "Malí",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Elche",
+  "profile_url": "https://www.transfermarkt.es/bakary-traore/profil/spieler/1064503",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1064503-1748558467.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1504
+  }
+}

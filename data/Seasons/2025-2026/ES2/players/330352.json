@@ -1,0 +1,29 @@
+{
+  "player_id": 330352,
+  "name": "Raúl Guti",
+  "position": "Mediocentro",
+  "date_of_birth": "30/12/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 29,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/raul-guti/profil/spieler/330352",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/330352-1597764028.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 23,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1906
+  }
+}

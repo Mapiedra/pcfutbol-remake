@@ -1,0 +1,29 @@
+{
+  "player_id": 398183,
+  "name": "Luismi Redondo",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "04/02/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 27,
+  "birthplace": "Plasencia",
+  "profile_url": "https://www.transfermarkt.es/luismi-redondo/profil/spieler/398183",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/398183-1700589739.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ipi Sports and Management 14",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1416
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 652330,
+  "name": "Álvaro Carrillo",
+  "position": "Defensa central",
+  "date_of_birth": "06/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 23,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/alvaro-carrillo/profil/spieler/652330",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/652330-1757573146.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Media Base Sports",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1026
+  }
+}

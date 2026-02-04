@@ -1,0 +1,29 @@
+{
+  "player_id": 636693,
+  "name": "David Navarro",
+  "position": "Mediocentro",
+  "date_of_birth": "07/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 22,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/david-navarro/profil/spieler/636693",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636693-1734520000.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "TACTIC GRUP - OROBITG",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 553
+  }
+}

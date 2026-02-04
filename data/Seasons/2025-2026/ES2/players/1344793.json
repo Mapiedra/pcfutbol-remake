@@ -1,0 +1,29 @@
+{
+  "player_id": 1344793,
+  "name": "Toni Tamarit",
+  "position": "Extremo derecho",
+  "date_of_birth": "22/11/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "27",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/toni-tamarit/profil/spieler/1344793",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Hattrick S&E",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1134
+  }
+}

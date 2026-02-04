@@ -1,0 +1,29 @@
+{
+  "player_id": 1066213,
+  "name": "Asier Bonel",
+  "position": "Delantero centro",
+  "date_of_birth": "17/01/2008",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 18,
+  "birthplace": "Caparroso",
+  "profile_url": "https://www.transfermarkt.es/asier-bonel/profil/spieler/1066213",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1066213-1732220724.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 361
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 534372,
+  "name": "Javi Martín",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/09/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Azuqueca de Henares",
+  "profile_url": "https://www.transfermarkt.es/javi-martin/profil/spieler/534372",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/534372-1700684412.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio Lozano",
+  "stats": {
+    "appearances": 12,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 433
+  }
+}

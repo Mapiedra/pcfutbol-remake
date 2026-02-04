@@ -1,0 +1,29 @@
+{
+  "player_id": 1178748,
+  "name": "Álex Morata",
+  "position": "Defensa central",
+  "date_of_birth": "06/07/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 19,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/alex-morata/profil/spieler/1178748",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "DRL",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 514
+  }
+}

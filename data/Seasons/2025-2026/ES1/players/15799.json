@@ -1,0 +1,29 @@
+{
+  "player_id": 15799,
+  "name": "Santi Cazorla",
+  "position": "Mediocentro",
+  "date_of_birth": "13/12/1984",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,68 m",
+  "foot": "Ambidiestro",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 41,
+  "birthplace": "Lugo de Llanera",
+  "profile_url": "https://www.transfermarkt.es/santi-cazorla/profil/spieler/15799",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/15799-1758548452.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IFM",
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 438
+  }
+}

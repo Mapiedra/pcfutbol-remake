@@ -1,0 +1,22 @@
+{
+  "player_id": 512365,
+  "name": "José Ortega",
+  "position": "Portero",
+  "date_of_birth": "25/11/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 34,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jose-ortega/profil/spieler/512365",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/512365-1725605443.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AR Sport-Management",
+  "stats": null
+}

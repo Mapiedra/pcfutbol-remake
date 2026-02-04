@@ -1,0 +1,29 @@
+{
+  "player_id": 387317,
+  "name": "David Pinto",
+  "position": "Portero",
+  "date_of_birth": "14/07/1996",
+  "nationality": "Portugal",
+  "second_nationality": "España",
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/david-pinto/profil/spieler/387317",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/387317-1700764406.jpg?lm=1",
+  "contract_until": "CP Cacereño",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 18,
+    "red_cards": 0,
+    "minutes_played": 3
+  }
+}

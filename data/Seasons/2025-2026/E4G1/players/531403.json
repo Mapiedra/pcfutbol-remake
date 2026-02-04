@@ -1,0 +1,22 @@
+{
+  "player_id": 531403,
+  "name": "Luis Ángel Forcén",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "06/06/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/luis-angel-forcen/profil/spieler/531403",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531403-1732573036.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

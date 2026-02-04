@@ -1,0 +1,29 @@
+{
+  "player_id": 505308,
+  "name": "César Gelabert",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "31/10/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 25,
+  "birthplace": "Palencia",
+  "profile_url": "https://www.transfermarkt.es/cesar-gelabert/profil/spieler/505308",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/505308-1760543496.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 23,
+    "goals": 7,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1895
+  }
+}

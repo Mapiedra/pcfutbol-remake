@@ -1,0 +1,29 @@
+{
+  "player_id": 705700,
+  "name": "Nico Van Rijn",
+  "position": "Defensa central",
+  "date_of_birth": "26/03/2001",
+  "nationality": "Países Bajos",
+  "second_nationality": "España",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/nico-van-rijn/profil/spieler/705700",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/705700-1752918341.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 2,
+    "minutes_played": 1678
+  }
+}

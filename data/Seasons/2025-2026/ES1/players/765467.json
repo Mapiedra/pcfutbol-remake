@@ -1,0 +1,29 @@
+{
+  "player_id": 765467,
+  "name": "Jozhua Vertrouwd",
+  "position": "Defensa central",
+  "date_of_birth": "21/08/2004",
+  "nationality": "Países Bajos",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "33",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 21,
+  "birthplace": "Amsterdam",
+  "profile_url": "https://www.transfermarkt.es/jozhua-vertrouwd/profil/spieler/765467",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/765467-1691072211.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "E.F.M.",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 244
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 569390,
+  "name": "Julien Ponceau",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "28/11/2000",
+  "nationality": "Francia",
+  "second_nationality": "Angola",
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 25,
+  "birthplace": "Catumbela",
+  "profile_url": "https://www.transfermarkt.es/julien-ponceau/profil/spieler/569390",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/569390-1614604717.JPG?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "FOKUS",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1062
+  }
+}

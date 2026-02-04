@@ -1,0 +1,29 @@
+{
+  "player_id": 883283,
+  "name": "Soule Sidibe",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/04/1999",
+  "nationality": "Malí",
+  "second_nationality": "España",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 26,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/soule-sidibe/profil/spieler/883283",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Status Sport Management",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1274
+  }
+}

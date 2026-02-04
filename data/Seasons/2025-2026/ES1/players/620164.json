@@ -1,0 +1,29 @@
+{
+  "player_id": 620164,
+  "name": "Haissem Hassan",
+  "position": "Extremo derecho",
+  "date_of_birth": "08/02/2002",
+  "nationality": "Francia",
+  "second_nationality": "Egipto",
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 23,
+  "birthplace": "Bagnolet",
+  "profile_url": "https://www.transfermarkt.es/haissem-hassan/profil/spieler/620164",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/620164-1765280596.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "FAIR SPORT MNG",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1186
+  }
+}

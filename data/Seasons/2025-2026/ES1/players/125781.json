@@ -1,0 +1,29 @@
+{
+  "player_id": 125781,
+  "name": "Antoine Griezmann",
+  "position": "Mediapunta",
+  "date_of_birth": "21/03/1991",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "11,00mill. €Ú",
+  "market_value_numeric": 11000000,
+  "age": 34,
+  "birthplace": "Mâcon",
+  "profile_url": "https://www.transfermarkt.es/antoine-griezmann/profil/spieler/125781",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/125781-1719928503.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "BY AND FOR",
+  "stats": {
+    "appearances": 20,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 719
+  }
+}

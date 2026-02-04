@@ -1,0 +1,29 @@
+{
+  "player_id": 1371209,
+  "name": "Christian Hernández",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Ambidiestro",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 2005,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/christian-hernandez/profil/spieler/1371209",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Elite FGC Agency",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 269
+  }
+}

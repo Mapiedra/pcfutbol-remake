@@ -1,0 +1,29 @@
+{
+  "player_id": 366928,
+  "name": "Kun Temenuzhkov",
+  "position": "Delantero centro",
+  "date_of_birth": "01/02/2000",
+  "nationality": "Bulgaria",
+  "second_nationality": "España",
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": "Haskovo",
+  "profile_url": "https://www.transfermarkt.es/kun-temenuzhkov/profil/spieler/366928",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/366928-1718443865.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 21,
+    "goals": 7,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1224
+  }
+}

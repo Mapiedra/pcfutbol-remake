@@ -1,0 +1,29 @@
+{
+  "player_id": 634781,
+  "name": "Giuliano Bertino",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/12/2000",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "125mil €Ú",
+  "market_value_numeric": 125000,
+  "age": 25,
+  "birthplace": "Buenos Aires",
+  "profile_url": "https://www.transfermarkt.es/giuliano-bertino/profil/spieler/634781",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/634781-1680200135.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 312
+  }
+}

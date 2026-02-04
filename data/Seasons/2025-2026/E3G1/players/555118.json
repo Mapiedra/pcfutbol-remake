@@ -1,0 +1,29 @@
+{
+  "player_id": 555118,
+  "name": "Toño Calvo",
+  "position": "Mediocentro",
+  "date_of_birth": "20/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/tono-calvo/profil/spieler/555118",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/555118-1700514510.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 764
+  }
+}

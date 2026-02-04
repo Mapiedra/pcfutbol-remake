@@ -1,0 +1,29 @@
+{
+  "player_id": 820375,
+  "name": "David Rodríguez",
+  "position": "Lateral derecho",
+  "date_of_birth": "26/06/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 25,
+  "birthplace": "Santa Cruz de ...",
+  "profile_url": "https://www.transfermarkt.es/david-rodriguez/profil/spieler/820375",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/820375-1700589642.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1912
+  }
+}

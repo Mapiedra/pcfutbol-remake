@@ -1,0 +1,29 @@
+{
+  "player_id": 783882,
+  "name": "César Gómez",
+  "position": "Delantero centro",
+  "date_of_birth": "12/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/cesar-gomez/profil/spieler/783882",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/783882-1700683550.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JONATHAN SÁNCHEZ",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 880
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 498237,
+  "name": "David Carmo",
+  "position": "Defensa central",
+  "date_of_birth": "19/07/1999",
+  "nationality": "Angola",
+  "second_nationality": "Portugal",
+  "height": "1,96 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 26,
+  "birthplace": "Aveiro",
+  "profile_url": "https://www.transfermarkt.es/david-carmo/profil/spieler/498237",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/498237-1717008625.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ulisses Santos - US11",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1182
+  }
+}

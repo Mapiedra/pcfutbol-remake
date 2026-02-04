@@ -1,0 +1,29 @@
+{
+  "player_id": 1061121,
+  "name": "Chema Aragües",
+  "position": "Extremo derecho",
+  "date_of_birth": "17/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Tauste",
+  "profile_url": "https://www.transfermarkt.es/chema-aragues/profil/spieler/1061121",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "LA PLAYERS",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1278
+  }
+}

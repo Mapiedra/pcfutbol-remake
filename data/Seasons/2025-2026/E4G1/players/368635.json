@@ -1,0 +1,29 @@
+{
+  "player_id": 368635,
+  "name": "Juancho Victoria",
+  "position": "Delantero centro",
+  "date_of_birth": "24/01/1996",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Palmira",
+  "profile_url": "https://www.transfermarkt.es/juancho-victoria/profil/spieler/368635",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1195
+  }
+}

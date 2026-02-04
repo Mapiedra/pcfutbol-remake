@@ -1,0 +1,29 @@
+{
+  "player_id": 352392,
+  "name": "Lucas Perrin",
+  "position": "Defensa central",
+  "date_of_birth": "19/11/1998",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 27,
+  "birthplace": "Marseille",
+  "profile_url": "https://www.transfermarkt.es/lucas-perrin/profil/spieler/352392",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/352392-1760543223.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "SMI SPORTS MANAGEMENT",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1582
+  }
+}

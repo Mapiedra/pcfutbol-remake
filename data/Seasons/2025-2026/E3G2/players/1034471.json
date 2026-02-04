@@ -1,0 +1,29 @@
+{
+  "player_id": 1034471,
+  "name": "Khalid Noureddine",
+  "position": "Delantero centro",
+  "date_of_birth": "18/03/2003",
+  "nationality": "España",
+  "second_nationality": "Marruecos",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Figueres",
+  "profile_url": "https://www.transfermarkt.es/khalid-noureddine/profil/spieler/1034471",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1034471-1760545473.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FUTBOL21 AGENCY",
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 554
+  }
+}

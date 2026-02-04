@@ -1,0 +1,29 @@
+{
+  "player_id": 1036451,
+  "name": "Álvaro Killane",
+  "position": "Portero",
+  "date_of_birth": "14/12/2004",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/alvaro-killane/profil/spieler/1036451",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ivan Cristovinho",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 16,
+    "red_cards": 0,
+    "minutes_played": 7
+  }
+}

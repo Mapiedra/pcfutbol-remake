@@ -1,0 +1,29 @@
+{
+  "player_id": 817753,
+  "name": "Aisar Ahmed",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "02/07/2001",
+  "nationality": "España",
+  "second_nationality": "Marruecos",
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 24,
+  "birthplace": "Ceuta",
+  "profile_url": "https://www.transfermarkt.es/aisar-ahmed/profil/spieler/817753",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Bidfor Sports",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1606
+  }
+}

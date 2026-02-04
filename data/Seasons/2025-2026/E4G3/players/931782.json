@@ -1,0 +1,29 @@
+{
+  "player_id": 931782,
+  "name": "Juanmi Durán",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "29/04/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 22,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/juanmi-duran/profil/spieler/931782",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/931782-1756483316.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Toldra Consulting S.L.",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 549
+  }
+}

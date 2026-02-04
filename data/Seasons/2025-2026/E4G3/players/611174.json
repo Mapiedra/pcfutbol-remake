@@ -1,0 +1,29 @@
+{
+  "player_id": 611174,
+  "name": "Jofre Cherta",
+  "position": "Mediocentro",
+  "date_of_birth": "19/10/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 25,
+  "birthplace": "Girona",
+  "profile_url": "https://www.transfermarkt.es/jofre-cherta/profil/spieler/611174",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/611174-1756483153.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1783
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 458003,
+  "name": "Amin Bouzaig",
+  "position": "Delantero centro",
+  "date_of_birth": "01/06/1997",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 28,
+  "birthplace": "Adeje",
+  "profile_url": "https://www.transfermarkt.es/amin-bouzaig/profil/spieler/458003",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/458003-1732736971.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 7,
+    "red_cards": 1,
+    "minutes_played": 1459
+  }
+}

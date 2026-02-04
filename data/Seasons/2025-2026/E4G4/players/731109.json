@@ -1,0 +1,29 @@
+{
+  "player_id": 731109,
+  "name": "Javi Pedrosa",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "27/09/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/javi-pedrosa/profil/spieler/731109",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/731109-1717317259.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FBM_SPORTS_AGENCY",
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1327
+  }
+}

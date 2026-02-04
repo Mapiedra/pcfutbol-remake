@@ -1,0 +1,29 @@
+{
+  "player_id": 634460,
+  "name": "Álex Balboa",
+  "position": "Mediocentro",
+  "date_of_birth": "06/03/2001",
+  "nationality": "Guinea Ecuatorial",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Vitoria-Gasteiz",
+  "profile_url": "https://www.transfermarkt.es/alex-balboa/profil/spieler/634460",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/634460-1725529273.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1247
+  }
+}

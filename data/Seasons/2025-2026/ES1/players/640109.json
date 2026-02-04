@@ -1,0 +1,29 @@
+{
+  "player_id": 640109,
+  "name": "Martín Satriano",
+  "position": "Delantero centro",
+  "date_of_birth": "20/02/2001",
+  "nationality": "Uruguay",
+  "second_nationality": "Italia",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 24,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/martin-satriano/profil/spieler/640109",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/640109-1626685122.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 180
+  }
+}

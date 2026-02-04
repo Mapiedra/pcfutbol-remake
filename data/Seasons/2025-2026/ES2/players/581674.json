@@ -1,0 +1,29 @@
+{
+  "player_id": 581674,
+  "name": "Charlie Patiño",
+  "position": "Mediocentro",
+  "date_of_birth": "17/10/2003",
+  "nationality": "Inglaterra",
+  "second_nationality": "España",
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 22,
+  "birthplace": "Watford",
+  "profile_url": "https://www.transfermarkt.es/charlie-patino/profil/spieler/581674",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/581674-1683023729.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "#LEADERS",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 478
+  }
+}

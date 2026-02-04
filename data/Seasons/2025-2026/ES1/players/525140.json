@@ -1,0 +1,29 @@
+{
+  "player_id": 525140,
+  "name": "Goduine Koyalipou",
+  "position": "Delantero centro",
+  "date_of_birth": "15/02/2000",
+  "nationality": "República Centroafricana",
+  "second_nationality": "Francia",
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 25,
+  "birthplace": "Bangui",
+  "profile_url": "https://www.transfermarkt.es/goduine-koyalipou/profil/spieler/525140",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/525140-1714738152.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 239
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 396161,
+  "name": "Manu Hernando",
+  "position": "Defensa central",
+  "date_of_birth": "19/07/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 27,
+  "birthplace": "Palencia",
+  "profile_url": "https://www.transfermarkt.es/manu-hernando/profil/spieler/396161",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/396161-1724514640.jpeg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 497
+  }
+}

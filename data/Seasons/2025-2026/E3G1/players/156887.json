@@ -1,0 +1,29 @@
+{
+  "player_id": 156887,
+  "name": "Álvaro Peña",
+  "position": "Mediocentro",
+  "date_of_birth": "24/10/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 34,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/alvaro-pena/profil/spieler/156887",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/156887-1547729824.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Miguel Pedrajo",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 4,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 879
+  }
+}

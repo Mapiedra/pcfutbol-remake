@@ -1,0 +1,29 @@
+{
+  "player_id": 1157321,
+  "name": "Marcos Leganés",
+  "position": "Portero",
+  "date_of_birth": "27/05/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/marcos-leganes/profil/spieler/1157321",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "INVSPORT (Sergio Barila)",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1305668,
+  "name": "Iago Barreiros",
+  "position": "Extremo derecho",
+  "date_of_birth": "05/01/2008",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 18,
+  "birthplace": "Ponteareas",
+  "profile_url": "https://www.transfermarkt.es/iago-barreiros/profil/spieler/1305668",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 63
+  }
+}

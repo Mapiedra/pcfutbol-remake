@@ -1,0 +1,29 @@
+{
+  "player_id": 1470576,
+  "name": "Mario Domínguez",
+  "position": "Delantero",
+  "date_of_birth": "23/01/2009",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "31",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 17,
+  "birthplace": "Gijón",
+  "profile_url": "https://www.transfermarkt.es/mario-dominguez/profil/spieler/1470576",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "InterStarDeporte",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 286
+  }
+}

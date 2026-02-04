@@ -1,0 +1,29 @@
+{
+  "player_id": 776703,
+  "name": "Carlos Puga",
+  "position": "Lateral derecho",
+  "date_of_birth": "26/11/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 25,
+  "birthplace": "Albuñol",
+  "profile_url": "https://www.transfermarkt.es/carlos-puga/profil/spieler/776703",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/776703-1725885464.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1168
+  }
+}

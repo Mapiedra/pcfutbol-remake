@@ -1,0 +1,29 @@
+{
+  "player_id": 1122007,
+  "name": "Mykyta Aleksandrov",
+  "position": "Delantero centro",
+  "date_of_birth": "26/10/2004",
+  "nationality": "Ucrania",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Dnipropetrovsk",
+  "profile_url": "https://www.transfermarkt.es/mykyta-aleksandrov/profil/spieler/1122007",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1122007-1679516212.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Futuro Global Soccer S.L.",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 367
+  }
+}

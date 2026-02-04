@@ -1,0 +1,29 @@
+{
+  "player_id": 887254,
+  "name": "Edu Gallardo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "01/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Palencia",
+  "profile_url": "https://www.transfermarkt.es/edu-gallardo/profil/spieler/887254",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Agencia David Copito",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1277
+  }
+}

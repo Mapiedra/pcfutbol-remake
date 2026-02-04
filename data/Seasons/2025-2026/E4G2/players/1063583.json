@@ -1,0 +1,29 @@
+{
+  "player_id": 1063583,
+  "name": "Domenic Torres",
+  "position": "Defensa central",
+  "date_of_birth": "31/01/2005",
+  "nationality": "Colombia",
+  "second_nationality": "España",
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Buenaventura",
+  "profile_url": "https://www.transfermarkt.es/domenic-torres/profil/spieler/1063583",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 767
+  }
+}

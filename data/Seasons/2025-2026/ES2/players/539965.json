@@ -1,0 +1,29 @@
+{
+  "player_id": 539965,
+  "name": "Iuri Tabatadze",
+  "position": "Extremo derecho",
+  "date_of_birth": "29/11/1999",
+  "nationality": "Georgia",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Ambidiestro",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 26,
+  "birthplace": "Kutaisi",
+  "profile_url": "https://www.transfermarkt.es/iuri-tabatadze/profil/spieler/539965",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/539965-1685096182.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Carp Football Management",
+  "stats": {
+    "appearances": 18,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 791
+  }
+}

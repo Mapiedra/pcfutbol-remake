@@ -1,0 +1,29 @@
+{
+  "player_id": 731221,
+  "name": "Xabier Sola",
+  "position": "Delantero centro",
+  "date_of_birth": "19/11/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Olite",
+  "profile_url": "https://www.transfermarkt.es/xabier-sola/profil/spieler/731221",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Fip Football",
+  "stats": {
+    "appearances": 21,
+    "goals": 10,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1481
+  }
+}

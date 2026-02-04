@@ -1,0 +1,29 @@
+{
+  "player_id": 709376,
+  "name": "Carlos Mangada",
+  "position": "Mediocentro",
+  "date_of_birth": "19/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/carlos-mangada/profil/spieler/709376",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1292
+  }
+}

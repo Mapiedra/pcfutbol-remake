@@ -1,0 +1,29 @@
+{
+  "player_id": 894320,
+  "name": "Tommy Montenegro",
+  "position": "Delantero centro",
+  "date_of_birth": "15/03/1998",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 27,
+  "birthplace": "Buenos Aires",
+  "profile_url": "https://www.transfermarkt.es/tommy-montenegro/profil/spieler/894320",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Agencia David Copito",
+  "stats": {
+    "appearances": 21,
+    "goals": 6,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1215
+  }
+}

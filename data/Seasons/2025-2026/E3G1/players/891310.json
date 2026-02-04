@@ -1,0 +1,29 @@
+{
+  "player_id": 891310,
+  "name": "Rachad Fettal",
+  "position": "Delantero centro",
+  "date_of_birth": "16/01/2005",
+  "nationality": "España",
+  "second_nationality": "Marruecos",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 21,
+  "birthplace": "Torre Pacheco",
+  "profile_url": "https://www.transfermarkt.es/rachad-fettal/profil/spieler/891310",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/891310-1732735832.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 2,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 115
+  }
+}

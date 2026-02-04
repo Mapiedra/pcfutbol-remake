@@ -1,0 +1,29 @@
+{
+  "player_id": 246797,
+  "name": "Héctor Ayodele",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "09/07/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 36,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/hector-ayodele/profil/spieler/246797",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 745
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 993290,
+  "name": "Pablo Puyod",
+  "position": "Portero",
+  "date_of_birth": "22/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": "Borja",
+  "profile_url": "https://www.transfermarkt.es/pablo-puyod/profil/spieler/993290",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

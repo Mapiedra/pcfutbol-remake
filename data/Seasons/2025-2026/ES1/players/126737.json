@@ -1,0 +1,29 @@
+{
+  "player_id": 126737,
+  "name": "Juanmi",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "20/05/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 32,
+  "birthplace": "Coín",
+  "profile_url": "https://www.transfermarkt.es/juanmi/profil/spieler/126737",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/126737-1653043231.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Fútbol LLave",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 171
+  }
+}

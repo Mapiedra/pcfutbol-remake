@@ -1,0 +1,29 @@
+{
+  "player_id": 622526,
+  "name": "Dani Satoca",
+  "position": "Mediocentro",
+  "date_of_birth": "31/01/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 27,
+  "birthplace": "Elche",
+  "profile_url": "https://www.transfermarkt.es/dani-satoca/profil/spieler/622526",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/622526-1732217583.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1532
+  }
+}

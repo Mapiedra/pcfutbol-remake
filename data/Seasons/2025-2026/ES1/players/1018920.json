@@ -1,0 +1,29 @@
+{
+  "player_id": 1018920,
+  "name": "Marc Bernal",
+  "position": "Pivote",
+  "date_of_birth": "26/05/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,93 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 18,
+  "birthplace": "Berga",
+  "profile_url": "https://www.transfermarkt.es/marc-bernal/profil/spieler/1018920",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1018920-1724052540.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Roc Nation Sports",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 138
+  }
+}

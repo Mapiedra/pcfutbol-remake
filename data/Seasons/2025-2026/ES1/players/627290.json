@@ -1,0 +1,29 @@
+{
+  "player_id": 627290,
+  "name": "John Donald",
+  "position": "Defensa central",
+  "date_of_birth": "25/09/2000",
+  "nationality": "España",
+  "second_nationality": "Nigeria",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 25,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/john-donald/profil/spieler/627290",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/627290-1680535903.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 295
+  }
+}

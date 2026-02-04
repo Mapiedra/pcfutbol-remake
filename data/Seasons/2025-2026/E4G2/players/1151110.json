@@ -1,0 +1,29 @@
+{
+  "player_id": 1151110,
+  "name": "Javier Elías",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "01/11/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/javier-elias/profil/spieler/1151110",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1151110-1731351790.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "UNIQUE DIMENSION",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 865
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 834488,
+  "name": "Aimar Duñabeitia",
+  "position": "Defensa central",
+  "date_of_birth": "26/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Gernika",
+  "profile_url": "https://www.transfermarkt.es/aimar-dunabeitia/profil/spieler/834488",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/834488-1709676954.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1440
+  }
+}

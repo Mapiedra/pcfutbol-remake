@@ -1,0 +1,29 @@
+{
+  "player_id": 585700,
+  "name": "Juan Cruz",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "25/04/2000",
+  "nationality": "España",
+  "second_nationality": "Argentina",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 25,
+  "birthplace": "Quilmes",
+  "profile_url": "https://www.transfermarkt.es/juan-cruz/profil/spieler/585700",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/585700-1667290065.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1733
+  }
+}

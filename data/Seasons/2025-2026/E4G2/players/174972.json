@@ -1,0 +1,29 @@
+{
+  "player_id": 174972,
+  "name": "Iñaki Sáenz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "29/04/1988",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 37,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/inaki-saenz/profil/spieler/174972",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/174972-1764187575.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 387
+  }
+}

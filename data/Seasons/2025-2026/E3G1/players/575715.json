@@ -1,0 +1,29 @@
+{
+  "player_id": 575715,
+  "name": "João Resende",
+  "position": "Delantero centro",
+  "date_of_birth": "26/03/2003",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 22,
+  "birthplace": "Guimarães",
+  "profile_url": "https://www.transfermarkt.es/joao-resende/profil/spieler/575715",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/575715-1648560873.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "OIS",
+  "stats": {
+    "appearances": 19,
+    "goals": 3,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 936
+  }
+}

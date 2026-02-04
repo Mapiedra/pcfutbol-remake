@@ -1,0 +1,22 @@
+{
+  "player_id": 531555,
+  "name": "Edu Cortina",
+  "position": "Mediocentro",
+  "date_of_birth": "25/09/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 29,
+  "birthplace": "Oviedo",
+  "profile_url": "https://www.transfermarkt.es/edu-cortina/profil/spieler/531555",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531555-1700521882.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

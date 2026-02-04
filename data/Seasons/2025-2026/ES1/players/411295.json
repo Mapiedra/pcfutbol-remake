@@ -1,0 +1,29 @@
+{
+  "player_id": 411295,
+  "name": "Raphinha",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "14/12/1996",
+  "nationality": "Brasil",
+  "second_nationality": "Italia",
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "80,00mill. €Ú",
+  "market_value_numeric": 80000000,
+  "age": 29,
+  "birthplace": "Porto Alegre",
+  "profile_url": "https://www.transfermarkt.es/raphinha/profil/spieler/411295",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/411295-1729754479.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 8,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 829
+  }
+}

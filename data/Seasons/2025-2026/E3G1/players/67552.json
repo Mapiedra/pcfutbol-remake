@@ -1,0 +1,29 @@
+{
+  "player_id": 67552,
+  "name": "Edu Sousa",
+  "position": "Portero",
+  "date_of_birth": "15/07/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": null,
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 34,
+  "birthplace": "Pontevedra",
+  "profile_url": "https://www.transfermarkt.es/edu-sousa/profil/spieler/67552",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/67552-1700508469.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

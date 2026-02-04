@@ -1,0 +1,29 @@
+{
+  "player_id": 633111,
+  "name": "Álex Calatrava",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "22/06/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 25,
+  "birthplace": "Parets del Vallès",
+  "profile_url": "https://www.transfermarkt.es/alex-calatrava/profil/spieler/633111",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/633111-1726738145.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Universal Football",
+  "stats": {
+    "appearances": 24,
+    "goals": 5,
+    "assists": 4,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 2049
+  }
+}

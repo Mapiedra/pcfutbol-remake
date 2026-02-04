@@ -1,0 +1,29 @@
+{
+  "player_id": 700566,
+  "name": "Malam Camará",
+  "position": "Mediocentro",
+  "date_of_birth": "20/01/2000",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 26,
+  "birthplace": "Bissau",
+  "profile_url": "https://www.transfermarkt.es/malam-camara/profil/spieler/700566",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/700566-1732577465.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 7
+  }
+}

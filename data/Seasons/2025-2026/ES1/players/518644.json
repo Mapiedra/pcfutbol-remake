@@ -1,0 +1,29 @@
+{
+  "player_id": 518644,
+  "name": "Largie Ramazani",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "27/02/2001",
+  "nationality": "Bélgica",
+  "second_nationality": "Burundi",
+  "height": "1,68 m",
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 24,
+  "birthplace": "Berchem-Sainte-Agath...",
+  "profile_url": "https://www.transfermarkt.es/largie-ramazani/profil/spieler/518644",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/518644-1692367509.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Ramazani Mwanuke",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 181
+  }
+}

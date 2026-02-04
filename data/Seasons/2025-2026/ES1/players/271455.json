@@ -1,0 +1,29 @@
+{
+  "player_id": 271455,
+  "name": "Mihailo Ristic",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "31/10/1995",
+  "nationality": "Serbia",
+  "second_nationality": "Bosnia y Herzegovina",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 30,
+  "birthplace": "Bijeljina",
+  "profile_url": "https://www.transfermarkt.es/mihailo-ristic/profil/spieler/271455",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/271455-1661241997.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AC Talent",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 255
+  }
+}

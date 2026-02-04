@@ -1,0 +1,29 @@
+{
+  "player_id": 581678,
+  "name": "Jude Bellingham",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "29/06/2003",
+  "nationality": "Inglaterra",
+  "second_nationality": "Irlanda",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "160,00mill. €Ú",
+  "market_value_numeric": 160000000,
+  "age": 22,
+  "birthplace": "Stourbridge",
+  "profile_url": "https://www.transfermarkt.es/jude-bellingham/profil/spieler/581678",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/581678-1748102891.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 4,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1282
+  }
+}

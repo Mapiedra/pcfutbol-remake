@@ -1,0 +1,29 @@
+{
+  "player_id": 1178393,
+  "name": "Antoñito Cordero",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "14/11/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 19,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/antonito-cordero/profil/spieler/1178393",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1178393-1725885968.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gol International",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 162
+  }
+}

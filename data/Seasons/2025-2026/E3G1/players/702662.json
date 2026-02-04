@@ -1,0 +1,29 @@
+{
+  "player_id": 702662,
+  "name": "Adrián Verde",
+  "position": "Mediocentro",
+  "date_of_birth": "03/08/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Casariche",
+  "profile_url": "https://www.transfermarkt.es/adrian-verde/profil/spieler/702662",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/702662-1700777069.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1409
+  }
+}

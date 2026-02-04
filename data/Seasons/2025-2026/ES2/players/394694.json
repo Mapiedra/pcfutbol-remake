@@ -1,0 +1,29 @@
+{
+  "player_id": 394694,
+  "name": "Sergio Ruiz",
+  "position": "Mediocentro",
+  "date_of_birth": "16/12/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 31,
+  "birthplace": "Astillero",
+  "profile_url": "https://www.transfermarkt.es/sergio-ruiz/profil/spieler/394694",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/394694-1646522962.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1513
+  }
+}

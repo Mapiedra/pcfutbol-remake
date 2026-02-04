@@ -1,0 +1,29 @@
+{
+  "player_id": 469737,
+  "name": "Lucho García",
+  "position": "Portero",
+  "date_of_birth": "20/03/1998",
+  "nationality": "Colombia",
+  "second_nationality": "España",
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 27,
+  "birthplace": "Barranquilla",
+  "profile_url": "https://www.transfermarkt.es/lucho-garcia/profil/spieler/469737",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/469737-1686860290.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 12,
+    "red_cards": 0,
+    "minutes_played": 4
+  }
+}

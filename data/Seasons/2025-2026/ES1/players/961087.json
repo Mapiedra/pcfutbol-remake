@@ -1,0 +1,29 @@
+{
+  "player_id": 961087,
+  "name": "Pablo García",
+  "position": "Extremo derecho",
+  "date_of_birth": "13/06/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "52",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 19,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/pablo-garcia/profil/spieler/961087",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/961087-1750059859.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 340
+  }
+}

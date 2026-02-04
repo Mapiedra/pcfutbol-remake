@@ -1,0 +1,29 @@
+{
+  "player_id": 348795,
+  "name": "Giovani Lo Celso",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "09/04/1996",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 29,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/giovani-lo-celso/profil/spieler/348795",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/348795-1726734706.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "DCGLOBALSL",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1099
+  }
+}

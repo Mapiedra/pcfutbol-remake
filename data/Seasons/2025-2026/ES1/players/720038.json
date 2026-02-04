@@ -1,0 +1,29 @@
+{
+  "player_id": 720038,
+  "name": "Pablo Torre",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "03/04/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 22,
+  "birthplace": "Soto de la Marina",
+  "profile_url": "https://www.transfermarkt.es/pablo-torre/profil/spieler/720038",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/720038-1724406086.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "AC Talent",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 692
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 625647,
+  "name": "Yago Cantero",
+  "position": "Defensa central",
+  "date_of_birth": "26/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 26,
+  "birthplace": "Bera",
+  "profile_url": "https://www.transfermarkt.es/yago-cantero/profil/spieler/625647",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 437
+  }
+}

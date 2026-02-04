@@ -1,0 +1,29 @@
+{
+  "player_id": 623823,
+  "name": "Joan Pulpón",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "07/10/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": "Onda",
+  "profile_url": "https://www.transfermarkt.es/joan-pulpon/profil/spieler/623823",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/623823-1745338954.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Special Talent",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1297
+  }
+}

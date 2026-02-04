@@ -1,0 +1,29 @@
+{
+  "player_id": 250845,
+  "name": "José María Giménez",
+  "position": "Defensa central",
+  "date_of_birth": "20/01/1995",
+  "nationality": "Uruguay",
+  "second_nationality": "España",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "14,00mill. €Ú",
+  "market_value_numeric": 14000000,
+  "age": 31,
+  "birthplace": "Toledo",
+  "profile_url": "https://www.transfermarkt.es/jose-maria-gimenez/profil/spieler/250845",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/250845-1664970029.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "VIDA 11",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 633
+  }
+}

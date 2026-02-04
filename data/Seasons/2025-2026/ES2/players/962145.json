@@ -1,0 +1,29 @@
+{
+  "player_id": 962145,
+  "name": "Arkaitz Mariezkurrena",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "05/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 20,
+  "birthplace": "Astigarraga",
+  "profile_url": "https://www.transfermarkt.es/arkaitz-mariezkurrena/profil/spieler/962145",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/962145-1732795549.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 22,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 965
+  }
+}

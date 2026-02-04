@@ -1,0 +1,22 @@
+{
+  "player_id": 1509668,
+  "name": "Alonso Nyada",
+  "position": "Mediocentro",
+  "date_of_birth": "14/04/2004",
+  "nationality": "España",
+  "second_nationality": "Camerún",
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/alonso-nyada/profil/spieler/1509668",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Agency Fworld",
+  "stats": null
+}

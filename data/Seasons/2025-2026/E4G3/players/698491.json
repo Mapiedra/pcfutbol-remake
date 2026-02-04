@@ -1,0 +1,29 @@
+{
+  "player_id": 698491,
+  "name": "Rubén de Tomás",
+  "position": "Delantero centro",
+  "date_of_birth": "18/07/2000",
+  "nationality": "España",
+  "second_nationality": "República Dominicana",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/ruben-de-tomas/profil/spieler/698491",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/698491-1695239424.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 166
+  }
+}

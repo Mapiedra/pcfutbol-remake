@@ -1,0 +1,29 @@
+{
+  "player_id": 832695,
+  "name": "Christian Díaz",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "07/06/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Moralzarzal",
+  "profile_url": "https://www.transfermarkt.es/christian-diaz/profil/spieler/832695",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/832695-1732129876.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 487
+  }
+}

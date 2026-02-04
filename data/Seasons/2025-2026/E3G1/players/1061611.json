@@ -1,0 +1,29 @@
+{
+  "player_id": 1061611,
+  "name": "Luisao Macías",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "28/12/2004",
+  "nationality": "Ecuador",
+  "second_nationality": "España",
+  "height": "1,75 m",
+  "foot": "Ambidiestro",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Esplugues de ...",
+  "profile_url": "https://www.transfermarkt.es/luisao-macias/profil/spieler/1061611",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1061611-1700153251.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 779
+  }
+}

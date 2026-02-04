@@ -1,0 +1,29 @@
+{
+  "player_id": 548903,
+  "name": "Leonel Ferroni",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "29/01/1996",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,70 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 30,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/leonel-ferroni/profil/spieler/548903",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/548903-1688821979.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Aclama",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1499
+  }
+}

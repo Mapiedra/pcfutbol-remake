@@ -1,0 +1,29 @@
+{
+  "player_id": 355501,
+  "name": "Amadou Diawara",
+  "position": "Pivote",
+  "date_of_birth": "17/07/1997",
+  "nationality": "Guinea",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 28,
+  "birthplace": "Conakry",
+  "profile_url": "https://www.transfermarkt.es/amadou-diawara/profil/spieler/355501",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/355501-1666809838.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Goal Management",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1907
+  }
+}

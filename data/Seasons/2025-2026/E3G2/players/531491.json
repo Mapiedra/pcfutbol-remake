@@ -1,0 +1,29 @@
+{
+  "player_id": 531491,
+  "name": "Ramón Juan",
+  "position": "Portero",
+  "date_of_birth": "10/12/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 26,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/ramon-juan/profil/spieler/531491",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531491-1712568046.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Daniel Rodriguez Gonzalez",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 20,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

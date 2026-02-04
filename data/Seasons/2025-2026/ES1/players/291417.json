@@ -1,0 +1,29 @@
+{
+  "player_id": 291417,
+  "name": "Ferland Mendy",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/06/1995",
+  "nationality": "Francia",
+  "second_nationality": "Senegal",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 30,
+  "birthplace": "Meulan-en-Yvelines",
+  "profile_url": "https://www.transfermarkt.es/ferland-mendy/profil/spieler/291417",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/291417-1701294025.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "FAIR SPORT MNG",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

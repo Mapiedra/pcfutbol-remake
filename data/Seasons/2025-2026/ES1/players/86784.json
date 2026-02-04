@@ -1,0 +1,29 @@
+{
+  "player_id": 86784,
+  "name": "Ricardo Rodríguez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "25/08/1992",
+  "nationality": "Suiza",
+  "second_nationality": "Chile",
+  "height": "1,82 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 33,
+  "birthplace": "Zürich",
+  "profile_url": "https://www.transfermarkt.es/ricardo-rodriguez/profil/spieler/86784",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/86784-1718216908.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AC Talent",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 775
+  }
+}

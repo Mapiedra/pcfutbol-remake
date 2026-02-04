@@ -1,0 +1,29 @@
+{
+  "player_id": 351478,
+  "name": "Mikel Oyarzabal",
+  "position": "Delantero centro",
+  "date_of_birth": "21/04/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "25,00mill. €Ú",
+  "market_value_numeric": 25000000,
+  "age": 28,
+  "birthplace": "Eibar",
+  "profile_url": "https://www.transfermarkt.es/mikel-oyarzabal/profil/spieler/351478",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/351478-1749415304.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 8,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1586
+  }
+}

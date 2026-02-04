@@ -1,0 +1,29 @@
+{
+  "player_id": 1427912,
+  "name": "Izei Hernández",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "02/02/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "26",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/izei-hernandez/profil/spieler/1427912",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Acción Sport",
+  "stats": {
+    "appearances": 17,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 839
+  }
+}

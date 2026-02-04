@@ -1,0 +1,29 @@
+{
+  "player_id": 845563,
+  "name": "Bojan Kovacevic",
+  "position": "Defensa central",
+  "date_of_birth": "22/05/2004",
+  "nationality": "Serbia",
+  "second_nationality": "Serbia y Montenegro",
+  "height": "1,94 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 21,
+  "birthplace": "Užice",
+  "profile_url": "https://www.transfermarkt.es/bojan-kovacevic/profil/spieler/845563",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/845563-1674056748.JPG?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "INTERNATIONAL SPORTS OFFICE",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1131
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 396115,
+  "name": "Eliseo Falcón",
+  "position": "Defensa central",
+  "date_of_birth": "11/02/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 28,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/eliseo-falcon/profil/spieler/396115",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/396115-1732141833.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ELITE INTERNACIONAL SPORT AGENCY S.L.",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1093
+  }
+}

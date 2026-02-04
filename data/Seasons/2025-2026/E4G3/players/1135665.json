@@ -1,0 +1,22 @@
+{
+  "player_id": 1135665,
+  "name": "Aleksandar Andreev",
+  "position": "Portero",
+  "date_of_birth": "25/03/2006",
+  "nationality": "Bulgaria",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 19,
+  "birthplace": "Sofia",
+  "profile_url": "https://www.transfermarkt.es/aleksandar-andreev/profil/spieler/1135665",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1135665-1736109291.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "LGT Football",
+  "stats": null
+}

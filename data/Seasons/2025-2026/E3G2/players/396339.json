@@ -1,0 +1,29 @@
+{
+  "player_id": 396339,
+  "name": "Andy Escudero",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "10/07/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 26,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/andy-escudero/profil/spieler/396339",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Ipi Sports and Management 14",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 143
+  }
+}

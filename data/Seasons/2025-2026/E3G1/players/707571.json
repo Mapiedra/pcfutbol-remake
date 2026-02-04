@@ -1,0 +1,29 @@
+{
+  "player_id": 707571,
+  "name": "Alpha",
+  "position": "Lateral derecho",
+  "date_of_birth": "18/03/2002",
+  "nationality": "España",
+  "second_nationality": "Guinea",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/alpha/profil/spieler/707571",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "EF11 SL",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 546
+  }
+}

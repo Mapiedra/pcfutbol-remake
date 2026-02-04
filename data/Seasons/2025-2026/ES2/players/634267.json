@@ -1,0 +1,29 @@
+{
+  "player_id": 634267,
+  "name": "David González",
+  "position": "Mediocentro",
+  "date_of_birth": "22/06/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 23,
+  "birthplace": "Burgos",
+  "profile_url": "https://www.transfermarkt.es/david-gonzalez/profil/spieler/634267",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/634267-1725880347.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 23,
+    "goals": 6,
+    "assists": 4,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1713
+  }
+}

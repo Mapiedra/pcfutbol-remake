@@ -1,0 +1,29 @@
+{
+  "player_id": 1173695,
+  "name": "Hugo de Bustos",
+  "position": "Extremo derecho",
+  "date_of_birth": "04/09/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Salamanca",
+  "profile_url": "https://www.transfermarkt.es/hugo-de-bustos/profil/spieler/1173695",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "NTA Sport Management",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 591
+  }
+}

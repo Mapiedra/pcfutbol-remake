@@ -1,0 +1,29 @@
+{
+  "player_id": 708388,
+  "name": "Adrián Corral",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "05/01/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Santander",
+  "profile_url": "https://www.transfermarkt.es/adrian-corral/profil/spieler/708388",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio Tomas",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 264
+  }
+}

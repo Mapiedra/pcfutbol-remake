@@ -1,0 +1,29 @@
+{
+  "player_id": 792331,
+  "name": "Roony Bardghji",
+  "position": "Extremo derecho",
+  "date_of_birth": "15/11/2005",
+  "nationality": "Suecia",
+  "second_nationality": "Kuwait",
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 20,
+  "birthplace": "Kuwait City",
+  "profile_url": "https://www.transfermarkt.es/roony-bardghji/profil/spieler/792331",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/792331-1667420074.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": {
+    "appearances": 11,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 259
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1232082,
+  "name": "Alex Walton",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "12/04/2006",
+  "nationality": "España",
+  "second_nationality": "Inglaterra",
+  "height": "1,79 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/alex-walton/profil/spieler/1232082",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "#LEADERS",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 198
+  }
+}

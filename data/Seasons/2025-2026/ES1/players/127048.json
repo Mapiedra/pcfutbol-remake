@@ -1,0 +1,29 @@
+{
+  "player_id": 127048,
+  "name": "Cédric Bakambu",
+  "position": "Delantero centro",
+  "date_of_birth": "11/04/1991",
+  "nationality": "RD del Congo",
+  "second_nationality": "Francia",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 34,
+  "birthplace": "Ivry-sur-Seine",
+  "profile_url": "https://www.transfermarkt.es/cedric-bakambu/profil/spieler/127048",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/127048-1766415258.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 141
+  }
+}

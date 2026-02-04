@@ -1,0 +1,29 @@
+{
+  "player_id": 401644,
+  "name": "Aitor Pascual",
+  "position": "Lateral derecho",
+  "date_of_birth": "10/10/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Ambidiestro",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Ferrol",
+  "profile_url": "https://www.transfermarkt.es/aitor-pascual/profil/spieler/401644",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/401644-1764188685.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 679
+  }
+}

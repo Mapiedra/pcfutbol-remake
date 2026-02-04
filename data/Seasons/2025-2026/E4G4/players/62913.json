@@ -1,0 +1,29 @@
+{
+  "player_id": 62913,
+  "name": "Lillo Castellano",
+  "position": "Lateral derecho",
+  "date_of_birth": "27/03/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 36,
+  "birthplace": "Aspe",
+  "profile_url": "https://www.transfermarkt.es/lillo-castellano/profil/spieler/62913",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/62913-1583310636.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Only Football",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 107
+  }
+}

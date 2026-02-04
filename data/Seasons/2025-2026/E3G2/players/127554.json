@@ -1,0 +1,29 @@
+{
+  "player_id": 127554,
+  "name": "Nacho Martínez",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "07/03/1989",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 36,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/nacho-martinez/profil/spieler/127554",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/127554-1541148245.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Niagara Sports Company",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1476
+  }
+}

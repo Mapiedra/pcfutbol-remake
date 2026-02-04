@@ -1,0 +1,29 @@
+{
+  "player_id": 1050118,
+  "name": "Sama Nomoko",
+  "position": "Extremo derecho",
+  "date_of_birth": "20/03/2008",
+  "nationality": "España",
+  "second_nationality": "Malí",
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "37",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 17,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/sama-nomoko/profil/spieler/1050118",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "minutes_played": 942
+  }
+}

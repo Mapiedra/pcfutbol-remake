@@ -1,0 +1,29 @@
+{
+  "player_id": 711377,
+  "name": "Alberto Dadie",
+  "position": "Extremo derecho",
+  "date_of_birth": "20/07/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 23,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/alberto-dadie/profil/spieler/711377",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/711377-1727113333.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1408
+  }
+}

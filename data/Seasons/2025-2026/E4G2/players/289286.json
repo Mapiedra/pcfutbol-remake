@@ -1,0 +1,29 @@
+{
+  "player_id": 289286,
+  "name": "Luca Sangalli",
+  "position": "Mediocentro",
+  "date_of_birth": "10/02/1995",
+  "nationality": "España",
+  "second_nationality": "Italia",
+  "height": "1,67 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 30,
+  "birthplace": "San Sebastián",
+  "profile_url": "https://www.transfermarkt.es/luca-sangalli/profil/spieler/289286",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/289286-1725885785.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 687
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 403465,
+  "name": "Iñaki Olaortua",
+  "position": "Defensa central",
+  "date_of_birth": "03/08/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 32,
+  "birthplace": "Arrasate",
+  "profile_url": "https://www.transfermarkt.es/inaki-olaortua/profil/spieler/403465",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/403465-1700766713.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "EGGO Asesores Deportivos",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 2,
+    "minutes_played": 1479
+  }
+}

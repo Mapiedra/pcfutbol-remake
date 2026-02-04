@@ -1,0 +1,29 @@
+{
+  "player_id": 415240,
+  "name": "Iván Robles",
+  "position": "Lateral derecho",
+  "date_of_birth": "11/02/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,68 m",
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Huelva",
+  "profile_url": "https://www.transfermarkt.es/ivan-robles/profil/spieler/415240",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/415240-1732130262.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Premier Fútbol",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1097
+  }
+}

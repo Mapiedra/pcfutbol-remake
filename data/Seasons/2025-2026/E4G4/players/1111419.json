@@ -1,0 +1,22 @@
+{
+  "player_id": 1111419,
+  "name": "Ivan Parra",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "28/07/2007",
+  "nationality": "Suiza",
+  "second_nationality": "España",
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/ivan-parra/profil/spieler/1111419",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1111419-1731313132.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": null
+}

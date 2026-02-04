@@ -1,0 +1,29 @@
+{
+  "player_id": 590691,
+  "name": "Eduardo Cabetas",
+  "position": "Defensa central",
+  "date_of_birth": "19/08/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/eduardo-cabetas/profil/spieler/590691",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/590691-1764188028.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1541
+  }
+}

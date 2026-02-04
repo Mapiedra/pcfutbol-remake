@@ -1,0 +1,29 @@
+{
+  "player_id": 505673,
+  "name": "Víctor Mollejo",
+  "position": "Extremo derecho",
+  "date_of_birth": "21/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 25,
+  "birthplace": "Alcázar de San Juan",
+  "profile_url": "https://www.transfermarkt.es/victor-mollejo/profil/spieler/505673",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/505673-1536861242.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Media Base Sports",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 311
+  }
+}

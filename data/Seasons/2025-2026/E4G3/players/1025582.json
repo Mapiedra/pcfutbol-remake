@@ -1,0 +1,29 @@
+{
+  "player_id": 1025582,
+  "name": "Juan Arango",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "27/06/2006",
+  "nationality": "Venezuela",
+  "second_nationality": "España",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": "Calviá",
+  "profile_url": "https://www.transfermarkt.es/juan-arango/profil/spieler/1025582",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "SM & Partner",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 797
+  }
+}

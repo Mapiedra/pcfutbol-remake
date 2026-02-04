@@ -1,0 +1,29 @@
+{
+  "player_id": 281588,
+  "name": "Víctor García",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "31/05/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 31,
+  "birthplace": "Requena",
+  "profile_url": "https://www.transfermarkt.es/victor-garcia/profil/spieler/281588",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/281588-1668768846.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PHSPORT",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1215
+  }
+}

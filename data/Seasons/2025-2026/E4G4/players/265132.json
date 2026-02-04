@@ -1,0 +1,29 @@
+{
+  "player_id": 265132,
+  "name": "Kevin Toner",
+  "position": "Defensa central",
+  "date_of_birth": "18/07/1996",
+  "nationality": "Irlanda",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 29,
+  "birthplace": "Ashbourne",
+  "profile_url": "https://www.transfermarkt.es/kevin-toner/profil/spieler/265132",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/265132-1764186794.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 792
+  }
+}

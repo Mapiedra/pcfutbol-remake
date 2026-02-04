@@ -1,0 +1,29 @@
+{
+  "player_id": 861981,
+  "name": "Alan Matturro",
+  "position": "Defensa central",
+  "date_of_birth": "11/10/2004",
+  "nationality": "Uruguay",
+  "second_nationality": "Italia",
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 21,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/alan-matturro/profil/spieler/861981",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/861981-1692967519.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AIS Football",
+  "stats": {
+    "appearances": 8,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 375
+  }
+}

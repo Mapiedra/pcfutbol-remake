@@ -1,0 +1,29 @@
+{
+  "player_id": 1009285,
+  "name": "Javi Feria",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "03/08/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Montilla",
+  "profile_url": "https://www.transfermarkt.es/javi-feria/profil/spieler/1009285",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1009285-1700694989.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 21
+  }
+}

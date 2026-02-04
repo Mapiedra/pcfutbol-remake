@@ -1,0 +1,29 @@
+{
+  "player_id": 128479,
+  "name": "Jair Amador",
+  "position": "Defensa central",
+  "date_of_birth": "21/08/1989",
+  "nationality": "Portugal",
+  "second_nationality": "España",
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 36,
+  "birthplace": "Sao Jorge de Arroios",
+  "profile_url": "https://www.transfermarkt.es/jair-amador/profil/spieler/128479",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/128479-1732366985.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 214
+  }
+}

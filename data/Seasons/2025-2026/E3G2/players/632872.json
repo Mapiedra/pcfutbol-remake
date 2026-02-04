@@ -1,0 +1,22 @@
+{
+  "player_id": 632872,
+  "name": "Francisco Mwepu",
+  "position": "Delantero centro",
+  "date_of_birth": "29/02/2000",
+  "nationality": "Zambia",
+  "second_nationality": "España",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 25,
+  "birthplace": "Chambishi",
+  "profile_url": "https://www.transfermarkt.es/francisco-mwepu/profil/spieler/632872",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/632872-1725991059.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "12 MANagement",
+  "stats": null
+}

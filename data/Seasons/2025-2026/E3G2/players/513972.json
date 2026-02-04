@@ -1,0 +1,29 @@
+{
+  "player_id": 513972,
+  "name": "Juan Flere",
+  "position": "Portero",
+  "date_of_birth": "12/05/1998",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Bariloche",
+  "profile_url": "https://www.transfermarkt.es/juan-flere/profil/spieler/513972",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/513972-1760544764.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 23,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

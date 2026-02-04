@@ -1,0 +1,29 @@
+{
+  "player_id": 1456236,
+  "name": "David Delgado",
+  "position": "Defensa central",
+  "date_of_birth": "03/02/2008",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "26",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/david-delgado/profil/spieler/1456236",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1355
+  }
+}

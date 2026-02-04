@@ -1,0 +1,22 @@
+{
+  "player_id": 1259085,
+  "name": "Hamza Abdelkarim",
+  "position": "Delantero centro",
+  "date_of_birth": "01/01/2008",
+  "nationality": "Egipto",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Ambidiestro",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/hamza-abdelkarim/profil/spieler/1259085",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1259085-1743695662.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1056967,
+  "name": "Gaizka Alboniga-Menor",
+  "position": "Mediocentro",
+  "date_of_birth": "14/03/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,95 m",
+  "foot": "Izquierdo",
+  "squad_number": "30",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Artea",
+  "profile_url": "https://www.transfermarkt.es/gaizka-alboniga-menor/profil/spieler/1056967",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1056967-1709679428.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "SEG",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 863
+  }
+}

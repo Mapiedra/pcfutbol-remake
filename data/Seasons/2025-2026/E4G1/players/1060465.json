@@ -1,0 +1,22 @@
+{
+  "player_id": 1060465,
+  "name": "Ivan Vasiljevic",
+  "position": "Defensa central",
+  "date_of_birth": "17/01/2005",
+  "nationality": "Serbia",
+  "second_nationality": "España",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/ivan-vasiljevic/profil/spieler/1060465",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NEXO Football Agency",
+  "stats": null
+}

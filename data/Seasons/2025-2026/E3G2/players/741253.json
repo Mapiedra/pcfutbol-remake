@@ -1,0 +1,29 @@
+{
+  "player_id": 741253,
+  "name": "Javier Boñar",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 20,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/javier-bonar/profil/spieler/741253",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/741253-1731932674.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "BY AND FOR",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1816
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 485963,
+  "name": "Pape Gueye",
+  "position": "Pivote",
+  "date_of_birth": "24/01/1999",
+  "nationality": "Senegal",
+  "second_nationality": "Francia",
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "20,00mill. €Ú",
+  "market_value_numeric": 20000000,
+  "age": 27,
+  "birthplace": "Montreuil",
+  "profile_url": "https://www.transfermarkt.es/pape-gueye/profil/spieler/485963",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/485963-1768814767.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "ROOF",
+  "stats": {
+    "appearances": 14,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 868
+  }
+}

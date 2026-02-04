@@ -1,0 +1,29 @@
+{
+  "player_id": 646744,
+  "name": "Carlos Alemán",
+  "position": "Lateral derecho",
+  "date_of_birth": "30/09/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/carlos-aleman/profil/spieler/646744",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/646744-1732732528.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 27
+  }
+}

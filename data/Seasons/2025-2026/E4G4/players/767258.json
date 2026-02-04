@@ -1,0 +1,29 @@
+{
+  "player_id": 767258,
+  "name": "Juanan Aguilera",
+  "position": "Mediocentro",
+  "date_of_birth": "14/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 22,
+  "birthplace": "Mairena del Alcor",
+  "profile_url": "https://www.transfermarkt.es/juanan-aguilera/profil/spieler/767258",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ELITE INTERNACIONAL SPORT AGENCY S.L.",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1208
+  }
+}

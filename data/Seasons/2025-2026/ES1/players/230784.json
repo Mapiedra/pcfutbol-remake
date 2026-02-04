@@ -1,0 +1,29 @@
+{
+  "player_id": 230784,
+  "name": "Thomas Partey",
+  "position": "Pivote",
+  "date_of_birth": "13/06/1993",
+  "nationality": "Ghana",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 32,
+  "birthplace": "Odumase Krobo",
+  "profile_url": "https://www.transfermarkt.es/thomas-partey/profil/spieler/230784",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/230784-1668430877.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JJ SPORT",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 666
+  }
+}

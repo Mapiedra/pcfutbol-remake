@@ -1,0 +1,29 @@
+{
+  "player_id": 961936,
+  "name": "Pau Casadesús",
+  "position": "Lateral derecho",
+  "date_of_birth": "30/10/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 22,
+  "birthplace": "Vallirana",
+  "profile_url": "https://www.transfermarkt.es/pau-casadesus/profil/spieler/961936",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1021
+  }
+}

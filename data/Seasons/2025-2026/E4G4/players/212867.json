@@ -1,0 +1,29 @@
+{
+  "player_id": 212867,
+  "name": "Fran Varela",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "26/10/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 31,
+  "birthplace": "Atarfe",
+  "profile_url": "https://www.transfermarkt.es/fran-varela/profil/spieler/212867",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/212867-1447256500.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 360
+  }
+}

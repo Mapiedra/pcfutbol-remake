@@ -1,0 +1,29 @@
+{
+  "player_id": 1064668,
+  "name": "Juan Ybarra",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "19/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/juan-ybarra/profil/spieler/1064668",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Soccersport",
+  "stats": {
+    "appearances": 20,
+    "goals": 7,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 1379
+  }
+}

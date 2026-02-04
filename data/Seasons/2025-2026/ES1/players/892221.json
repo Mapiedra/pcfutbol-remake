@@ -1,0 +1,29 @@
+{
+  "player_id": 892221,
+  "name": "Hugo Sotelo",
+  "position": "Mediocentro",
+  "date_of_birth": "19/12/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "9,00mill. €Ú",
+  "market_value_numeric": 9000000,
+  "age": 22,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/hugo-sotelo/profil/spieler/892221",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/892221-1758827715.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 911
+  }
+}

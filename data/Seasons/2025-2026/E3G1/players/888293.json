@@ -1,0 +1,29 @@
+{
+  "player_id": 888293,
+  "name": "Carlos Mattheus",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "25/10/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 24,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/carlos-mattheus/profil/spieler/888293",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/888293-1709678101.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 21,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 795
+  }
+}

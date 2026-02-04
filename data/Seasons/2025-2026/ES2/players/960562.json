@@ -1,0 +1,29 @@
+{
+  "player_id": 960562,
+  "name": "Dani Lorenzo",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "05/04/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 22,
+  "birthplace": "Marbella",
+  "profile_url": "https://www.transfermarkt.es/dani-lorenzo/profil/spieler/960562",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/960562-1725885634.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1654
+  }
+}

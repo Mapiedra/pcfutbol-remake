@@ -1,0 +1,29 @@
+{
+  "player_id": 339501,
+  "name": "Aleksandar Radovanovic",
+  "position": "Defensa central",
+  "date_of_birth": "11/11/1993",
+  "nationality": "Serbia",
+  "second_nationality": "Yugoslavia (República Federal)",
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "450mil €Ú",
+  "market_value_numeric": 450000,
+  "age": 32,
+  "birthplace": "Šabac",
+  "profile_url": "https://www.transfermarkt.es/aleksandar-radovanovic/profil/spieler/339501",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/339501-1732734916.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 874
+  }
+}

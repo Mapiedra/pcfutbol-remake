@@ -1,0 +1,29 @@
+{
+  "player_id": 323462,
+  "name": "Álvaro Pérez",
+  "position": "Defensa central",
+  "date_of_birth": "07/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "125mil €Ú",
+  "market_value_numeric": 125000,
+  "age": 29,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/alvaro-perez/profil/spieler/323462",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/323462-1699805478.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "4 Legends Sport",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 64
+  }
+}

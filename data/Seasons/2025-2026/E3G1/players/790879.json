@@ -1,0 +1,29 @@
+{
+  "player_id": 790879,
+  "name": "David Rabadán",
+  "position": "Mediocentro",
+  "date_of_birth": "22/05/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/david-rabadan/profil/spieler/790879",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/790879-1732128008.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 4,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 98
+  }
+}

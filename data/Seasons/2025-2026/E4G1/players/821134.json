@@ -1,0 +1,29 @@
+{
+  "player_id": 821134,
+  "name": "Carlos Cid",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "12/12/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 26,
+  "birthplace": "Gijón",
+  "profile_url": "https://www.transfermarkt.es/carlos-cid/profil/spieler/821134",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/821134-1706391686.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 16
+  }
+}

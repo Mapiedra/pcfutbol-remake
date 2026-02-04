@@ -1,0 +1,22 @@
+{
+  "player_id": 1183180,
+  "name": "Nico Sánchez",
+  "position": "Extremo derecho",
+  "date_of_birth": "16/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Alpedrete",
+  "profile_url": "https://www.transfermarkt.es/nico-sanchez/profil/spieler/1183180",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": null
+}

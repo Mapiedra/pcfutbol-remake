@@ -1,0 +1,22 @@
+{
+  "player_id": 1153675,
+  "name": "Pedro Ramos",
+  "position": "Delantero centro",
+  "date_of_birth": "05/03/2005",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 20,
+  "birthplace": "Porto",
+  "profile_url": "https://www.transfermarkt.es/pedro-ramos/profil/spieler/1153675",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": null
+}

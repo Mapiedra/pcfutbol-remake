@@ -1,0 +1,29 @@
+{
+  "player_id": 396158,
+  "name": "Carlos Cobo",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/03/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 27,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/carlos-cobo/profil/spieler/396158",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/396158-1618585993.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 301
+  }
+}

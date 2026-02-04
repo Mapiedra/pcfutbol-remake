@@ -1,0 +1,29 @@
+{
+  "player_id": 242281,
+  "name": "Juanma García",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "18/01/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 29,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/juanma-garcia/profil/spieler/242281",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/242281-1611664011.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 946
+  }
+}

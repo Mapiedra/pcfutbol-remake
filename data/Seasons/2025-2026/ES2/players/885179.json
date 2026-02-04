@@ -1,0 +1,29 @@
+{
+  "player_id": 885179,
+  "name": "Alfred Caicedo",
+  "position": "Lateral derecho",
+  "date_of_birth": "10/09/2004",
+  "nationality": "Ecuador",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 21,
+  "birthplace": "Esmeraldas",
+  "profile_url": "https://www.transfermarkt.es/alfred-caicedo/profil/spieler/885179",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/885179-1714045782.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 389
+  }
+}

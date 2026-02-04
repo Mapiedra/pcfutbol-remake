@@ -1,0 +1,29 @@
+{
+  "player_id": 945500,
+  "name": "Rayane Belaid",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "11/02/2005",
+  "nationality": "España",
+  "second_nationality": "Argelia",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 20,
+  "birthplace": "Orihuela",
+  "profile_url": "https://www.transfermarkt.es/rayane-belaid/profil/spieler/945500",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/945500-1730938196.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Niagara Sports Company",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1169
+  }
+}

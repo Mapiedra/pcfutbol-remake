@@ -1,0 +1,29 @@
+{
+  "player_id": 175446,
+  "name": "Jonny Otto",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/03/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Ambidiestro",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 31,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/jonny-otto/profil/spieler/175446",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/175446-1727967204.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Intermedia Sport Player",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1841
+  }
+}

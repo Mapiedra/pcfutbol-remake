@@ -1,0 +1,22 @@
+{
+  "player_id": 341110,
+  "name": "Franco Cervi",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "26/05/1994",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,66 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 31,
+  "birthplace": "San Lorenzo",
+  "profile_url": "https://www.transfermarkt.es/franco-cervi/profil/spieler/341110",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/341110-1603798993.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": null
+}

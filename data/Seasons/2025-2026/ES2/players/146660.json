@@ -1,0 +1,29 @@
+{
+  "player_id": 146660,
+  "name": "Ronaldo",
+  "position": "Pivote",
+  "date_of_birth": "08/04/1990",
+  "nationality": "Brasil",
+  "second_nationality": "Italia",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 35,
+  "birthplace": "Caxambu do Sul",
+  "profile_url": "https://www.transfermarkt.es/ronaldo/profil/spieler/146660",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/146660-1449071442.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Kael Grimaldi",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 464
+  }
+}

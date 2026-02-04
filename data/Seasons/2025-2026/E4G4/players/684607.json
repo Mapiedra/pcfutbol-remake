@@ -1,0 +1,29 @@
+{
+  "player_id": 684607,
+  "name": "Unai Rementeria",
+  "position": "Mediocentro",
+  "date_of_birth": "10/08/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/unai-rementeria/profil/spieler/684607",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/684607-1732132303.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Emartsoccer",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 90
+  }
+}

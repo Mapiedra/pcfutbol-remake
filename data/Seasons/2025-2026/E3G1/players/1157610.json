@@ -1,0 +1,29 @@
+{
+  "player_id": 1157610,
+  "name": "Guzmán Ortega",
+  "position": "Lateral derecho",
+  "date_of_birth": "12/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Palencia",
+  "profile_url": "https://www.transfermarkt.es/guzman-ortega/profil/spieler/1157610",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1157610-1732224682.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1115
+  }
+}

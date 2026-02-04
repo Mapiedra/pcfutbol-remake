@@ -1,0 +1,29 @@
+{
+  "player_id": 636118,
+  "name": "Martín Solar",
+  "position": "Mediocentro",
+  "date_of_birth": "30/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 26,
+  "birthplace": "Santander",
+  "profile_url": "https://www.transfermarkt.es/martin-solar/profil/spieler/636118",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1845
+  }
+}

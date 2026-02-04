@@ -1,0 +1,29 @@
+{
+  "player_id": 945753,
+  "name": "Julio Díaz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "10/01/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 21,
+  "birthplace": "San Fernando de ...",
+  "profile_url": "https://www.transfermarkt.es/julio-diaz/profil/spieler/945753",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/945753-1731932642.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "DCGLOBALSL",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1607
+  }
+}

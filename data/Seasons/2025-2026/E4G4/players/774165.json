@@ -1,0 +1,29 @@
+{
+  "player_id": 774165,
+  "name": "Iker Villar",
+  "position": "Delantero centro",
+  "date_of_birth": "10/01/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "25",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Fuentes de Andalucía",
+  "profile_url": "https://www.transfermarkt.es/iker-villar/profil/spieler/774165",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "33 Sport",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 36
+  }
+}

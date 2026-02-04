@@ -1,0 +1,22 @@
+{
+  "player_id": 1003581,
+  "name": "Victor Arosa",
+  "position": "Portero",
+  "date_of_birth": "02/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/victor-arosa/profil/spieler/1003581",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Soro Sports",
+  "stats": null
+}

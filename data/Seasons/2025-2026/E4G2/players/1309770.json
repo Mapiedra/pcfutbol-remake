@@ -1,0 +1,29 @@
+{
+  "player_id": 1309770,
+  "name": "Hugo García",
+  "position": "Extremo derecho",
+  "date_of_birth": "08/09/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 20,
+  "birthplace": "Cintruénigo",
+  "profile_url": "https://www.transfermarkt.es/hugo-garcia/profil/spieler/1309770",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1309770-1732143932.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 5,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 359
+  }
+}

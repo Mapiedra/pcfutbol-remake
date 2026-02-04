@@ -1,0 +1,29 @@
+{
+  "player_id": 990988,
+  "name": "Kirian Ramírez",
+  "position": "Extremo derecho",
+  "date_of_birth": "19/08/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/kirian-ramirez/profil/spieler/990988",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "FUTBOL21 AGENCY",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1054
+  }
+}

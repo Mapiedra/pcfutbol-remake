@@ -1,0 +1,29 @@
+{
+  "player_id": 223718,
+  "name": "Pol Ballesté",
+  "position": "Portero",
+  "date_of_birth": "22/08/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/pol-balleste/profil/spieler/223718",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/223718-1732227890.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 19,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

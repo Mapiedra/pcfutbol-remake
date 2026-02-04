@@ -1,0 +1,22 @@
+{
+  "player_id": 1020649,
+  "name": "Pedro Gomes",
+  "position": "Defensa central",
+  "date_of_birth": "04/06/2003",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 22,
+  "birthplace": "Seixal",
+  "profile_url": "https://www.transfermarkt.es/pedro-gomes/profil/spieler/1020649",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1020649-1763992088.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "KSirius Football Management",
+  "stats": null
+}

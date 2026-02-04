@@ -1,0 +1,22 @@
+{
+  "player_id": 1088712,
+  "name": "Simon Eriksson",
+  "position": "Portero",
+  "date_of_birth": "24/04/2006",
+  "nationality": "Suecia",
+  "second_nationality": null,
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 19,
+  "birthplace": "Uppsala",
+  "profile_url": "https://www.transfermarkt.es/simon-eriksson/profil/spieler/1088712",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1088712-1757615371.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Avanti Sports management",
+  "stats": null
+}

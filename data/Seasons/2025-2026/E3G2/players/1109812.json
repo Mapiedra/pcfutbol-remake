@@ -1,0 +1,29 @@
+{
+  "player_id": 1109812,
+  "name": "Boston Billups",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "24/08/2005",
+  "nationality": "Estados Unidos",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Portland, Oregon",
+  "profile_url": "https://www.transfermarkt.es/boston-billups/profil/spieler/1109812",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1109812-1705605386.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 14
+  }
+}

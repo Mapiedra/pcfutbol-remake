@@ -1,0 +1,29 @@
+{
+  "player_id": 598611,
+  "name": "Jesús de Miguel",
+  "position": "Delantero centro",
+  "date_of_birth": "21/09/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 29,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/jesus-de-miguel/profil/spieler/598611",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/598611-1698155371.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 22,
+    "goals": 10,
+    "assists": 5,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1602
+  }
+}

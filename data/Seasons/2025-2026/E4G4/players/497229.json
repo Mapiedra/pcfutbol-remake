@@ -1,0 +1,22 @@
+{
+  "player_id": 497229,
+  "name": "Adrián Pérez",
+  "position": "Mediocentro",
+  "date_of_birth": "03/05/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 27,
+  "birthplace": "Valencia",
+  "profile_url": "https://www.transfermarkt.es/adrian-perez/profil/spieler/497229",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JCRsport",
+  "stats": null
+}

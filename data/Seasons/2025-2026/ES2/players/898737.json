@@ -1,0 +1,29 @@
+{
+  "player_id": 898737,
+  "name": "Ale García",
+  "position": "Extremo derecho",
+  "date_of_birth": "19/03/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 22,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/ale-garcia/profil/spieler/898737",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/898737-1700590154.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Lilium By APS",
+  "stats": {
+    "appearances": 18,
+    "goals": 6,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1336
+  }
+}

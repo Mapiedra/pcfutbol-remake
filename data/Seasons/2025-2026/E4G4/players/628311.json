@@ -1,0 +1,29 @@
+{
+  "player_id": 628311,
+  "name": "José Ángel Ayala",
+  "position": "Mediocentro",
+  "date_of_birth": "03/07/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Puente Tocinos",
+  "profile_url": "https://www.transfermarkt.es/jose-angel-ayala/profil/spieler/628311",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628311-1764186175.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 1,
+    "minutes_played": 636
+  }
+}

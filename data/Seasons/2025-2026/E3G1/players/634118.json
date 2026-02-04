@@ -1,0 +1,29 @@
+{
+  "player_id": 634118,
+  "name": "Ibaider Garriz",
+  "position": "Defensa central",
+  "date_of_birth": "03/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 25,
+  "birthplace": "Pamplona",
+  "profile_url": "https://www.transfermarkt.es/ibaider-garriz/profil/spieler/634118",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/634118-1700856197.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 723
+  }
+}

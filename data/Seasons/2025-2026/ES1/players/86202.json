@@ -1,0 +1,29 @@
+{
+  "player_id": 86202,
+  "name": "Antonio Rüdiger",
+  "position": "Defensa central",
+  "date_of_birth": "03/03/1993",
+  "nationality": "Alemania",
+  "second_nationality": "Sierra Leona",
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 32,
+  "birthplace": "Berlin",
+  "profile_url": "https://www.transfermarkt.es/antonio-rudiger/profil/spieler/86202",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/86202-1684484602.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HCM Sports Management",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 605
+  }
+}

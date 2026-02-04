@@ -1,0 +1,29 @@
+{
+  "player_id": 844516,
+  "name": "Luis Vázquez",
+  "position": "Delantero centro",
+  "date_of_birth": "24/04/2001",
+  "nationality": "Argentina",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 24,
+  "birthplace": "Recreo",
+  "profile_url": "https://www.transfermarkt.es/luis-vazquez/profil/spieler/844516",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/844516-1699907027.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "La Squadra Sports",
+  "stats": {
+    "appearances": 1,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 86
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 993666,
+  "name": "Mouhamed Diallo",
+  "position": "Defensa central",
+  "date_of_birth": "05/09/2005",
+  "nationality": "Francia",
+  "second_nationality": "Guinea",
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Marseille",
+  "profile_url": "https://www.transfermarkt.es/mouhamed-diallo/profil/spieler/993666",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Mars 13 Agency",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 541
+  }
+}

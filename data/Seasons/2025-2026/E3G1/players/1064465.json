@@ -1,0 +1,29 @@
+{
+  "player_id": 1064465,
+  "name": "Ángel Arcos",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "18/04/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 19,
+  "birthplace": "O Rosal",
+  "profile_url": "https://www.transfermarkt.es/angel-arcos/profil/spieler/1064465",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 5,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1344
+  }
+}

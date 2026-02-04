@@ -1,0 +1,29 @@
+{
+  "player_id": 533110,
+  "name": "Álex Pachón",
+  "position": "Delantero centro",
+  "date_of_birth": "17/07/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Vilafranca del ...",
+  "profile_url": "https://www.transfermarkt.es/alex-pachon/profil/spieler/533110",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/533110-1743633077.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HMFootball Sport Management",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 112
+  }
+}

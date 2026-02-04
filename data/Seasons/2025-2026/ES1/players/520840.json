@@ -1,0 +1,29 @@
+{
+  "player_id": 520840,
+  "name": "José Copete",
+  "position": "Defensa central",
+  "date_of_birth": "10/10/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 26,
+  "birthplace": "Écija",
+  "profile_url": "https://www.transfermarkt.es/jose-copete/profil/spieler/520840",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/520840-1674915512.JPG?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1500
+  }
+}

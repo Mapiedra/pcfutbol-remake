@@ -1,0 +1,29 @@
+{
+  "player_id": 1177250,
+  "name": "Moussa Sissokho",
+  "position": "Delantero centro",
+  "date_of_birth": "02/01/2003",
+  "nationality": "Senegal",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/moussa-sissokho/profil/spieler/1177250",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AGENCY TERANGA",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 806
+  }
+}

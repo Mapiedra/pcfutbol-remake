@@ -1,0 +1,22 @@
+{
+  "player_id": 339079,
+  "name": "Jiri Letacek",
+  "position": "Portero",
+  "date_of_birth": "09/01/1999",
+  "nationality": "República Checa",
+  "second_nationality": null,
+  "height": "1,96 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 27,
+  "birthplace": "Pardubice",
+  "profile_url": "https://www.transfermarkt.es/jiri-letacek/profil/spieler/339079",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/339079-1714922207.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "SPORT INVEST",
+  "stats": null
+}

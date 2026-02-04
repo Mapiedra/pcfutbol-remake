@@ -1,0 +1,29 @@
+{
+  "player_id": 622952,
+  "name": "Álvaro Martín",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "15/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/alvaro-martin/profil/spieler/622952",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/622952-1702393699.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 775
+  }
+}

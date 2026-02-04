@@ -1,0 +1,29 @@
+{
+  "player_id": 536846,
+  "name": "Javier Ajenjo",
+  "position": "Mediocentro",
+  "date_of_birth": "12/01/2001",
+  "nationality": "Polonia",
+  "second_nationality": "España",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 25,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/javier-ajenjo/profil/spieler/536846",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/536846-1668769883.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 11,
+    "goals": 2,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 766
+  }
+}

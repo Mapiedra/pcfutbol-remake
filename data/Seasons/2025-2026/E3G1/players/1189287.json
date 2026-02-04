@@ -1,0 +1,29 @@
+{
+  "player_id": 1189287,
+  "name": "Aitor Galarza",
+  "position": "Delantero centro",
+  "date_of_birth": "13/10/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 23,
+  "birthplace": "Tolosa",
+  "profile_url": "https://www.transfermarkt.es/aitor-galarza/profil/spieler/1189287",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1189287-1732143772.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Podium Trade",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 4,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1334
+  }
+}

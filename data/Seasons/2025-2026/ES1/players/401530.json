@@ -1,0 +1,29 @@
+{
+  "player_id": 401530,
+  "name": "Éder Militão",
+  "position": "Defensa central",
+  "date_of_birth": "18/01/1998",
+  "nationality": "Brasil",
+  "second_nationality": "España",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "30,00mill. €Ú",
+  "market_value_numeric": 30000000,
+  "age": 28,
+  "birthplace": "Sertãozinho",
+  "profile_url": "https://www.transfermarkt.es/eder-militao/profil/spieler/401530",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/401530-1719653438.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "UJ Football Talent",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1002
+  }
+}

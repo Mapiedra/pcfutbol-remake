@@ -1,0 +1,29 @@
+{
+  "player_id": 231980,
+  "name": "Zelu",
+  "position": "Extremo derecho",
+  "date_of_birth": "21/01/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Jerez de la ...",
+  "profile_url": "https://www.transfermarkt.es/zelu/profil/spieler/231980",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/231980-1732577741.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Star Group Football",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 970
+  }
+}

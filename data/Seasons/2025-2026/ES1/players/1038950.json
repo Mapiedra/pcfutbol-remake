@@ -1,0 +1,29 @@
+{
+  "player_id": 1038950,
+  "name": "Karl Etta Eyong",
+  "position": "Delantero centro",
+  "date_of_birth": "14/10/2003",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "20,00mill. €Ú",
+  "market_value_numeric": 20000000,
+  "age": 22,
+  "birthplace": "Douala",
+  "profile_url": "https://www.transfermarkt.es/karl-etta-eyong/profil/spieler/1038950",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1038950-1759409401.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "genesia consulting",
+  "stats": {
+    "appearances": 3,
+    "goals": 1,
+    "assists": 2,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 257
+  }
+}

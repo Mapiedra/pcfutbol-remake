@@ -1,0 +1,29 @@
+{
+  "player_id": 559979,
+  "name": "Abdel Abqar",
+  "position": "Defensa central",
+  "date_of_birth": "10/03/1999",
+  "nationality": "Marruecos",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 26,
+  "birthplace": "Settat",
+  "profile_url": "https://www.transfermarkt.es/abdel-abqar/profil/spieler/559979",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/559979-1705337125.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "11MANGMT",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 692
+  }
+}

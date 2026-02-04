@@ -1,0 +1,29 @@
+{
+  "player_id": 257376,
+  "name": "Domingos Duarte",
+  "position": "Defensa central",
+  "date_of_birth": "10/03/1995",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 30,
+  "birthplace": "Cascais",
+  "profile_url": "https://www.transfermarkt.es/domingos-duarte/profil/spieler/257376",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/257376-1583309064.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ROOF",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1536
+  }
+}

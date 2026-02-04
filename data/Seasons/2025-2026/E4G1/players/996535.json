@@ -1,0 +1,29 @@
+{
+  "player_id": 996535,
+  "name": "Babafemo Fofana",
+  "position": "Mediocentro",
+  "date_of_birth": "09/06/1999",
+  "nationality": "Francia",
+  "second_nationality": "Costa de Marfil",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 26,
+  "birthplace": "Bouaké",
+  "profile_url": "https://www.transfermarkt.es/babafemo-fofana/profil/spieler/996535",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1068
+  }
+}

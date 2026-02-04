@@ -1,0 +1,29 @@
+{
+  "player_id": 1023698,
+  "name": "Fernando Embadje",
+  "position": "Portero",
+  "date_of_birth": "06/07/2003",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": "Bissau",
+  "profile_url": "https://www.transfermarkt.es/fernando-embadje/profil/spieler/1023698",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IGdreamsfootball",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 12,
+    "red_cards": 0,
+    "minutes_played": 5
+  }
+}

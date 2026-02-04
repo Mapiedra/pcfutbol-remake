@@ -1,0 +1,29 @@
+{
+  "player_id": 357628,
+  "name": "Alfon González",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "04/05/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": null,
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 26,
+  "birthplace": "Albacete",
+  "profile_url": "https://www.transfermarkt.es/alfon-gonzalez/profil/spieler/357628",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/357628-1734950388.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Eugenio Botas Asesoria Deporti",
+  "stats": {
+    "appearances": 10,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 309
+  }
+}

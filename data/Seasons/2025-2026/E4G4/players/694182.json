@@ -1,0 +1,29 @@
+{
+  "player_id": 694182,
+  "name": "José Mas",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/05/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Alicante",
+  "profile_url": "https://www.transfermarkt.es/jose-mas/profil/spieler/694182",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/694182-1732300458.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1204
+  }
+}

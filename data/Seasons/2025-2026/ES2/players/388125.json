@@ -1,0 +1,29 @@
+{
+  "player_id": 388125,
+  "name": "Stanko Juric",
+  "position": "Pivote",
+  "date_of_birth": "16/08/1996",
+  "nationality": "Croacia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 29,
+  "birthplace": "Split",
+  "profile_url": "https://www.transfermarkt.es/stanko-juric/profil/spieler/388125",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/388125-1614711691.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1787
+  }
+}

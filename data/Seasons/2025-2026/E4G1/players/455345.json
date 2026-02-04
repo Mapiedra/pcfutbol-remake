@@ -1,0 +1,29 @@
+{
+  "player_id": 455345,
+  "name": "Deiby Ochoa",
+  "position": "Defensa central",
+  "date_of_birth": "03/10/1999",
+  "nationality": "Colombia",
+  "second_nationality": "España",
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 26,
+  "birthplace": "Medellín",
+  "profile_url": "https://www.transfermarkt.es/deiby-ochoa/profil/spieler/455345",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1418
+  }
+}

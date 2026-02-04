@@ -1,0 +1,29 @@
+{
+  "player_id": 948273,
+  "name": "Mario Martín",
+  "position": "Pivote",
+  "date_of_birth": "05/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 21,
+  "birthplace": "Sonseca",
+  "profile_url": "https://www.transfermarkt.es/mario-martin/profil/spieler/948273",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/948273-1707861820.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Best of You",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1356
+  }
+}

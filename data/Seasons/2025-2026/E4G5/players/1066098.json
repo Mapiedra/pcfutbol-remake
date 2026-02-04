@@ -1,0 +1,29 @@
+{
+  "player_id": 1066098,
+  "name": "Javi Jiménez",
+  "position": "Defensa central",
+  "date_of_birth": "02/01/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 26,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/javi-jimenez/profil/spieler/1066098",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "J.J.",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1260
+  }
+}

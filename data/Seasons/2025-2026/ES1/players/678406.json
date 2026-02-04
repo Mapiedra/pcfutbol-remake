@@ -1,0 +1,29 @@
+{
+  "player_id": 678406,
+  "name": "Sergi Cardona",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/07/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Ambidiestro",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "10,00mill. €Ú",
+  "market_value_numeric": 10000000,
+  "age": 26,
+  "birthplace": "Lloret de Mar",
+  "profile_url": "https://www.transfermarkt.es/sergi-cardona/profil/spieler/678406",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/678406-1697540707.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Dupla Piqué & Domínguez",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 999
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 538996,
+  "name": "Tanguy Nianzou",
+  "position": "Defensa central",
+  "date_of_birth": "07/06/2002",
+  "nationality": "Francia",
+  "second_nationality": "Costa de Marfil",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "1,40mill. €Ú",
+  "market_value_numeric": 1400000,
+  "age": 23,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/tanguy-nianzou/profil/spieler/538996",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/538996-1681463642.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "VV Consulting",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 324
+  }
+}

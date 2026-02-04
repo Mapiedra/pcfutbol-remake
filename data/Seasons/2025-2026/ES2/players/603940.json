@@ -1,0 +1,29 @@
+{
+  "player_id": 603940,
+  "name": "Marvin Park",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/07/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 25,
+  "birthplace": "Palma de Mallorca",
+  "profile_url": "https://www.transfermarkt.es/marvin-park/profil/spieler/603940",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/603940-1718888602.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Dupla Piqué & Domínguez",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1368
+  }
+}

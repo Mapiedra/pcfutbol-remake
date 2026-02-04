@@ -1,0 +1,29 @@
+{
+  "player_id": 591916,
+  "name": "Aitor Paredes",
+  "position": "Defensa central",
+  "date_of_birth": "29/04/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "18,00mill. €Ú",
+  "market_value_numeric": 18000000,
+  "age": 25,
+  "birthplace": "Bilbao",
+  "profile_url": "https://www.transfermarkt.es/aitor-paredes/profil/spieler/591916",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/591916-1709675052.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1179
+  }
+}

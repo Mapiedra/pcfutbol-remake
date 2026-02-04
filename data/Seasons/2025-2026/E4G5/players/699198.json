@@ -1,0 +1,29 @@
+{
+  "player_id": 699198,
+  "name": "Carlos Cano",
+  "position": "Defensa central",
+  "date_of_birth": "05/01/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 28,
+  "birthplace": "Orgaz",
+  "profile_url": "https://www.transfermarkt.es/carlos-cano/profil/spieler/699198",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 1,
+    "minutes_played": 1630
+  }
+}

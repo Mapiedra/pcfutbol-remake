@@ -1,0 +1,29 @@
+{
+  "player_id": 371371,
+  "name": "Marash Kumbulla",
+  "position": "Defensa central",
+  "date_of_birth": "08/02/2000",
+  "nationality": "Albania",
+  "second_nationality": "Italia",
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 25,
+  "birthplace": "Peschiera del Garda",
+  "profile_url": "https://www.transfermarkt.es/marash-kumbulla/profil/spieler/371371",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/371371-1716969202.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gianni Vitali",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 420
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 276029,
+  "name": "Nuha Marong",
+  "position": "Delantero centro",
+  "date_of_birth": "16/06/1993",
+  "nationality": "Gambia",
+  "second_nationality": "España",
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 32,
+  "birthplace": "Santa Coloma de ...",
+  "profile_url": "https://www.transfermarkt.es/nuha-marong/profil/spieler/276029",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/276029-1739895410.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 38
+  }
+}

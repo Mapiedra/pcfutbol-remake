@@ -1,0 +1,22 @@
+{
+  "player_id": 510325,
+  "name": "Blas Alonso",
+  "position": "Lateral derecho",
+  "date_of_birth": "08/02/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 28,
+  "birthplace": "A Coruña",
+  "profile_url": "https://www.transfermarkt.es/blas-alonso/profil/spieler/510325",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

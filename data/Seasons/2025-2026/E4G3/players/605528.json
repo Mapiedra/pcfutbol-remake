@@ -1,0 +1,22 @@
+{
+  "player_id": 605528,
+  "name": "Pol Tristán",
+  "position": "Portero",
+  "date_of_birth": "18/03/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Ambidiestro",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 23,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/pol-tristan/profil/spieler/605528",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": null
+}

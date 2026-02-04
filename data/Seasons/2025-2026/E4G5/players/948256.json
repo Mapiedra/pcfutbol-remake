@@ -1,0 +1,29 @@
+{
+  "player_id": 948256,
+  "name": "Alejandro Moya",
+  "position": "Lateral derecho",
+  "date_of_birth": "04/08/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,67 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": "Guadalajara",
+  "profile_url": "https://www.transfermarkt.es/alejandro-moya/profil/spieler/948256",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 931
+  }
+}

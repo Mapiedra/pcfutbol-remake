@@ -1,0 +1,22 @@
+{
+  "player_id": 260801,
+  "name": "Eugenio Isnaldo",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "07/01/1994",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "125mil €Ú",
+  "market_value_numeric": 125000,
+  "age": 32,
+  "birthplace": "Rosario",
+  "profile_url": "https://www.transfermarkt.es/eugenio-isnaldo/profil/spieler/260801",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/260801-1687959676.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": null
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 221985,
+  "name": "Edu García",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "24/04/1990",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 35,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/edu-garcia/profil/spieler/221985",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/221985-1580981081.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

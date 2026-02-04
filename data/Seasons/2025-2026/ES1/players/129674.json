@@ -1,0 +1,29 @@
+{
+  "player_id": 129674,
+  "name": "Jeremy Toljan",
+  "position": "Lateral derecho",
+  "date_of_birth": "08/08/1994",
+  "nationality": "Alemania",
+  "second_nationality": "Estados Unidos",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "2,20mill. €Ú",
+  "market_value_numeric": 2200000,
+  "age": 31,
+  "birthplace": "Stuttgart",
+  "profile_url": "https://www.transfermarkt.es/jeremy-toljan/profil/spieler/129674",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/129674-1692277806.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "EMG Mundial",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1712
+  }
+}

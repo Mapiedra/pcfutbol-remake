@@ -1,0 +1,29 @@
+{
+  "player_id": 73309,
+  "name": "Guaya",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "07/08/1985",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,72 m",
+  "foot": "Izquierdo",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 40,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/guaya/profil/spieler/73309",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 797
+  }
+}

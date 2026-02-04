@@ -1,0 +1,29 @@
+{
+  "player_id": 1081496,
+  "name": "Pablo Agudín",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "08/11/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 18,
+  "birthplace": "Avilés",
+  "profile_url": "https://www.transfermarkt.es/pablo-agudin/profil/spieler/1081496",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 636
+  }
+}

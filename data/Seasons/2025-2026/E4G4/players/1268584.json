@@ -1,0 +1,29 @@
+{
+  "player_id": 1268584,
+  "name": "Jaime Fernández",
+  "position": "Delantero centro",
+  "date_of_birth": "2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "20",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 2005,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/jaime-fernandez/profil/spieler/1268584",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "EGGO Asesores Deportivos",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 39
+  }
+}

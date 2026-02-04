@@ -1,0 +1,29 @@
+{
+  "player_id": 746908,
+  "name": "Kike Carrasco",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/03/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,70 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Almendralejo",
+  "profile_url": "https://www.transfermarkt.es/kike-carrasco/profil/spieler/746908",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/746908-1764186451.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Special Talent",
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 3,
+    "yellow_cards": 5,
+    "red_cards": 1,
+    "minutes_played": 1377
+  }
+}

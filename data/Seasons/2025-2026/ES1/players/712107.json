@@ -1,0 +1,29 @@
+{
+  "player_id": 712107,
+  "name": "Luiz Júnior",
+  "position": "Portero",
+  "date_of_birth": "14/01/2001",
+  "nationality": "Brasil",
+  "second_nationality": "Portugal",
+  "height": "1,92 m",
+  "foot": "Izquierdo",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 25,
+  "birthplace": "Picos",
+  "profile_url": "https://www.transfermarkt.es/luiz-junior/profil/spieler/712107",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/712107-1758058969.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 3,
+    "yellow_cards": 15,
+    "red_cards": 0,
+    "minutes_played": 7
+  }
+}

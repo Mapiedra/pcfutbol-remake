@@ -1,0 +1,29 @@
+{
+  "player_id": 330985,
+  "name": "Brais Abelenda",
+  "position": "Extremo derecho",
+  "date_of_birth": "27/10/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 30,
+  "birthplace": "Bembibre",
+  "profile_url": "https://www.transfermarkt.es/brais-abelenda/profil/spieler/330985",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/330985-1732794359.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 4,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1369
+  }
+}

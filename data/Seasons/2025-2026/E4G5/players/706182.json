@@ -1,0 +1,29 @@
+{
+  "player_id": 706182,
+  "name": "Miguel Rodrigáñez",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "05/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 24,
+  "birthplace": "Argamasilla de Alba",
+  "profile_url": "https://www.transfermarkt.es/miguel-rodriganez/profil/spieler/706182",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/706182-1686946698.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "NKMSPORT FOOTBALL",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 963
+  }
+}

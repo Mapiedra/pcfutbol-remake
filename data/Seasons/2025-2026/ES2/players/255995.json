@@ -1,0 +1,29 @@
+{
+  "player_id": 255995,
+  "name": "Mario González",
+  "position": "Delantero centro",
+  "date_of_birth": "25/02/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 29,
+  "birthplace": "Villarcayo",
+  "profile_url": "https://www.transfermarkt.es/mario-gonzalez/profil/spieler/255995",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/255995-1691270189.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 15,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 431
+  }
+}

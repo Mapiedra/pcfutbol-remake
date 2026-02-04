@@ -1,0 +1,29 @@
+{
+  "player_id": 709969,
+  "name": "Ilias Akhomach",
+  "position": "Extremo derecho",
+  "date_of_birth": "16/04/2004",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 21,
+  "birthplace": "Hostalets de Pierola",
+  "profile_url": "https://www.transfermarkt.es/ilias-akhomach/profil/spieler/709969",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/709969-1636472170.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 181
+  }
+}

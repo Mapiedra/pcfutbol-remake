@@ -1,0 +1,29 @@
+{
+  "player_id": 44058,
+  "name": "Wojciech Szczęsny",
+  "position": "Portero",
+  "date_of_birth": "18/04/1990",
+  "nationality": "Polonia",
+  "second_nationality": null,
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "900mil €Ú",
+  "market_value_numeric": 900000,
+  "age": 35,
+  "birthplace": "Warszawa",
+  "profile_url": "https://www.transfermarkt.es/wojciech-szczesny/profil/spieler/44058",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/44058-1744278078.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 11,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

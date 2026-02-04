@@ -1,0 +1,29 @@
+{
+  "player_id": 162044,
+  "name": "Cristian Herrera",
+  "position": "Extremo derecho",
+  "date_of_birth": "29/03/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 31,
+  "birthplace": "Santa Coloma de ...",
+  "profile_url": "https://www.transfermarkt.es/cristian-herrera/profil/spieler/162044",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/162044-1676908152.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Football",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 3,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1388
+  }
+}

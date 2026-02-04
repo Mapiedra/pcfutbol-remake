@@ -1,0 +1,29 @@
+{
+  "player_id": 503602,
+  "name": "Adam Jakobsen",
+  "position": "Delantero centro",
+  "date_of_birth": "07/04/1999",
+  "nationality": "Dinamarca",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 26,
+  "birthplace": "København",
+  "profile_url": "https://www.transfermarkt.es/adam-jakobsen/profil/spieler/503602",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/503602-1737583672.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 17,
+    "goals": 3,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1057
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 461959,
+  "name": "Douglas Aurélio",
+  "position": "Extremo derecho",
+  "date_of_birth": "27/03/1999",
+  "nationality": "Brasil",
+  "second_nationality": "Portugal",
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 26,
+  "birthplace": "Teófilo Otoni (MG)",
+  "profile_url": "https://www.transfermarkt.es/douglas-aurelio/profil/spieler/461959",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/461959-1681764547.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Invictus Team",
+  "stats": {
+    "appearances": 3,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 41
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 290327,
+  "name": "Javi Ramírez",
+  "position": "Defensa central",
+  "date_of_birth": "26/02/1995",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 30,
+  "birthplace": "Roquetas de Mar",
+  "profile_url": "https://www.transfermarkt.es/javi-ramirez/profil/spieler/290327",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/290327-1732736252.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1890
+  }
+}

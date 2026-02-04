@@ -1,0 +1,29 @@
+{
+  "player_id": 367466,
+  "name": "Thierry Correia",
+  "position": "Lateral derecho",
+  "date_of_birth": "09/03/1999",
+  "nationality": "Portugal",
+  "second_nationality": "Cabo Verde",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 26,
+  "birthplace": "Amadora",
+  "profile_url": "https://www.transfermarkt.es/thierry-correia/profil/spieler/367466",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/367466-1548510976.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 939
+  }
+}

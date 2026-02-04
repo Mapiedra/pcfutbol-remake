@@ -1,0 +1,29 @@
+{
+  "player_id": 702911,
+  "name": "Luis Asué",
+  "position": "Delantero centro",
+  "date_of_birth": "09/07/2001",
+  "nationality": "Guinea Ecuatorial",
+  "second_nationality": "España",
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 24,
+  "birthplace": "Malabo",
+  "profile_url": "https://www.transfermarkt.es/luis-asue/profil/spieler/702911",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/702911-1729962665.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 6
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1126512,
+  "name": "Antony Herbert",
+  "position": "Lateral derecho",
+  "date_of_birth": "12/03/2005",
+  "nationality": "Panamá",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 1,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Colon, Panama",
+  "profile_url": "https://www.transfermarkt.es/antony-herbert/profil/spieler/1126512",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1126512-1759151378.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "GSMGroup",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 82
+  }
+}

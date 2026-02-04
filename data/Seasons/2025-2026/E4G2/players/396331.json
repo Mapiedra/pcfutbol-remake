@@ -1,0 +1,29 @@
+{
+  "player_id": 396331,
+  "name": "Giovanni Navarro",
+  "position": "Delantero centro",
+  "date_of_birth": "23/06/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,74 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/giovanni-navarro/profil/spieler/396331",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ADM PRO",
+  "stats": {
+    "appearances": 2,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 94
+  }
+}

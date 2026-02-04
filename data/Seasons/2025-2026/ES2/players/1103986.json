@@ -1,0 +1,22 @@
+{
+  "player_id": 1103986,
+  "name": "Jerónimo Dómina",
+  "position": "Delantero centro",
+  "date_of_birth": "17/10/2005",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,74 m",
+  "foot": "Derecho",
+  "squad_number": "37",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 20,
+  "birthplace": "Santa Fe",
+  "profile_url": "https://www.transfermarkt.es/jeronimo-domina/profil/spieler/1103986",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1103986-1721144258.png?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "JWsports",
+  "stats": null
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 941113,
+  "name": "Brais Suárez",
+  "position": "Portero",
+  "date_of_birth": "02/05/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": "A Coruña",
+  "profile_url": "https://www.transfermarkt.es/brais-suarez/profil/spieler/941113",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/941113-1732359046.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

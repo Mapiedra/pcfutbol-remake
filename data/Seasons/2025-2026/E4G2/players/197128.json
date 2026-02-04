@@ -1,0 +1,29 @@
+{
+  "player_id": 197128,
+  "name": "Kike Royo",
+  "position": "Portero",
+  "date_of_birth": "14/06/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 34,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/kike-royo/profil/spieler/197128",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/197128-1732120675.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 20,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 21,
+    "red_cards": 0,
+    "minutes_played": 9
+  }
+}

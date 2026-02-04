@@ -1,0 +1,29 @@
+{
+  "player_id": 939374,
+  "name": "Yoel Lago",
+  "position": "Defensa central",
+  "date_of_birth": "25/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 21,
+  "birthplace": "Mondariz",
+  "profile_url": "https://www.transfermarkt.es/yoel-lago/profil/spieler/939374",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/939374-1758827211.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 335
+  }
+}

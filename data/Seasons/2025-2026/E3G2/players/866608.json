@@ -1,0 +1,29 @@
+{
+  "player_id": 866608,
+  "name": "Tamiou Kpebane",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/05/2006",
+  "nationality": "Alemania",
+  "second_nationality": "Italia",
+  "height": "1,95 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/tamiou-kpebane/profil/spieler/866608",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/866608-1762783865.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "SEG",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 594
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 710004,
+  "name": "Peter Federico",
+  "position": "Extremo derecho",
+  "date_of_birth": "25/07/2002",
+  "nationality": "República Dominicana",
+  "second_nationality": "España",
+  "height": "1,80 m",
+  "foot": "Izquierdo",
+  "squad_number": "22",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/peter-federico/profil/spieler/710004",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/710004-1706697849.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 19,
+    "goals": 4,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1367
+  }
+}

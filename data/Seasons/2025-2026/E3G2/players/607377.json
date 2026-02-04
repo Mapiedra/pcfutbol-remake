@@ -1,0 +1,22 @@
+{
+  "player_id": 607377,
+  "name": "Jean Jules",
+  "position": "Mediocentro",
+  "date_of_birth": "23/04/1998",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 27,
+  "birthplace": "Yaoundé",
+  "profile_url": "https://www.transfermarkt.es/jean-jules/profil/spieler/607377",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/607377-1670769015.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

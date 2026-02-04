@@ -1,0 +1,29 @@
+{
+  "player_id": 1158713,
+  "name": "Iker Punzano",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "29/07/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 21,
+  "birthplace": "Onda",
+  "profile_url": "https://www.transfermarkt.es/iker-punzano/profil/spieler/1158713",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1158713-1713216331.jpeg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 356
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 997826,
+  "name": "Patricio Pacífico",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "08/04/2006",
+  "nationality": "Uruguay",
+  "second_nationality": "Italia",
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 1,
+  "market_value": "650mil €Ú",
+  "market_value_numeric": 650000,
+  "age": 19,
+  "birthplace": "Montevideo",
+  "profile_url": "https://www.transfermarkt.es/patricio-pacifico/profil/spieler/997826",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/997826-1743016791.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": null
+}

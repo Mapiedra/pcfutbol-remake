@@ -1,0 +1,22 @@
+{
+  "player_id": 567026,
+  "name": "Anton Efremov",
+  "position": "Defensa central",
+  "date_of_birth": "11/06/2003",
+  "nationality": "Rusia",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Nizhniy Novgorod",
+  "profile_url": "https://www.transfermarkt.es/anton-efremov/profil/spieler/567026",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/567026-1604511269.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IF FOOTBALL",
+  "stats": null
+}

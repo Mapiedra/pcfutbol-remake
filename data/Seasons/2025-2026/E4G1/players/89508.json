@@ -1,0 +1,29 @@
+{
+  "player_id": 89508,
+  "name": "Pedro Orfila",
+  "position": "Defensa central",
+  "date_of_birth": "06/03/1988",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 37,
+  "birthplace": "Luanco",
+  "profile_url": "https://www.transfermarkt.es/pedro-orfila/profil/spieler/89508",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/89508-1700522276.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1160
+  }
+}

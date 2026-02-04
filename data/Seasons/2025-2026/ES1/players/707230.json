@@ -1,0 +1,29 @@
+{
+  "player_id": 707230,
+  "name": "Ugo Raghouber",
+  "position": "Pivote",
+  "date_of_birth": "13/07/2003",
+  "nationality": "Francia",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "3,00mill. €Ú",
+  "market_value_numeric": 3000000,
+  "age": 22,
+  "birthplace": "Clichy",
+  "profile_url": "https://www.transfermarkt.es/ugo-raghouber/profil/spieler/707230",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/707230-1678906674.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Horizon",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 114
+  }
+}

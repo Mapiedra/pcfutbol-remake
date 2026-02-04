@@ -1,0 +1,22 @@
+{
+  "player_id": 1033145,
+  "name": "Álvaro Santiago",
+  "position": "Defensa central",
+  "date_of_birth": "09/10/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/alvaro-santiago/profil/spieler/1033145",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1033145-1734520053.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": null
+}

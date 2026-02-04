@@ -1,0 +1,29 @@
+{
+  "player_id": 1299392,
+  "name": "Bil Nsongo",
+  "position": "Delantero centro",
+  "date_of_birth": "21/09/2004",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 21,
+  "birthplace": "Yaoundé",
+  "profile_url": "https://www.transfermarkt.es/bil-nsongo/profil/spieler/1299392",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Footfeel ISM",
+  "stats": {
+    "appearances": 18,
+    "goals": 12,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1370
+  }
+}

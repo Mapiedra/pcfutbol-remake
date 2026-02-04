@@ -1,0 +1,29 @@
+{
+  "player_id": 1060823,
+  "name": "Marc Delgado",
+  "position": "Mediocentro",
+  "date_of_birth": "18/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 20,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/marc-delgado/profil/spieler/1060823",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1060823-1732143392.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Proneo Sports S.L.",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1694
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 540654,
+  "name": "Marc-Olivier Doué",
+  "position": "Mediocentro",
+  "date_of_birth": "11/10/2000",
+  "nationality": "Francia",
+  "second_nationality": "Costa de Marfil",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "400mil €Ú",
+  "market_value_numeric": 400000,
+  "age": 25,
+  "birthplace": "Bordeaux",
+  "profile_url": "https://www.transfermarkt.es/marc-olivier-doue/profil/spieler/540654",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/540654-1660117557.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Joseba Diaz",
+  "stats": {
+    "appearances": 18,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 585
+  }
+}

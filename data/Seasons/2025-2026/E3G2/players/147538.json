@@ -1,0 +1,29 @@
+{
+  "player_id": 147538,
+  "name": "Marc Trilles",
+  "position": "Defensa central",
+  "date_of_birth": "08/08/1991",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 34,
+  "birthplace": "Vilafamés",
+  "profile_url": "https://www.transfermarkt.es/marc-trilles/profil/spieler/147538",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "RyS",
+  "stats": {
+    "appearances": 19,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 10,
+    "red_cards": 0,
+    "minutes_played": 1656
+  }
+}

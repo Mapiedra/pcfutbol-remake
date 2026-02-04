@@ -1,0 +1,29 @@
+{
+  "player_id": 834471,
+  "name": "Nil Calderó",
+  "position": "Extremo derecho",
+  "date_of_birth": "02/05/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Claravalls",
+  "profile_url": "https://www.transfermarkt.es/nil-caldero/profil/spieler/834471",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/834471-1699371945.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 856
+  }
+}

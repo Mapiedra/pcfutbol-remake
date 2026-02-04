@@ -1,0 +1,29 @@
+{
+  "player_id": 1063334,
+  "name": "Carlos Jiménez",
+  "position": "Defensa central",
+  "date_of_birth": "23/07/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,97 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 19,
+  "birthplace": "Elche",
+  "profile_url": "https://www.transfermarkt.es/carlos-jimenez/profil/spieler/1063334",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1063334-1724301611.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 27
+  }
+}

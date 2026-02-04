@@ -1,0 +1,29 @@
+{
+  "player_id": 1321414,
+  "name": "Oriol Marty",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "04/08/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "21",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Manresa",
+  "profile_url": "https://www.transfermarkt.es/oriol-marty/profil/spieler/1321414",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 142
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 352597,
+  "name": "Lado Mokhevishvili",
+  "position": "Mediocentro",
+  "date_of_birth": "27/06/1996",
+  "nationality": "Georgia",
+  "second_nationality": "España",
+  "height": "1,75 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 29,
+  "birthplace": "Tiflis",
+  "profile_url": "https://www.transfermarkt.es/lado-mokhevishvili/profil/spieler/352597",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "FBM_SPORTS_AGENCY",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1433
+  }
+}

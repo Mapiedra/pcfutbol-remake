@@ -1,0 +1,29 @@
+{
+  "player_id": 631099,
+  "name": "Lautaro Spatz",
+  "position": "Defensa central",
+  "date_of_birth": "19/10/2001",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 24,
+  "birthplace": "Buenos Aires",
+  "profile_url": "https://www.transfermarkt.es/lautaro-spatz/profil/spieler/631099",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/631099-1700587860.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 18,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1474
+  }
+}

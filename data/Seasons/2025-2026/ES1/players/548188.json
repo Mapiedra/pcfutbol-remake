@@ -1,0 +1,29 @@
+{
+  "player_id": 548188,
+  "name": "Germán Valera",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "16/03/2002",
+  "nationality": "España",
+  "second_nationality": "Lituania",
+  "height": "1,70 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 23,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/german-valera/profil/spieler/548188",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/548188-1588605205.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "InterStarDeporte",
+  "stats": {
+    "appearances": 20,
+    "goals": 4,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1532
+  }
+}

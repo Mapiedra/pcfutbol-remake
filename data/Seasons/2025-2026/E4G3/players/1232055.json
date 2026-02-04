@@ -1,0 +1,29 @@
+{
+  "player_id": 1232055,
+  "name": "Leo Salazar",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "03/05/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 18,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/leo-salazar/profil/spieler/1232055",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 12,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 474
+  }
+}

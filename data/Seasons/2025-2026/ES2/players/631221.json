@@ -1,0 +1,29 @@
+{
+  "player_id": 631221,
+  "name": "Isma Ruiz",
+  "position": "Mediocentro",
+  "date_of_birth": "14/02/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "900mil €Ú",
+  "market_value_numeric": 900000,
+  "age": 24,
+  "birthplace": "Gójar",
+  "profile_url": "https://www.transfermarkt.es/isma-ruiz/profil/spieler/631221",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/631221-1660899719.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1844
+  }
+}

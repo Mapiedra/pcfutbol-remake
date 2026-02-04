@@ -1,0 +1,29 @@
+{
+  "player_id": 128969,
+  "name": "Mathew Ryan",
+  "position": "Portero",
+  "date_of_birth": "08/04/1992",
+  "nationality": "Australia",
+  "second_nationality": "Escocia",
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 33,
+  "birthplace": "Plumpton",
+  "profile_url": "https://www.transfermarkt.es/mathew-ryan/profil/spieler/128969",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/128969-1668505563.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "CAA Stellar",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 29,
+    "red_cards": 0,
+    "minutes_played": 3
+  }
+}

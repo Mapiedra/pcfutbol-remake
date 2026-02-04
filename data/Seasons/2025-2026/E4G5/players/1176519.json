@@ -1,0 +1,29 @@
+{
+  "player_id": 1176519,
+  "name": "Adrián Arnu",
+  "position": "Delantero centro",
+  "date_of_birth": "04/03/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 1,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 18,
+  "birthplace": "Palencia",
+  "profile_url": "https://www.transfermarkt.es/adrian-arnu/profil/spieler/1176519",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1176519-1700778651.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ROOF Talents",
+  "stats": {
+    "appearances": 1,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 90
+  }
+}

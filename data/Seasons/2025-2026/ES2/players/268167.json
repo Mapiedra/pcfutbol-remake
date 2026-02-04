@@ -1,0 +1,29 @@
+{
+  "player_id": 268167,
+  "name": "Àlex Corredera",
+  "position": "Mediocentro",
+  "date_of_birth": "19/03/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 29,
+  "birthplace": "Sant Joan de les ...",
+  "profile_url": "https://www.transfermarkt.es/alex-corredera/profil/spieler/268167",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/268167-1760543620.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 7,
+    "red_cards": 0,
+    "minutes_played": 1745
+  }
+}

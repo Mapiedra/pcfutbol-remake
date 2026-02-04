@@ -1,0 +1,29 @@
+{
+  "player_id": 724519,
+  "name": "Pol Domingo",
+  "position": "Lateral derecho",
+  "date_of_birth": "04/11/1999",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 26,
+  "birthplace": "La Pobla de ...",
+  "profile_url": "https://www.transfermarkt.es/pol-domingo/profil/spieler/724519",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1560
+  }
+}

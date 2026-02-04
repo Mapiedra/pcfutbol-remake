@@ -1,0 +1,22 @@
+{
+  "player_id": 979787,
+  "name": "Victor Sánchez",
+  "position": "Delantero centro",
+  "date_of_birth": "21/05/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "9",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 23,
+  "birthplace": "Sevilla",
+  "profile_url": "https://www.transfermarkt.es/victor-sanchez/profil/spieler/979787",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Prodigy Players",
+  "stats": null
+}

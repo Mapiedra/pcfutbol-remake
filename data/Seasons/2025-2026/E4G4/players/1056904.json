@@ -1,0 +1,29 @@
+{
+  "player_id": 1056904,
+  "name": "Jesuly",
+  "position": "Extremo derecho",
+  "date_of_birth": "06/07/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jesuly/profil/spieler/1056904",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "33 Sport",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 58
+  }
+}

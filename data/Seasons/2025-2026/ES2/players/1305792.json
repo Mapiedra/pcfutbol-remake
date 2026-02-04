@@ -1,0 +1,29 @@
+{
+  "player_id": 1305792,
+  "name": "Álvaro García Pascual",
+  "position": "Delantero centro",
+  "date_of_birth": "21/07/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 23,
+  "birthplace": "Benalmádena",
+  "profile_url": "https://www.transfermarkt.es/alvaro-garcia-pascual/profil/spieler/1305792",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1305792-1747213987.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Niagara Sports Company",
+  "stats": {
+    "appearances": 22,
+    "goals": 3,
+    "assists": 5,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1518
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 114060,
+  "name": "Enric Gallego",
+  "position": "Delantero centro",
+  "date_of_birth": "12/09/1986",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 39,
+  "birthplace": "Bon Pastor",
+  "profile_url": "https://www.transfermarkt.es/enric-gallego/profil/spieler/114060",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/114060-1554279788.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 21,
+    "goals": 12,
+    "assists": 2,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1545
+  }
+}

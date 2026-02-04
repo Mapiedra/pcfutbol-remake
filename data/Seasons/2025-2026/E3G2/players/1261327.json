@@ -1,0 +1,22 @@
+{
+  "player_id": 1261327,
+  "name": "Willy Chatiliez",
+  "position": "Extremo derecho",
+  "date_of_birth": "26/03/2005",
+  "nationality": "Chile",
+  "second_nationality": "Francia",
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Santiago de Chile",
+  "profile_url": "https://www.transfermarkt.es/willy-chatiliez/profil/spieler/1261327",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1261327-1757572813.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SEG",
+  "stats": null
+}

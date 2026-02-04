@@ -1,0 +1,29 @@
+{
+  "player_id": 942108,
+  "name": "Marcos Ceña",
+  "position": "Mediocentro",
+  "date_of_birth": "13/04/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Ambidiestro",
+  "squad_number": "12",
+  "is_on_loan": 1,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 20,
+  "birthplace": "Logroño",
+  "profile_url": "https://www.transfermarkt.es/marcos-cena/profil/spieler/942108",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 486
+  }
+}

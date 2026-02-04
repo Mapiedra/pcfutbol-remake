@@ -1,0 +1,29 @@
+{
+  "player_id": 335216,
+  "name": "Iñigo Vicente",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "06/01/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 28,
+  "birthplace": "Derio",
+  "profile_url": "https://www.transfermarkt.es/inigo-vicente/profil/spieler/335216",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/335216-1711381338.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Acción Sport",
+  "stats": {
+    "appearances": 22,
+    "goals": 5,
+    "assists": 14,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1737
+  }
+}

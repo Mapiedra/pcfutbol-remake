@@ -1,0 +1,29 @@
+{
+  "player_id": 433358,
+  "name": "Tomás Ribeiro",
+  "position": "Defensa central",
+  "date_of_birth": "30/04/1999",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 26,
+  "birthplace": "Lisboa",
+  "profile_url": "https://www.transfermarkt.es/tomas-ribeiro/profil/spieler/433358",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/433358-1695207229.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Proeleven S.A.",
+  "stats": {
+    "appearances": 8,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 624
+  }
+}

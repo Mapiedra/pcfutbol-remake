@@ -1,0 +1,29 @@
+{
+  "player_id": 404839,
+  "name": "Andriy Lunin",
+  "position": "Portero",
+  "date_of_birth": "11/02/1999",
+  "nationality": "Ucrania",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 26,
+  "birthplace": "Krasnograd, Kharkiv ...",
+  "profile_url": "https://www.transfermarkt.es/andriy-lunin/profil/spieler/404839",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/404839-1701294131.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 0,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

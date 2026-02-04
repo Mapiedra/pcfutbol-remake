@@ -1,0 +1,29 @@
+{
+  "player_id": 784718,
+  "name": "Jesús Ocaña",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "11/05/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,75 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 28,
+  "birthplace": "Sanlúcar de ...",
+  "profile_url": "https://www.transfermarkt.es/jesus-ocana/profil/spieler/784718",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MMIC Sport",
+  "stats": {
+    "appearances": 20,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1754
+  }
+}

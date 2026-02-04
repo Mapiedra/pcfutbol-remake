@@ -1,0 +1,29 @@
+{
+  "player_id": 568156,
+  "name": "Antonio Pacheco",
+  "position": "Mediocentro",
+  "date_of_birth": "03/01/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "700mil €Ú",
+  "market_value_numeric": 700000,
+  "age": 24,
+  "birthplace": "Callosa de Segura",
+  "profile_url": "https://www.transfermarkt.es/antonio-pacheco/profil/spieler/568156",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/568156-1745337834.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 17,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1110
+  }
+}

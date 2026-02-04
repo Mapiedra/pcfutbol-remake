@@ -1,0 +1,29 @@
+{
+  "player_id": 964264,
+  "name": "Carles Garrido",
+  "position": "Delantero centro",
+  "date_of_birth": "04/10/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Ambidiestro",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 21,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/carles-garrido/profil/spieler/964264",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/964264-1700154061.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Go Pro Sport Management",
+  "stats": {
+    "appearances": 16,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 694
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 560483,
+  "name": "Randy Nteka",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "06/12/1997",
+  "nationality": "Angola",
+  "second_nationality": "Francia",
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "1,20mill. €Ú",
+  "market_value_numeric": 1200000,
+  "age": 28,
+  "birthplace": "Paris",
+  "profile_url": "https://www.transfermarkt.es/randy-nteka/profil/spieler/560483",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/560483-1600680162.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Ballers Group",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 75
+  }
+}

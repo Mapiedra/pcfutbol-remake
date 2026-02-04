@@ -1,0 +1,29 @@
+{
+  "player_id": 1063601,
+  "name": "Riki de Moraes",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "19/02/2004",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Rio de Janeiro",
+  "profile_url": "https://www.transfermarkt.es/riki-de-moraes/profil/spieler/1063601",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1063601-1732121827.png?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 18,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1013
+  }
+}

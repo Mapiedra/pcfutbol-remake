@@ -1,0 +1,29 @@
+{
+  "player_id": 531493,
+  "name": "Ernesten Lavsamba",
+  "position": "Mediocentro",
+  "date_of_birth": "20/07/1997",
+  "nationality": "Camerún",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 28,
+  "birthplace": "Limbe",
+  "profile_url": "https://www.transfermarkt.es/ernesten-lavsamba/profil/spieler/531493",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/531493-1701462864.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 58
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 909758,
+  "name": "Federico Redondo",
+  "position": "Pivote",
+  "date_of_birth": "18/01/2003",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "4,00mill. €Ú",
+  "market_value_numeric": 4000000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/federico-redondo/profil/spieler/909758",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/909758-1740775355.jpg?lm=1",
+  "contract_until": "30/06/2030",
+  "international_caps": null,
+  "agent": "Score Futbol",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 27
+  }
+}

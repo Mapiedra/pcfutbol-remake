@@ -1,0 +1,22 @@
+{
+  "player_id": 708534,
+  "name": "Alejandro Jay",
+  "position": "Lateral derecho",
+  "date_of_birth": "07/07/2002",
+  "nationality": "España",
+  "second_nationality": "Cuba",
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": null,
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 23,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/alejandro-jay/profil/spieler/708534",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Universal Twenty Two",
+  "stats": null
+}

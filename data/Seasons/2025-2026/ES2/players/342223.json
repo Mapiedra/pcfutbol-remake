@@ -1,0 +1,29 @@
+{
+  "player_id": 342223,
+  "name": "Kévin Appin",
+  "position": "Mediocentro",
+  "date_of_birth": "20/01/1998",
+  "nationality": "Martinica",
+  "second_nationality": "Francia",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 28,
+  "birthplace": "Marseille",
+  "profile_url": "https://www.transfermarkt.es/kevin-appin/profil/spieler/342223",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/342223-1712140697.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "CANTERASPORT",
+  "stats": {
+    "appearances": 21,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 701
+  }
+}

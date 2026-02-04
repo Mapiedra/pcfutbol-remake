@@ -1,0 +1,29 @@
+{
+  "player_id": 766763,
+  "name": "Sergio Martínez",
+  "position": "Defensa central",
+  "date_of_birth": "09/04/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 21,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/sergio-martinez/profil/spieler/766763",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/766763-1714747502.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 22,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1980
+  }
+}

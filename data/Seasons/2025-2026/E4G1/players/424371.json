@@ -1,0 +1,29 @@
+{
+  "player_id": 424371,
+  "name": "Iván Martínez",
+  "position": "Portero",
+  "date_of_birth": "13/08/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,86 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 29,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/ivan-martinez/profil/spieler/424371",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/424371-1732216503.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Paquito Terry",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1
+  }
+}

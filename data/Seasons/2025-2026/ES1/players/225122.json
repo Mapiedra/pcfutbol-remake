@@ -1,0 +1,29 @@
+{
+  "player_id": 225122,
+  "name": "Gonçalo Guedes",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "29/11/1996",
+  "nationality": "Portugal",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "6,00mill. €Ú",
+  "market_value_numeric": 6000000,
+  "age": 29,
+  "birthplace": "Benavente",
+  "profile_url": "https://www.transfermarkt.es/goncalo-guedes/profil/spieler/225122",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/225122-1701334424.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Gestifute",
+  "stats": {
+    "appearances": 21,
+    "goals": 5,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1136
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 185551,
+  "name": "Damián Petcoff",
+  "position": "Mediocentro",
+  "date_of_birth": "24/05/1990",
+  "nationality": "Argentina",
+  "second_nationality": "España",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 35,
+  "birthplace": "Buenos Aires",
+  "profile_url": "https://www.transfermarkt.es/damian-petcoff/profil/spieler/185551",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/185551-1764185628.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Identity Sports",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 962
+  }
+}

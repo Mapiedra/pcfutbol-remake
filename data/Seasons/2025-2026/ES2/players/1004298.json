@@ -1,0 +1,22 @@
+{
+  "player_id": 1004298,
+  "name": "Carlos López",
+  "position": "Portero",
+  "date_of_birth": "13/11/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/carlos-lopez/profil/spieler/1004298",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1004298-1725883415.jpg?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "CAA Base Ltd",
+  "stats": null
+}

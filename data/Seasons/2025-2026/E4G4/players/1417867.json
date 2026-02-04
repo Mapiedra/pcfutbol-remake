@@ -1,0 +1,29 @@
+{
+  "player_id": 1417867,
+  "name": "Jorge Ruiz",
+  "position": "Portero",
+  "date_of_birth": "09/02/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "35",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": "Málaga",
+  "profile_url": "https://www.transfermarkt.es/jorge-ruiz/profil/spieler/1417867",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 0
+  }
+}

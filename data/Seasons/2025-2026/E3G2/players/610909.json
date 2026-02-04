@@ -1,0 +1,22 @@
+{
+  "player_id": 610909,
+  "name": "Oriol Martí",
+  "position": "Portero",
+  "date_of_birth": "02/02/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 26,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/oriol-marti/profil/spieler/610909",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MSSports",
+  "stats": null
+}

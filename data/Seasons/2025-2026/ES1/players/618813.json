@@ -1,0 +1,29 @@
+{
+  "player_id": 618813,
+  "name": "Carlos Martín",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "22/04/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 23,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/carlos-martin/profil/spieler/618813",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/618813-1707924109.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Antonio López Management",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 192
+  }
+}

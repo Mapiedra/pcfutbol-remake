@@ -1,0 +1,29 @@
+{
+  "player_id": 1073051,
+  "name": "Héctor Oliva",
+  "position": "Portero",
+  "date_of_birth": "15/03/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 21,
+  "birthplace": "Segovia",
+  "profile_url": "https://www.transfermarkt.es/hector-oliva/profil/spieler/1073051",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1073051-1700681736.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LH Management",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 12,
+    "red_cards": 0,
+    "minutes_played": 2
+  }
+}

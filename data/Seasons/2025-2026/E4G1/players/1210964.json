@@ -1,0 +1,29 @@
+{
+  "player_id": 1210964,
+  "name": "Juan Carlos Murcia",
+  "position": "Mediocentro",
+  "date_of_birth": "23/03/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "14",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 18,
+  "birthplace": "Alcantarilla",
+  "profile_url": "https://www.transfermarkt.es/juan-carlos-murcia/profil/spieler/1210964",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1210964-1732219185.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 399
+  }
+}

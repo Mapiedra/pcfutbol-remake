@@ -1,0 +1,29 @@
+{
+  "player_id": 889630,
+  "name": "Ignacio Tellechea",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "11/10/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "11",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 29,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/ignacio-tellechea/profil/spieler/889630",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/889630-1700765441.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SOCCERMEDIA, S.L.",
+  "stats": {
+    "appearances": 20,
+    "goals": 7,
+    "assists": 3,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1423
+  }
+}

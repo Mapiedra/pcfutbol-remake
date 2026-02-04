@@ -1,0 +1,29 @@
+{
+  "player_id": 940462,
+  "name": "Pau Ferrer",
+  "position": "Delantero centro",
+  "date_of_birth": "17/10/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 22,
+  "birthplace": "Benicarló",
+  "profile_url": "https://www.transfermarkt.es/pau-ferrer/profil/spieler/940462",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ROOF Talents",
+  "stats": {
+    "appearances": 16,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 650
+  }
+}

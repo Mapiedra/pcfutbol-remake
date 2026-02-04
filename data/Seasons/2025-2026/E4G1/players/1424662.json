@@ -1,0 +1,29 @@
+{
+  "player_id": 1424662,
+  "name": "Salvador Fillouche",
+  "position": "Delantero centro",
+  "date_of_birth": "19/09/2006",
+  "nationality": "España",
+  "second_nationality": "Marruecos",
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 19,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/salvador-fillouche/profil/spieler/1424662",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1424662-1758932087.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Eleven Stars",
+  "stats": {
+    "appearances": 18,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 719
+  }
+}

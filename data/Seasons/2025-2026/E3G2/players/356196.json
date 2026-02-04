@@ -1,0 +1,29 @@
+{
+  "player_id": 356196,
+  "name": "Iago Indias",
+  "position": "Defensa central",
+  "date_of_birth": "03/01/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 30,
+  "birthplace": "Vigo",
+  "profile_url": "https://www.transfermarkt.es/iago-indias/profil/spieler/356196",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/356196-1698154454.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MagicPlayers",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 1428
+  }
+}

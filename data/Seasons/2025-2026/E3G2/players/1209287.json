@@ -1,0 +1,29 @@
+{
+  "player_id": 1209287,
+  "name": "Jano Monserrate",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "28/01/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Izquierdo",
+  "squad_number": "26",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 20,
+  "birthplace": "Zaragoza",
+  "profile_url": "https://www.transfermarkt.es/jano-monserrate/profil/spieler/1209287",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1209287-1731932940.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Goal Management",
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 919
+  }
+}

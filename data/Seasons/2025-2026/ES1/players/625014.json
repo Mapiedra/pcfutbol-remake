@@ -1,0 +1,29 @@
+{
+  "player_id": 625014,
+  "name": "Julen Agirrezabala",
+  "position": "Portero",
+  "date_of_birth": "26/12/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,87 m",
+  "foot": "Izquierdo",
+  "squad_number": "25",
+  "is_on_loan": 0,
+  "market_value": "15,00mill. €Ú",
+  "market_value_numeric": 15000000,
+  "age": 25,
+  "birthplace": "Donostia-San ...",
+  "profile_url": "https://www.transfermarkt.es/julen-agirrezabala/profil/spieler/625014",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/625014-1709674945.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "YOU FIRST",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 30,
+    "red_cards": 0,
+    "minutes_played": 4
+  }
+}

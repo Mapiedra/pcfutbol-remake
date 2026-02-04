@@ -1,0 +1,29 @@
+{
+  "player_id": 1223587,
+  "name": "Manu Ferreiro",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "09/08/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 19,
+  "birthplace": "Castroverde",
+  "profile_url": "https://www.transfermarkt.es/manu-ferreiro/profil/spieler/1223587",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 10,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 604
+  }
+}

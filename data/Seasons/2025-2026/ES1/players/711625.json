@@ -1,0 +1,29 @@
+{
+  "player_id": 711625,
+  "name": "José Ángel Carmona",
+  "position": "Lateral derecho",
+  "date_of_birth": "29/01/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "12,00mill. €Ú",
+  "market_value_numeric": 12000000,
+  "age": 24,
+  "birthplace": "El Viso del Alcor",
+  "profile_url": "https://www.transfermarkt.es/jose-angel-carmona/profil/spieler/711625",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/711625-1696862897.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "380amk",
+  "stats": {
+    "appearances": 19,
+    "goals": 1,
+    "assists": 3,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1629
+  }
+}

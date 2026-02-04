@@ -1,0 +1,29 @@
+{
+  "player_id": 1184096,
+  "name": "Antonio Salguero",
+  "position": "Defensa central",
+  "date_of_birth": "11/06/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Las Cabezas de San ...",
+  "profile_url": "https://www.transfermarkt.es/antonio-salguero/profil/spieler/1184096",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "JV SPORTS",
+  "stats": {
+    "appearances": 17,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1486
+  }
+}

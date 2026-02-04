@@ -1,0 +1,29 @@
+{
+  "player_id": 1041934,
+  "name": "Jeremy Jorge",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "09/02/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 22,
+  "birthplace": "Las Palmas de Gran ...",
+  "profile_url": "https://www.transfermarkt.es/jeremy-jorge/profil/spieler/1041934",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1041934-1732138514.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Gesport Espizua SL",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 58
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1033005,
+  "name": "Coba da Costa",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "26/07/2002",
+  "nationality": "Guinea-Bissau",
+  "second_nationality": "España",
+  "height": "1,82 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 23,
+  "birthplace": "La Mojonera",
+  "profile_url": "https://www.transfermarkt.es/coba-da-costa/profil/spieler/1033005",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1033005-1732139109.JPG?lm=1",
+  "contract_until": "30/06/2029",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 339
+  }
+}

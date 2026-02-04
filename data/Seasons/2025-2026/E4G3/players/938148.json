@@ -1,0 +1,29 @@
+{
+  "player_id": 938148,
+  "name": "Landry Farré",
+  "position": "Lateral derecho",
+  "date_of_birth": "07/01/2007",
+  "nationality": "España",
+  "second_nationality": "Costa de Marfil",
+  "height": "1,79 m",
+  "foot": "Ambidiestro",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 19,
+  "birthplace": "Abidjan",
+  "profile_url": "https://www.transfermarkt.es/landry-farre/profil/spieler/938148",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/938148-1699372459.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 3,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 200
+  }
+}

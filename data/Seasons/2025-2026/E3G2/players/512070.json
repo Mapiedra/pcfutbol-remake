@@ -1,0 +1,29 @@
+{
+  "player_id": 512070,
+  "name": "Ekain Zenitagoia",
+  "position": "Mediapunta",
+  "date_of_birth": "29/04/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,79 m",
+  "foot": "Derecho",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "350mil €Ú",
+  "market_value_numeric": 350000,
+  "age": 31,
+  "birthplace": "Durango",
+  "profile_url": "https://www.transfermarkt.es/ekain-zenitagoia/profil/spieler/512070",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "BestFoot FM",
+  "stats": {
+    "appearances": 22,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1331
+  }
+}

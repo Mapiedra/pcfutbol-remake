@@ -1,0 +1,29 @@
+{
+  "player_id": 435493,
+  "name": "Bambo Diaby",
+  "position": "Defensa central",
+  "date_of_birth": "17/12/1997",
+  "nationality": "España",
+  "second_nationality": "Senegal",
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "800mil €Ú",
+  "market_value_numeric": 800000,
+  "age": 28,
+  "birthplace": "Mataró",
+  "profile_url": "https://www.transfermarkt.es/bambo-diaby/profil/spieler/435493",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/435493-1723551440.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": {
+    "appearances": 4,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 99
+  }
+}

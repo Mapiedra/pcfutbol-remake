@@ -1,0 +1,29 @@
+{
+  "player_id": 1064538,
+  "name": "Ali Houary",
+  "position": "Mediapunta",
+  "date_of_birth": "05/08/2005",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "29",
+  "is_on_loan": 0,
+  "market_value": "300mil €Ú",
+  "market_value_numeric": 300000,
+  "age": 20,
+  "birthplace": "Orihuela",
+  "profile_url": "https://www.transfermarkt.es/ali-houary/profil/spieler/1064538",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "AIS Group",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 91
+  }
+}

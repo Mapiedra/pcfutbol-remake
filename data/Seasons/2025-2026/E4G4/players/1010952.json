@@ -1,0 +1,22 @@
+{
+  "player_id": 1010952,
+  "name": "Stevan Tasic",
+  "position": "Defensa central",
+  "date_of_birth": "29/09/2005",
+  "nationality": "Alemania",
+  "second_nationality": "Serbia",
+  "height": "1,88 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Wuppertal",
+  "profile_url": "https://www.transfermarkt.es/stevan-tasic/profil/spieler/1010952",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1010952-1725899762.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Roberto Garcia Coro",
+  "stats": null
+}

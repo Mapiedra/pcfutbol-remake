@@ -1,0 +1,22 @@
+{
+  "player_id": 646741,
+  "name": "César Fernández",
+  "position": "Portero",
+  "date_of_birth": "28/01/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 22,
+  "birthplace": "O Barco de ...",
+  "profile_url": "https://www.transfermarkt.es/cesar-fernandez/profil/spieler/646741",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Unique Sports Group",
+  "stats": null
+}

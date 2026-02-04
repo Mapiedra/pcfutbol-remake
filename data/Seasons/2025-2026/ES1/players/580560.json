@@ -1,0 +1,29 @@
+{
+  "player_id": 580560,
+  "name": "Jon Pacheco",
+  "position": "Defensa central",
+  "date_of_birth": "08/01/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,84 m",
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "5,00mill. €Ú",
+  "market_value_numeric": 5000000,
+  "age": 25,
+  "birthplace": "Elizondo",
+  "profile_url": "https://www.transfermarkt.es/jon-pacheco/profil/spieler/580560",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/580560-1631178086.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "IDUB GLOBAL",
+  "stats": {
+    "appearances": 15,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1230
+  }
+}

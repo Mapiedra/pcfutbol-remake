@@ -1,0 +1,29 @@
+{
+  "player_id": 706181,
+  "name": "Pablo Olivares",
+  "position": "Mediocentro",
+  "date_of_birth": "17/01/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 24,
+  "birthplace": "Cuenca",
+  "profile_url": "https://www.transfermarkt.es/pablo-olivares/profil/spieler/706181",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/706181-1591178515.JPG?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "33 Sport",
+  "stats": {
+    "appearances": 21,
+    "goals": 1,
+    "assists": 4,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 1654
+  }
+}

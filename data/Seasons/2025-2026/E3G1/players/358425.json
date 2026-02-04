@@ -1,0 +1,29 @@
+{
+  "player_id": 358425,
+  "name": "Gonzalo Di Renzo",
+  "position": "Delantero centro",
+  "date_of_birth": "30/12/1995",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,87 m",
+  "foot": "Ambidiestro",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 30,
+  "birthplace": "Bahía Blanca",
+  "profile_url": "https://www.transfermarkt.es/gonzalo-di-renzo/profil/spieler/358425",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/358425-1582927253.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Creer Group",
+  "stats": {
+    "appearances": 18,
+    "goals": 7,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1561
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 706184,
+  "name": "Dani González",
+  "position": "Delantero centro",
+  "date_of_birth": "18/03/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,89 m",
+  "foot": "Izquierdo",
+  "squad_number": "9",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Albacete",
+  "profile_url": "https://www.transfermarkt.es/dani-gonzalez/profil/spieler/706184",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/706184-1639844270.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "LEADERBROCK",
+  "stats": {
+    "appearances": 14,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 709
+  }
+}

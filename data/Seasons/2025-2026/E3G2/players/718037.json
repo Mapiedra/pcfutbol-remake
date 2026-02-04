@@ -1,0 +1,29 @@
+{
+  "player_id": 718037,
+  "name": "Marcel Sgrò",
+  "position": "Defensa central",
+  "date_of_birth": "27/05/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,90 m",
+  "foot": null,
+  "squad_number": "6",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Barcelona",
+  "profile_url": "https://www.transfermarkt.es/marcel-sgro/profil/spieler/718037",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/718037-1760544832.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "MFC SPORTMANAGEMENT",
+  "stats": {
+    "appearances": 8,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 567
+  }
+}

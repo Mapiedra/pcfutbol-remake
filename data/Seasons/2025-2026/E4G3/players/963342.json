@@ -1,0 +1,29 @@
+{
+  "player_id": 963342,
+  "name": "Marcel Samsó",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "26/03/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "8",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 22,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/marcel-samso/profil/spieler/963342",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 244
+  }
+}

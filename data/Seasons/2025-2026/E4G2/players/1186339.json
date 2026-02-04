@@ -1,0 +1,29 @@
+{
+  "player_id": 1186339,
+  "name": "Izan Muñoz",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "17/03/2007",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Izquierdo",
+  "squad_number": "29",
+  "is_on_loan": 1,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/izan-munoz/profil/spieler/1186339",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1186339-1731959597.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SportySpain",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 9
+  }
+}

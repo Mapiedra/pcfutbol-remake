@@ -1,0 +1,29 @@
+{
+  "player_id": 1177564,
+  "name": "Carlos Becken",
+  "position": "Defensa central",
+  "date_of_birth": "26/07/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 23,
+  "birthplace": "La Palma del Condado",
+  "profile_url": "https://www.transfermarkt.es/carlos-becken/profil/spieler/1177564",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1177564-1732577089.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1800
+  }
+}

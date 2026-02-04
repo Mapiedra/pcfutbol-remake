@@ -1,0 +1,29 @@
+{
+  "player_id": 284855,
+  "name": "Yael Ballesteros",
+  "position": "Mediocentro",
+  "date_of_birth": "07/01/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Izquierdo",
+  "squad_number": "10",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Leganés",
+  "profile_url": "https://www.transfermarkt.es/yael-ballesteros/profil/spieler/284855",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/284855-1734519242.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "VM SPORTS",
+  "stats": {
+    "appearances": 18,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1221
+  }
+}

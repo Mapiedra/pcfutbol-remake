@@ -1,0 +1,29 @@
+{
+  "player_id": 195762,
+  "name": "Víctor García",
+  "position": "Lateral derecho",
+  "date_of_birth": "11/06/1994",
+  "nationality": "Venezuela",
+  "second_nationality": "Portugal",
+  "height": "1,78 m",
+  "foot": "Derecho",
+  "squad_number": "24",
+  "is_on_loan": 0,
+  "market_value": "200mil €Ú",
+  "market_value_numeric": 200000,
+  "age": 31,
+  "birthplace": "Cúa",
+  "profile_url": "https://www.transfermarkt.es/victor-garcia/profil/spieler/195762",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/195762-1732223954.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1023
+  }
+}

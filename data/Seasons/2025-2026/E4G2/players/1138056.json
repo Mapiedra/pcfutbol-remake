@@ -1,0 +1,29 @@
+{
+  "player_id": 1138056,
+  "name": "Endika Iriarte",
+  "position": "Mediapunta",
+  "date_of_birth": "28/04/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": "Derecho",
+  "squad_number": "28",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 21,
+  "birthplace": "Betelu",
+  "profile_url": "https://www.transfermarkt.es/endika-iriarte/profil/spieler/1138056",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1138056-1765914235.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 94
+  }
+}

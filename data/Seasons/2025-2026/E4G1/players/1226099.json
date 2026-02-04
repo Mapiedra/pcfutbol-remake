@@ -1,0 +1,29 @@
+{
+  "player_id": 1226099,
+  "name": "Máximo Levrand",
+  "position": "Defensa central",
+  "date_of_birth": "10/12/2002",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,92 m",
+  "foot": "Ambidiestro",
+  "squad_number": "4",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Funes",
+  "profile_url": "https://www.transfermarkt.es/maximo-levrand/profil/spieler/1226099",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1226099-1716618079.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 2,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 1800
+  }
+}

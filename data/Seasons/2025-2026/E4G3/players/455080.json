@@ -1,0 +1,29 @@
+{
+  "player_id": 455080,
+  "name": "Josemi Castañeda",
+  "position": "Mediocentro",
+  "date_of_birth": "26/02/1998",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 27,
+  "birthplace": "Suances",
+  "profile_url": "https://www.transfermarkt.es/josemi-castaneda/profil/spieler/455080",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/455080-1701462783.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "+Soccer International",
+  "stats": {
+    "appearances": 16,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 8,
+    "red_cards": 0,
+    "minutes_played": 1044
+  }
+}

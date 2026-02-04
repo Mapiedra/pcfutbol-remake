@@ -1,0 +1,29 @@
+{
+  "player_id": 628366,
+  "name": "Lucas Beltrán",
+  "position": "Delantero centro",
+  "date_of_birth": "29/03/2001",
+  "nationality": "Argentina",
+  "second_nationality": "Italia",
+  "height": "1,76 m",
+  "foot": "Derecho",
+  "squad_number": "15",
+  "is_on_loan": 0,
+  "market_value": "8,00mill. €Ú",
+  "market_value_numeric": 8000000,
+  "age": 24,
+  "birthplace": "Córdoba",
+  "profile_url": "https://www.transfermarkt.es/lucas-beltran/profil/spieler/628366",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/628366-1692881138.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Leduar Football",
+  "stats": {
+    "appearances": 18,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 855
+  }
+}

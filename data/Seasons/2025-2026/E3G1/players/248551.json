@@ -1,0 +1,29 @@
+{
+  "player_id": 248551,
+  "name": "Álvaro Ratón",
+  "position": "Portero",
+  "date_of_birth": "29/01/1993",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": "Izquierdo",
+  "squad_number": "1",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 33,
+  "birthplace": "O Carballiño",
+  "profile_url": "https://www.transfermarkt.es/alvaro-raton/profil/spieler/248551",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/248551-1728393724.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "PROTIO SPORT",
+  "stats": {
+    "appearances": 21,
+    "goals": 0,
+    "assists": 2,
+    "yellow_cards": 26,
+    "red_cards": 0,
+    "minutes_played": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1012801,
+  "name": "Yuezheng Du",
+  "position": "Delantero centro",
+  "date_of_birth": "14/09/2005",
+  "nationality": "China",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Derecho",
+  "squad_number": "18",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Datong, Shanxi",
+  "profile_url": "https://www.transfermarkt.es/yuezheng-du/profil/spieler/1012801",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1012801-1728900261.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 9,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 148
+  }
+}

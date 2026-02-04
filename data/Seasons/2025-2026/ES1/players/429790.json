@@ -1,0 +1,29 @@
+{
+  "player_id": 429790,
+  "name": "Luka Ilic",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "02/07/1999",
+  "nationality": "Serbia",
+  "second_nationality": "Yugoslavia (República Federal)",
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "21",
+  "is_on_loan": 0,
+  "market_value": "2,00mill. €Ú",
+  "market_value_numeric": 2000000,
+  "age": 26,
+  "birthplace": "Niš",
+  "profile_url": "https://www.transfermarkt.es/luka-ilic/profil/spieler/429790",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/429790-1725631828.JPG?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 14,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 545
+  }
+}

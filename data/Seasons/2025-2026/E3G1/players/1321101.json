@@ -1,0 +1,29 @@
+{
+  "player_id": 1321101,
+  "name": "Anthony Khayat",
+  "position": "Defensa central",
+  "date_of_birth": "13/02/2007",
+  "nationality": "Emiratos Árabes Unidos",
+  "second_nationality": "Líbano",
+  "height": null,
+  "foot": null,
+  "squad_number": "32",
+  "is_on_loan": 0,
+  "market_value": null,
+  "market_value_numeric": null,
+  "age": 18,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/anthony-khayat/profil/spieler/1321101",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": null,
+  "stats": {
+    "appearances": 5,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 251
+  }
+}

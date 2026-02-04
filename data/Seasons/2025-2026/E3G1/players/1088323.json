@@ -1,0 +1,22 @@
+{
+  "player_id": 1088323,
+  "name": "Javi Sola",
+  "position": "Mediocentro",
+  "date_of_birth": "04/10/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Izquierdo",
+  "squad_number": "26",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 20,
+  "birthplace": "Sangüesa",
+  "profile_url": "https://www.transfermarkt.es/javi-sola/profil/spieler/1088323",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1088323-1709679303.png?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "MESAS SPORT",
+  "stats": null
+}

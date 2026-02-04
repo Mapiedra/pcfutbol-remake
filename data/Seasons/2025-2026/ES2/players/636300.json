@@ -1,0 +1,29 @@
+{
+  "player_id": 636300,
+  "name": "Pablo García",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "05/06/2000",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,78 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "600mil €Ú",
+  "market_value_numeric": 600000,
+  "age": 25,
+  "birthplace": "Gijón",
+  "profile_url": "https://www.transfermarkt.es/pablo-garcia/profil/spieler/636300",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/636300-1760543180.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "LIAN Sports Group",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 418
+  }
+}

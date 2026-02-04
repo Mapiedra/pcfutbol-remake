@@ -1,0 +1,29 @@
+{
+  "player_id": 352607,
+  "name": "Darío García",
+  "position": "Mediocentro",
+  "date_of_birth": "06/05/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": null,
+  "squad_number": "17",
+  "is_on_loan": 0,
+  "market_value": "75mil €Ú",
+  "market_value_numeric": 75000,
+  "age": 31,
+  "birthplace": "Colmenar de Oreja",
+  "profile_url": "https://www.transfermarkt.es/dario-garcia/profil/spieler/352607",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Cebrián Silva",
+  "stats": {
+    "appearances": 1,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 45
+  }
+}

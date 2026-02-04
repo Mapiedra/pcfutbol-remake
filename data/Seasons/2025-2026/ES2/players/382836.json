@@ -1,0 +1,29 @@
+{
+  "player_id": 382836,
+  "name": "Nicolás Benedetti",
+  "position": "Mediocentro ofensivo",
+  "date_of_birth": "25/04/1997",
+  "nationality": "Colombia",
+  "second_nationality": null,
+  "height": "1,77 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "2,20mill. €Ú",
+  "market_value_numeric": 2200000,
+  "age": 28,
+  "birthplace": "Santiago de Cali",
+  "profile_url": "https://www.transfermarkt.es/nicolas-benedetti/profil/spieler/382836",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/382836-1565165023.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 2,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 20
+  }
+}

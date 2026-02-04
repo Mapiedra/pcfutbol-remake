@@ -1,0 +1,29 @@
+{
+  "player_id": 713637,
+  "name": "David Santisteban",
+  "position": "Delantero centro",
+  "date_of_birth": "26/06/2001",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": null,
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "100mil €Ú",
+  "market_value_numeric": 100000,
+  "age": 24,
+  "birthplace": "Murcia",
+  "profile_url": "https://www.transfermarkt.es/david-santisteban/profil/spieler/713637",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/713637-1647594816.png?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ELITE INTERNACIONAL SPORT AGENCY S.L.",
+  "stats": {
+    "appearances": 16,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 1,
+    "minutes_played": 589
+  }
+}

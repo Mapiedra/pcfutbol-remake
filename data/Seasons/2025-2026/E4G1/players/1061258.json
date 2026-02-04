@@ -1,0 +1,29 @@
+{
+  "player_id": 1061258,
+  "name": "Diego Arconada",
+  "position": "Defensa central",
+  "date_of_birth": "16/10/2006",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "5",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 19,
+  "birthplace": "Valladolid",
+  "profile_url": "https://www.transfermarkt.es/diego-arconada/profil/spieler/1061258",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1061258-1732043332.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "MRH Football Agency",
+  "stats": {
+    "appearances": 13,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 1050
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 439022,
+  "name": "Marcão",
+  "position": "Defensa central",
+  "date_of_birth": "05/06/1996",
+  "nationality": "Brasil",
+  "second_nationality": null,
+  "height": "1,85 m",
+  "foot": "Izquierdo",
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "2,50mill. €Ú",
+  "market_value_numeric": 2500000,
+  "age": 29,
+  "birthplace": "Londrina (PR)",
+  "profile_url": "https://www.transfermarkt.es/marcao/profil/spieler/439022",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/439022-1681476532.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Master Talents",
+  "stats": {
+    "appearances": 13,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 937
+  }
+}

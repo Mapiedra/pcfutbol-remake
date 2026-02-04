@@ -1,0 +1,29 @@
+{
+  "player_id": 568155,
+  "name": "Jordi Escobar",
+  "position": "Delantero centro",
+  "date_of_birth": "10/02/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,88 m",
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "Sant Cebrià de ...",
+  "profile_url": "https://www.transfermarkt.es/jordi-escobar/profil/spieler/568155",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/568155-1588836688.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Sports&Life",
+  "stats": {
+    "appearances": 2,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 145
+  }
+}

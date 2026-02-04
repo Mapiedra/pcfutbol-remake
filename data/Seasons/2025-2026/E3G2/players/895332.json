@@ -1,0 +1,29 @@
+{
+  "player_id": 895332,
+  "name": "Antonio David",
+  "position": "Mediocentro",
+  "date_of_birth": "11/10/2005",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 20,
+  "birthplace": "Cádiz",
+  "profile_url": "https://www.transfermarkt.es/antonio-david/profil/spieler/895332",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "ROOF Talents",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 663
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 875306,
+  "name": "Álvaro Leiva",
+  "position": "Mediapunta",
+  "date_of_birth": "28/12/2004",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,73 m",
+  "foot": "Derecho",
+  "squad_number": "39",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 21,
+  "birthplace": "Algeciras",
+  "profile_url": "https://www.transfermarkt.es/alvaro-leiva/profil/spieler/875306",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/875306-1700781213.png?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Bahía Internacional",
+  "stats": {
+    "appearances": 12,
+    "goals": 1,
+    "assists": 0,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 543
+  }
+}

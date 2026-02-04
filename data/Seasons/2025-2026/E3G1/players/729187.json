@@ -1,0 +1,29 @@
+{
+  "player_id": 729187,
+  "name": "Chiqui",
+  "position": "Extremo izquierdo",
+  "date_of_birth": "07/10/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "7",
+  "is_on_loan": 0,
+  "market_value": "250mil €Ú",
+  "market_value_numeric": 250000,
+  "age": 28,
+  "birthplace": "Mérida",
+  "profile_url": "https://www.transfermarkt.es/chiqui/profil/spieler/729187",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/729187-1700515187.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "GG11",
+  "stats": {
+    "appearances": 20,
+    "goals": 1,
+    "assists": 6,
+    "yellow_cards": 2,
+    "red_cards": 1,
+    "minutes_played": 1452
+  }
+}

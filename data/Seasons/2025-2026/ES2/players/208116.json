@@ -1,0 +1,29 @@
+{
+  "player_id": 208116,
+  "name": "Curro Sánchez",
+  "position": "Extremo derecho",
+  "date_of_birth": "03/01/1996",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,76 m",
+  "foot": "Izquierdo",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "1,80mill. €Ú",
+  "market_value_numeric": 1800000,
+  "age": 30,
+  "birthplace": "La Palma del Condado",
+  "profile_url": "https://www.transfermarkt.es/curro-sanchez/profil/spieler/208116",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/208116-1675801826.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "Niagara Sur",
+  "stats": {
+    "appearances": 21,
+    "goals": 3,
+    "assists": 1,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "minutes_played": 1564
+  }
+}

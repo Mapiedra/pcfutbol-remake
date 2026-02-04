@@ -1,0 +1,29 @@
+{
+  "player_id": 526050,
+  "name": "Kervin Arriaga",
+  "position": "Pivote",
+  "date_of_birth": "05/01/1998",
+  "nationality": "Honduras",
+  "second_nationality": null,
+  "height": "1,91 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 28,
+  "birthplace": "Puerto Cortés",
+  "profile_url": "https://www.transfermarkt.es/kervin-arriaga/profil/spieler/526050",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/526050-1710094372.jpg?lm=1",
+  "contract_until": "30/06/2028",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 15,
+    "goals": 1,
+    "assists": 1,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "minutes_played": 974
+  }
+}

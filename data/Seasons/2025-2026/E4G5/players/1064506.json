@@ -1,0 +1,29 @@
+{
+  "player_id": 1064506,
+  "name": "Adam Boayar",
+  "position": "Mediapunta",
+  "date_of_birth": "13/10/2005",
+  "nationality": "Marruecos",
+  "second_nationality": "España",
+  "height": "1,80 m",
+  "foot": "Derecho",
+  "squad_number": "32",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 20,
+  "birthplace": "Melilla",
+  "profile_url": "https://www.transfermarkt.es/adam-boayar/profil/spieler/1064506",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "AS1",
+  "stats": {
+    "appearances": 3,
+    "goals": 3,
+    "assists": 0,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 225
+  }
+}

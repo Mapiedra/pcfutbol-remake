@@ -1,0 +1,29 @@
+{
+  "player_id": 71834,
+  "name": "Aitor Sanz",
+  "position": "Mediocentro",
+  "date_of_birth": "13/09/1984",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,81 m",
+  "foot": "Derecho",
+  "squad_number": "16",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 41,
+  "birthplace": "Madrid",
+  "profile_url": "https://www.transfermarkt.es/aitor-sanz/profil/spieler/71834",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/71834-1544703986.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Gesport Espizua SL",
+  "stats": {
+    "appearances": 20,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 1463
+  }
+}

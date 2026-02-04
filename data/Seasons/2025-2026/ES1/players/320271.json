@@ -1,0 +1,29 @@
+{
+  "player_id": 320271,
+  "name": "Toni Lato",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "21/11/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,71 m",
+  "foot": "Izquierdo",
+  "squad_number": "3",
+  "is_on_loan": 0,
+  "market_value": "1,50mill. €Ú",
+  "market_value_numeric": 1500000,
+  "age": 28,
+  "birthplace": "La Pobla de Vallbona",
+  "profile_url": "https://www.transfermarkt.es/toni-lato/profil/spieler/320271",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/320271-1496906352.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "All Iron Sports",
+  "stats": {
+    "appearances": 6,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 302
+  }
+}

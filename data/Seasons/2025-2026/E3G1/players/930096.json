@@ -1,0 +1,22 @@
+{
+  "player_id": 930096,
+  "name": "Nando Almodóvar",
+  "position": "Portero",
+  "date_of_birth": "03/11/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,92 m",
+  "foot": null,
+  "squad_number": "13",
+  "is_on_loan": 0,
+  "market_value": "50mil €Ú",
+  "market_value_numeric": 50000,
+  "age": 22,
+  "birthplace": "Jerez de la Frontera",
+  "profile_url": "https://www.transfermarkt.es/nando-almodovar/profil/spieler/930096",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "HORIZON SM",
+  "stats": null
+}

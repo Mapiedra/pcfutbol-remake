@@ -1,0 +1,29 @@
+{
+  "player_id": 1065273,
+  "name": "Sergio Pascual",
+  "position": "Lateral izquierdo",
+  "date_of_birth": "10/01/2003",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Izquierdo",
+  "squad_number": "20",
+  "is_on_loan": 0,
+  "market_value": "25mil €Ú",
+  "market_value_numeric": 25000,
+  "age": 23,
+  "birthplace": "Rincón de Soto",
+  "profile_url": "https://www.transfermarkt.es/sergio-pascual/profil/spieler/1065273",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1065273-1732359340.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Global Ases",
+  "stats": {
+    "appearances": 14,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 6,
+    "red_cards": 0,
+    "minutes_played": 967
+  }
+}

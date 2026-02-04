@@ -1,0 +1,29 @@
+{
+  "player_id": 1009941,
+  "name": "Álex García",
+  "position": "Lateral derecho",
+  "date_of_birth": "03/09/2002",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": null,
+  "foot": "Derecho",
+  "squad_number": "2",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 23,
+  "birthplace": "San Lorenzo de la ...",
+  "profile_url": "https://www.transfermarkt.es/alex-garcia/profil/spieler/1009941",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/1009941-1732135543.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SIELLO FOOTBALL GROUP ",
+  "stats": {
+    "appearances": 11,
+    "goals": 0,
+    "assists": 1,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "minutes_played": 738
+  }
+}

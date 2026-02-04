@@ -1,0 +1,29 @@
+{
+  "player_id": 922421,
+  "name": "Jacques Dago",
+  "position": "Delantero centro",
+  "date_of_birth": "10/03/1999",
+  "nationality": "Costa de Marfil",
+  "second_nationality": "Francia",
+  "height": "1,87 m",
+  "foot": "Derecho",
+  "squad_number": "19",
+  "is_on_loan": 0,
+  "market_value": "150mil €Ú",
+  "market_value_numeric": 150000,
+  "age": 26,
+  "birthplace": null,
+  "profile_url": "https://www.transfermarkt.es/jacques-dago/profil/spieler/922421",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "SL Management Group",
+  "stats": {
+    "appearances": 19,
+    "goals": 2,
+    "assists": 0,
+    "yellow_cards": 5,
+    "red_cards": 0,
+    "minutes_played": 967
+  }
+}

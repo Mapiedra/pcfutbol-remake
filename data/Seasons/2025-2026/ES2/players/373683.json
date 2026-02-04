@@ -1,0 +1,29 @@
+{
+  "player_id": 373683,
+  "name": "Diego Alende",
+  "position": "Defensa central",
+  "date_of_birth": "25/08/1997",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,83 m",
+  "foot": null,
+  "squad_number": "23",
+  "is_on_loan": 0,
+  "market_value": "500mil €Ú",
+  "market_value_numeric": 500000,
+  "age": 28,
+  "birthplace": "Santiago de ...",
+  "profile_url": "https://www.transfermarkt.es/diego-alende/profil/spieler/373683",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+  "contract_until": "30/06/2027",
+  "international_caps": null,
+  "agent": "F.J.VILLAVERDE",
+  "stats": {
+    "appearances": 7,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0,
+    "minutes_played": 360
+  }
+}

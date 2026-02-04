@@ -1,0 +1,29 @@
+{
+  "player_id": 326416,
+  "name": "Dani Calvo",
+  "position": "Defensa central",
+  "date_of_birth": "01/04/1994",
+  "nationality": "España",
+  "second_nationality": null,
+  "height": "1,93 m",
+  "foot": "Derecho",
+  "squad_number": "12",
+  "is_on_loan": 0,
+  "market_value": "1,00mill. €Ú",
+  "market_value_numeric": 1000000,
+  "age": 31,
+  "birthplace": "Huesca",
+  "profile_url": "https://www.transfermarkt.es/dani-calvo/profil/spieler/326416",
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/header/326416-1600756477.jpg?lm=1",
+  "contract_until": "30/06/2026",
+  "international_caps": null,
+  "agent": "Wasserman",
+  "stats": {
+    "appearances": 9,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 3,
+    "red_cards": 0,
+    "minutes_played": 704
+  }
+}
