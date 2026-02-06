@@ -6,8 +6,8 @@ import { appState } from './core/AppState.js'
 import { screenManager } from './core/ScreenManager.js'
 import { MainMenuScreen } from './screens/MainMenuScreen.js'
 import { DashboardScreen } from './screens/DashboardScreen.js'
+import { createHeader } from './components/Header.js'
 import { showWelcomeMessage } from './utils/welcome.js'
-import './styles/global.css'
 
 /**
  * Inicializa la aplicación
@@ -24,6 +24,13 @@ function initializeApp() {
   // Limpiar consola en producción
   if (CONFIG.isProduction) {
     console.clear()
+  }
+
+  // Renderizar Header global
+  const header = createHeader()
+  const appContainer = document.getElementById('app')
+  if (appContainer) {
+    document.body.insertBefore(header, appContainer)
   }
 
   // Mostrar bienvenida (solo en desarrollo)

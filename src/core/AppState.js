@@ -8,6 +8,52 @@ class AppState {
     this.screenParams = {}
     this.gameState = null
     this.isInitialized = false
+    this.settings = {
+      music: { volume: 80, muted: false },
+      effects: { volume: 100, muted: false },
+      voices: { volume: 100, muted: false }
+    }
+    this.loadSettings()
+  }
+
+  /**
+   * Guarda la configuración en localStorage
+   */
+  saveSettings() {
+    try {
+      localStorage.setItem('pcfutbol_settings', JSON.stringify(this.settings))
+      console.log('[AppState] Configuración guardada')
+    } catch (error) {
+      console.error('[AppState] Error al guardar configuración:', error)
+    }
+  }
+
+  /**
+   * Carga la configuración desde localStorage
+   */
+  loadSettings() {
+    try {
+      const saved = localStorage.getItem('pcfutbol_settings')
+      if (saved) {
+        // Merge profundo simple para asegurar que nuevos settings tengan valor default
+        const parsed = JSON.parse(saved)
+        this.settings = { ...this.settings, ...parsed }
+      }
+    } catch (error) {
+      console.error('[AppState] Error al cargar configuración:', error)
+    }
+  }
+
+  /**
+   * Actualiza una configuración específica
+   * @param {string} category - 'music', 'effects', 'voices'
+   * @param {object} values - { volume, muted }
+   */
+  updateSetting(category, values) {
+    if (this.settings[category]) {
+      this.settings[category] = { ...this.settings[category], ...values }
+      this.saveSettings()
+    }
   }
 
   /**

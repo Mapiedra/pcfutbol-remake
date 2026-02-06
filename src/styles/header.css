@@ -1,0 +1,74 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    margin: 0;
+    background-color: #bfc3cf;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    /* Configuración para menú desplegable */
+    z-index: 1000;
+    transform: translateY(-100%);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+header.visible {
+    transform: translateY(0);
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+header ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header ul li a:hover {
+    color: #1e40af;
+}
+
+header ul li a:active {
+    color: #1e40af;
+}
+
+header ul li a:focus {
+    color: #1e40af;
+}
+
+header ul li a:visited {
+    color: #1e40af;
+}
+
+header ul li a:link {
+    color: #1e40af;
+}
+
+/* Estilos para el botón de configuración en el header */
+.header-icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.header-icon-btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}

@@ -1,0 +1,105 @@
+.settings-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 0.5rem 0;
+
+    .setting-row {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        background-color: #f8fafc;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        border: 1px solid #e2e8f0;
+
+        .setting-icon {
+            font-size: 1.5rem;
+            width: 2.5rem;
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #fff;
+            border-radius: 50%;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .setting-info {
+            flex-grow: 1;
+            position: relative;
+
+            .setting-label {
+                position: absolute;
+                top: -15px;
+                left: 0;
+                font-weight: 500;
+                font-size: 0.95rem;
+                color: #334155;
+            }
+
+            .setting-slider {
+                width: 100%;
+                height: 6px;
+                background: #cbd5e1;
+                border-radius: 3px;
+                outline: none;
+                -webkit-appearance: none;
+
+                &::-webkit-slider-thumb {
+                    -webkit-appearance: none;
+                    width: 18px;
+                    height: 18px;
+                    background: #1e40af;
+                    border-radius: 50%;
+                    cursor: pointer;
+                    transition: background 0.2s;
+
+                    &:hover {
+                        background: #1e3a8a;
+                    }
+                }
+            }
+        }
+
+        .setting-toggle {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 1.5rem;
+            height: 1.5rem;
+            cursor: pointer;
+            background-color: #ef4444;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            border: 1px solid #dc2626;
+            position: relative;
+
+            &:not(:checked) {
+                background-color: #cbd5e1;
+                border-color: #1e3a8a;
+            }
+
+            &:checked::after {
+                content: '✖';
+                color: white;
+                font-size: 0.8rem;
+                font-weight: bold;
+            }
+        }
+
+        &.disabled {
+            .setting-icon {
+                opacity: 0.5;
+                pointer-events: none;
+            }
+
+            .setting-info {
+                opacity: 0.5;
+                pointer-events: none;
+            }
+        }
+    }
+}
