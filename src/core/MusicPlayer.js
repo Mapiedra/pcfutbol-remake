@@ -37,6 +37,9 @@ class MusicPlayer {
                 // Aplicar configuración inicial
                 this.applySettings()
 
+                // Configurar arranque con interacción de usuario (para navegadores que bloquean autoplay)
+                this.setupAutoplayHandlers()
+
                 // Suscribirse a cambios en AppState
                 appState.subscribe((event, data) => {
                     if (event === 'settingChanged' && data.category === 'music') {
@@ -60,6 +63,52 @@ class MusicPlayer {
             }
         } catch (error) {
             Logger.warn('[MusicPlayer] Error al inicializar:', error)
+        }
+    }
+
+    /**
+     * Configura listeners para iniciar el audio con la primera interacción del usuario
+     * Necesario para políticas de autoplay de navegadores
+     */
+    setupAutoplayHandlers() {
+        const handleInteraction = () => {
+            // Si ya está sonando, solo limpiamos
+            if (this.isPlaying && !this.audio.paused) {
+                this.cleanupAutoplayHandlers(handleInteraction)
+                return
+            }
+
+            // Si no está muteado y no está sonando, intentamos reproducir
+            if (!appState.settings.music.muted) {
+                Logger.debug('[MusicPlayer] Intentando reproducir por interacción de usuario')
+                if (this.currentTrack) {
+                    this.play()
+                } else {
+                    this.playRandom()
+                }
+            }
+
+            // Limpiamos los listeners después del primer intento
+            this.cleanupAutoplayHandlers(handleInteraction)
+        }
+
+        // Guardamos la referencia para poder removerlos
+        this.interactionHandler = handleInteraction
+
+        document.addEventListener('click', handleInteraction)
+        document.addEventListener('keydown', handleInteraction)
+        document.addEventListener('touchstart', handleInteraction)
+    }
+
+    /**
+     * Limpia los listeners de interacción
+     */
+    cleanupAutoplayHandlers(handler) {
+        const h = handler || this.interactionHandler
+        if (h) {
+            document.removeEventListener('click', h)
+            document.removeEventListener('keydown', h)
+            document.removeEventListener('touchstart', h)
         }
     }
 
