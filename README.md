@@ -31,7 +31,7 @@ Este es un proyecto impulsado por la comunidad. ¡Tu ayuda es fundamental!
 
 1.  **Consulta nuestro Roadmap**: Para ver la planificación general y las próximas características, visita nuestro **[Tablero de Proyectos en GitHub](https://github.com/mapiedra/pcfutbol-remake/projects)**.
 2.  **Encuentra una tarea**: Explora los **[Issues abiertos](https://github.com/mapiedra/pcfutbol-remake/issues)** para encontrar bugs por resolver o características en las que puedas trabajar.
-3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/6.-Guía-de-desarrollo)** para entender el flujo de trabajo.
+3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Guia-de-desarrollo)** para entender el flujo de trabajo.
 
 Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirte a las [Discussions](https://github.com/mapiedra/pcfutbol-remake/discussions)!
 
@@ -62,15 +62,19 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor, lee nuestra
 
 Tenemos una documentación completa en nuestra **[Wiki del Proyecto](https://github.com/Mapiedra/pcfutbol-remake/wiki)**.
 
-1. [Descripción](https://github.com/Mapiedra/pcfutbol-remake/wiki/1.‐Descripción)
-2. [Equipo](https://github.com/Mapiedra/pcfutbol-remake/wiki/2.‐Equipo)
-3. [Tecnología](https://github.com/Mapiedra/pcfutbol-remake/wiki/3.‐Tecnología)
-4. [Arquitectura](https://github.com/Mapiedra/pcfutbol-remake/wiki/4.‐Arquitectura)
-5. [Planteamiento](https://github.com/Mapiedra/pcfutbol-remake/wiki/5.‐Planteamiento)
-6. [Guía de desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/6.-Guía-de-desarrollo)
-7. [Publicación](https://github.com/Mapiedra/pcfutbol-remake/wiki/7.-Publicación)
-8. [Roadmap](https://github.com/Mapiedra/pcfutbol-remake/wiki/8.‐Roadmap)
-9. [FAQ](https://github.com/Mapiedra/pcfutbol-remake/wiki/9.‐FAQ)
+### 📖 Documentación General (Para todos)
+- [Descripción del Proyecto](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Descripcion) - ¿Qué es PC Fútbol Remake?
+- [El Equipo](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Equipo) - Quiénes somos y cómo colaborar
+- [Roadmap](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Roadmap) - Planificación y próximas características
+- [FAQ](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/FAQ) - Preguntas frecuentes
+
+### ⚙️ Documentación Técnica (Para desarrolladores)
+- [Tecnología](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Tecnologia) - Stack tecnológico
+- [Arquitectura](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Arquitectura) - Diseño y estructura
+- [Planteamiento](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Planteamiento) - Filosofía y metodología
+- [Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Guia-de-desarrollo) - Cómo empezar a contribuir
+- [Publicación](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Publicacion) - Proceso de deployment
+- [Sistema de Audio](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Audio_Settings_System) - Documentación técnica del sistema de audio
 
 ---
 
