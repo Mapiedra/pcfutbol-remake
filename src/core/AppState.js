@@ -8,6 +8,7 @@ class AppState {
     this.screenParams = {}
     this.gameState = null
     this.isInitialized = false
+    this.listeners = []
     this.settings = {
       music: { volume: 80, muted: false },
       effects: { volume: 100, muted: false },
@@ -45,6 +46,25 @@ class AppState {
   }
 
   /**
+   * Suscribe una función a los cambios de estado
+   * @param {Function} callback - Función a ejecutar cuando cambia el estado
+   * @returns {Function} - Función para cancelar la suscripción
+   */
+  subscribe(callback) {
+    this.listeners.push(callback)
+    return () => this.listeners = this.listeners.filter(l => l !== callback)
+  }
+
+  /**
+   * Notifica a los suscriptores de un cambio de estado
+   * @param {string} event - Tipo de evento
+   * @param {object} data - Datos del evento
+   */
+  notify(event, data) {
+    this.listeners.forEach(callback => callback(event, data))
+  }
+
+  /**
    * Actualiza una configuración específica
    * @param {string} category - 'music', 'effects', 'voices'
    * @param {object} values - { volume, muted }
@@ -53,6 +73,7 @@ class AppState {
     if (this.settings[category]) {
       this.settings[category] = { ...this.settings[category], ...values }
       this.saveSettings()
+      this.notify('settingChanged', { category, setting: this.settings[category] })
     }
   }
 

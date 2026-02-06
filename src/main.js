@@ -3,6 +3,7 @@
  */
 import { CONFIG, Logger, Browser, Device } from './config.js'
 import { appState } from './core/AppState.js'
+import { musicPlayer } from './core/MusicPlayer.js'
 import { screenManager } from './core/ScreenManager.js'
 import { MainMenuScreen } from './screens/MainMenuScreen.js'
 import { DashboardScreen } from './screens/DashboardScreen.js'
@@ -62,6 +63,9 @@ function initializeApp() {
     Logger.info('Analytics inicializado')
     // TODO: Agregar Google Analytics, Mixpanel, etc
   }
+
+  // 🎵 Inicializar música de fondo
+  musicPlayer.init()
 }
 
 // Inicializar la aplicación
