@@ -2,6 +2,7 @@
  * ScreenManager - Gestiona las pantallas y su renderizado
  */
 import { appState } from './AppState.js'
+import { soundEffects } from './SoundEffects.js'
 
 class ScreenManager {
   constructor() {
@@ -40,6 +41,9 @@ class ScreenManager {
     container.innerHTML = ''
     this.currentScreenInstance = screenComponent(appState.screenParams)
     container.appendChild(this.currentScreenInstance)
+
+    // Vincular efectos de sonido automáticamente a botones y elementos clickables
+    soundEffects.attachToSelectors('button, .clickable, a')
 
     console.log(`[ScreenManager] Pantalla renderizada: ${screenName}`)
   }

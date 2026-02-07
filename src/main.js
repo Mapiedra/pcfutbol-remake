@@ -3,6 +3,7 @@
  */
 import { CONFIG, Logger, Browser, Device } from './config.js'
 import { appState } from './core/AppState.js'
+import { soundEffects } from './core/SoundEffects.js'
 import { musicPlayer } from './core/MusicPlayer.js'
 import { screenManager } from './core/ScreenManager.js'
 import { MainMenuScreen } from './screens/MainMenuScreen.js'
@@ -53,8 +54,9 @@ function initializeApp() {
   if (CONFIG.enableTimeTravel) {
     window.appState = appState
     window.screenManager = screenManager
+    window.soundEffects = soundEffects
     Logger.debug('Time-travel debugging habilitado', {
-      acceso: 'window.appState y window.screenManager en consola',
+      acceso: 'window.appState, window.screenManager y window.soundEffects en consola',
     })
   }
 
