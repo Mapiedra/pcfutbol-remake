@@ -2,11 +2,11 @@
 
 Juego de gestión de fútbol inspirado en el clásico PC Fútbol 7, remasterizado.
 
-[![Estado del Deploy](https://img.shields.io/github/deployments/mapiedra/pcfutbol-remake/production?label=vercel&logo=vercel)](https://pcfubtol.vercel.app)
+[![Estado del Deploy](https://img.shields.io/github/deployments/mapiedra/pcfutbol-remake/production?label=vercel&logo=vercel)](https://pcfutbol-remake.vercel.app)
 [![GitHub issues](https://img.shields.io/github/issues/mapiedra/pcfutbol-remake)](https://github.com/mapiedra/pcfutbol-remake/issues)
 [![Licencia](https://img.shields.io/github/license/mapiedra/pcfutbol-remake)](./LICENSE.md)
 
-**Juega ahora sin instalar: [pcfubtol.vercel.app](https://pcfubtol.vercel.app)**
+**Juega ahora sin instalar: [pcfutbol-remake.vercel.app](https://pcfutbol-remake.vercel.app)**
 
 ## 🚀 Empezar en 2 Minutos
 
@@ -31,7 +31,7 @@ Este es un proyecto impulsado por la comunidad. ¡Tu ayuda es fundamental!
 
 1.  **Consulta nuestro Roadmap**: Para ver la planificación general y las próximas características, visita nuestro **[Tablero de Proyectos en GitHub](https://github.com/mapiedra/pcfutbol-remake/projects)**.
 2.  **Encuentra una tarea**: Explora los **[Issues abiertos](https://github.com/mapiedra/pcfutbol-remake/issues)** para encontrar bugs por resolver o características en las que puedas trabajar.
-3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Guia-de-desarrollo)** para entender el flujo de trabajo.
+3.  **Lee la Guía de Desarrollo**: Antes de empezar, asegúrate de leer nuestra **[Guía de Desarrollo](./wiki/tecnico/guia-desarrollo.md)** para entender el flujo de trabajo.
 
 Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirte a las [Discussions](https://github.com/mapiedra/pcfutbol-remake/discussions)!
 
@@ -63,18 +63,18 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor, lee nuestra
 Tenemos una documentación completa en nuestra **[Wiki del Proyecto](https://github.com/Mapiedra/pcfutbol-remake/wiki)**.
 
 ### 📖 Documentación General (Para todos)
-- [Descripción del Proyecto](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Descripcion) - ¿Qué es PC Fútbol Remake?
-- [El Equipo](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Equipo) - Quiénes somos y cómo colaborar
-- [Roadmap](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/Roadmap) - Planificación y próximas características
-- [FAQ](https://github.com/Mapiedra/pcfutbol-remake/wiki/General/FAQ) - Preguntas frecuentes
+- [Descripción del Proyecto](./wiki/general/descripcion.md) - ¿Qué es PC Fútbol Remake?
+- [El Equipo](./wiki/general/equipo.md) - Quiénes somos y cómo colaborar
+- [Roadmap](./wiki/general/roadmap.md) - Planificación y próximas características
+- [FAQ](./wiki/general/faq.md) - Preguntas frecuentes
 
 ### ⚙️ Documentación Técnica (Para desarrolladores)
-- [Tecnología](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Tecnologia) - Stack tecnológico
-- [Arquitectura](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Arquitectura) - Diseño y estructura
-- [Planteamiento](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Planteamiento) - Filosofía y metodología
-- [Guía de Desarrollo](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Guia-de-desarrollo) - Cómo empezar a contribuir
-- [Publicación](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Publicacion) - Proceso de deployment
-- [Sistema de Audio](https://github.com/Mapiedra/pcfutbol-remake/wiki/Tecnico/Audio_Settings_System) - Documentación técnica del sistema de audio
+- [Tecnología](./wiki/tecnico/tecnologia.md) - Stack tecnológico
+- [Arquitectura](./wiki/tecnico/arquitectura.md) - Diseño y estructura
+- [Planteamiento](./wiki/tecnico/planteamiento.md) - Filosofía y metodología
+- [Guía de Desarrollo](./wiki/tecnico/guia-desarrollo.md) - Cómo empezar a contribuir
+- [Sistema de Audio](./wiki/tecnico/sistema-audio.md) - Documentación técnica del sistema de audio
+- [Publicación](./wiki/tecnico/publicacion.md) - Proceso de deployment
 
 ---
 
