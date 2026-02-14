@@ -35,6 +35,17 @@ export function createSettings() {
         // unchecked = Sound On = Activado
         toggle.checked = currentSettings.muted
 
+        // Selector de Carpeta (Solo para Música)
+        const select = row.querySelector('.setting-select')
+        if (select && category === 'music') {
+            select.value = currentSettings.folder || 'original'
+
+            select.addEventListener('change', (e) => {
+                const folder = e.target.value
+                appState.updateSetting('music', { folder: folder })
+            })
+        }
+
         // Aplicar estado visual inicial (disabled si está muted)
         updateVisualState(row, currentSettings.muted)
 

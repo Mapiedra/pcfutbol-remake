@@ -10,6 +10,7 @@ class MusicPlayer {
         this.audio = new Audio()
         this.playlist = []
         this.basePath = '/assets/music/'
+        this.currentFolder = appState.settings.music.folder || 'PC-Futbol-Remake'
         this.currentTrack = null
         this.isPlaying = false
 
@@ -22,17 +23,18 @@ class MusicPlayer {
      */
     async init() {
         try {
-            // Cargar playlist
-            const response = await fetch(`${this.basePath}playlist.json`)
+            // Cargar playlist según la carpeta seleccionada
+            const folderPath = `${this.basePath}${this.currentFolder}/`
+            const response = await fetch(encodeURI(`${folderPath}playlist.json`))
             if (!response.ok) {
-                throw new Error(`No se pudo cargar playlist.json: ${response.statusText}`)
+                throw new Error(`No se pudo cargar playlist.json en ${this.currentFolder}: ${response.statusText}`)
             }
-
+            Logger.debug(`[MusicPlayer] Cargando playlist desde: ${folderPath}`)
             const files = await response.json()
 
             if (Array.isArray(files) && files.length > 0) {
                 this.playlist = files
-                Logger.info(`[MusicPlayer] Playlist cargada: ${this.playlist.length} canciones`)
+                Logger.info(`[MusicPlayer] Playlist cargada (${this.currentFolder}): ${this.playlist.length} canciones`)
 
                 // Aplicar configuración inicial
                 this.applySettings()
@@ -120,7 +122,17 @@ class MusicPlayer {
         // 1. Actualizar volumen
         this.audio.volume = settings.volume / 100
 
-        // 2. Manejar Mute/Unmute
+        // 2. Manejar Cambio de Carpeta
+        if (settings.folder && settings.folder !== this.currentFolder) {
+            Logger.info(`[MusicPlayer] Cambiando carpeta de música a: ${settings.folder}`)
+            this.currentFolder = settings.folder
+            this.isPlaying = false
+            this.audio.pause()
+            this.init() // Recargar playlist y empezar de nuevo
+            return // init se encarga del resto
+        }
+
+        // 3. Manejar Mute/Unmute
         if (settings.muted) {
             if (!this.audio.paused) {
                 this.audio.pause()
@@ -169,7 +181,7 @@ class MusicPlayer {
         } while (this.playlist.length > 1 && nextTrack === this.currentTrack && attempts < 5)
 
         this.currentTrack = nextTrack
-        this.audio.src = `${this.basePath}${this.currentTrack}`
+        this.audio.src = encodeURI(`${this.basePath}${this.currentFolder}/${this.currentTrack}`)
 
         // Solo reproducir si NO está muteado
         if (!appState.settings.music.muted) {

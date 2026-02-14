@@ -10,7 +10,7 @@ class AppState {
     this.isInitialized = false
     this.listeners = []
     this.settings = {
-      music: { volume: 80, muted: false },
+      music: { volume: 100, muted: false, folder: 'PC-Futbol-Remake' },
       effects: { volume: 100, muted: false },
       voices: { volume: 100, muted: false }
     }
