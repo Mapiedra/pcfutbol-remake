@@ -23,6 +23,21 @@ npm run dev
 ```
 Ahora, abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
+### 📱 Desarrollo Android
+
+¿Quieres trabajar con la versión Android? Consulta nuestra [Guía de Capacitor](CAPACITOR.md).
+
+```bash
+# Build del proyecto web
+npm run build
+
+# Sincronizar con Capacitor
+npx cap sync
+
+# Abrir en Android Studio
+npx cap open android
+```
+
 ---
 
 ## 🗺️ Roadmap y Contribuciones
@@ -41,6 +56,7 @@ Si tienes ideas o quieres proponer cambios, ¡no dudes en crear un Issue o unirt
 
 -   **Interfaz Moderna**: Inspirada en el clásico, pero con un diseño limpio y actual.
 -   **PWA Instalable**: Instala el juego en tu escritorio o móvil para acceso sin conexión.
+-   **App Nativa Android**: Build nativa para Android con Capacitor (ver [CAPACITOR.md](CAPACITOR.md)).
 -   **Rendimiento**: Construido con Vanilla JS para ser extremadamente ligero y rápido.
 -   **Código Abierto**: Totalmente transparente, auditable y abierto a contribuciones.
 
@@ -87,6 +103,7 @@ Tenemos una documentación completa en nuestra **[Wiki del Proyecto](https://git
 | **Testing** | Vitest |
 | **Estilos** | CSS Vanilla con Variables |
 | **Almacenamiento Local** | `sessionStorage` e `IndexedDB` |
+| **Apps Nativas** | Capacitor |
 | **Despliegue** | Vercel |
 
 ---

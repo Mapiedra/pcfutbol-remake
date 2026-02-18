@@ -23,5 +23,30 @@ yarn-debug.log*
 coverage/
 .vitest/
 
+# Capacitor
+.capacitor/
+*.orig
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/build/
+android/app/release/
+android/app/debug/
+android/build/
+android/local.properties
+android/.cxx/
+android/captures/
+android/*.iml
+android/.externalNativeBuild/
+android/.DS_Store
+
+# iOS (por si se añade en el futuro)
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/App/*.xcworkspace/xcuserdata/
+ios/App/*.xcodeproj/xcuserdata/
+
 # Misc
 .turbo/
