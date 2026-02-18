@@ -164,6 +164,58 @@ Para desarrollo con recarga en vivo:
 
 ---
 
+## 🎨 Personalizar Iconos y Splash Screens
+
+### Generar Assets Automáticamente
+
+El proyecto incluye iconos personalizados. Para regenerarlos o crear nuevos:
+
+1. **Coloca tu icono fuente** en `resources/icon.png`:
+   - Tamaño mínimo: 512x512 px
+   - Tamaño recomendado: 1024x1024 px
+   - Formato: PNG con fondo transparente o de color
+
+2. **Opcionalmente, añade splash screen** en `resources/splash.png`:
+   - Tamaño recomendado: 2732x2732 px
+   - El logo debe estar centrado con margen
+   - Formato: PNG
+
+3. **Genera los assets**:
+   ```bash
+   # Instalar la herramienta (si no está instalada)
+   npm install --save-dev @capacitor/assets
+
+   # Generar assets para Android
+   npx @capacitor/assets generate --android
+
+   # O para todas las plataformas
+   npx @capacitor/assets generate
+   ```
+
+Esto generará automáticamente:
+- ✅ Iconos en todas las densidades (ldpi, mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi)
+- ✅ Iconos adaptativos (adaptive icons) para Android 8+
+- ✅ Splash screens en todas las orientaciones
+- ✅ Versiones para modo claro y oscuro
+
+### Personalización Manual
+
+Si prefieres personalizar manualmente:
+
+**Iconos**: Coloca tus iconos en las carpetas:
+- `android/app/src/main/res/mipmap-mdpi/ic_launcher.png` (48x48)
+- `android/app/src/main/res/mipmap-hdpi/ic_launcher.png` (72x72)
+- `android/app/src/main/res/mipmap-xhdpi/ic_launcher.png` (96x96)
+- `android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png` (144x144)
+- `android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png` (192x192)
+
+**Splash Screens**: Coloca tus splash screens en:
+- `android/app/src/main/res/drawable/splash.png`
+- `android/app/src/main/res/drawable-port-*/splash.png` (portrait)
+- `android/app/src/main/res/drawable-land-*/splash.png` (landscape)
+
+---
+
 ## 🚀 Build para Producción
 
 ### Generar APK (Debug)

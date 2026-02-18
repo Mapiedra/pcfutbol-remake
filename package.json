@@ -14,9 +14,13 @@
   },
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
+    "@capacitor/android": "^8.1.0",
+    "@capacitor/core": "^8.1.0",
     "jquery": "^3.7.1"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.1.0",
     "@vitejs/plugin-basic-ssl": "^1.1.0",
     "eslint": "^8.55.0",
     "terser": "^5.46.0",
