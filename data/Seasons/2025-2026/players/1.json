@@ -15,13 +15,18 @@
 	"capabilities" : {
 		"velocidad": 90,
 		"resistencia": 90,
-		...
+		"calidad": 90,
+		"agresividad": 90,
 	},
 	"skills": {
+		"forma": 90,
+		"moral": 90,
 		"portero": 10,
 		"pase": 70,
+		"regate": 90,
+		"remate": 90,
+		"entradas": 90,
 		"tiro": 90,
-		.....
 	},
 	"statistics": {
 		.......		
